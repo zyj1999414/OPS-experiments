@@ -1,0 +1,2 @@
+{"algorithm": "EFO-OPS", "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/OPS-data-main9/01_industrial_cwru/01_industrial_cwru_800KB.f64", "data_length": 100000, "source_series": 1, "window": 15000, "step": 1500, "minsup": 40, "count_semantics": "frequent patterns", "windows": 29, "patterns_total": 11274, "patterns_min": 378, "patterns_max": 397, "candidates_total": 19508, "elapsed_seconds": 12.563616209, "patterns_mean_per_window": 388.7586206896552, "peak_rss_bytes": 37494784, "peak_rss_mib": 35.7578125, "candidates_mean_per_window": 672.6896551724138}
+

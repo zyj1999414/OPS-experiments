@@ -1,0 +1,17 @@
+{
+  "algorithm": "OPS-Miner",
+  "dataset": "OPS-data-main9/08_seismic_earthscope/08_seismic_earthscope_1GiB.f64",
+  "data_length": 134217728,
+  "source_series": 1,
+  "window": 8640000,
+  "step": 864000,
+  "minsup": 864,
+  "windows": 146,
+  "patterns_total": 1135769,
+  "patterns_min": 3206,
+  "patterns_max": 18063,
+  "patterns_mean_per_window": 7779.239726027397,
+  "elapsed_seconds": 311.214427292,
+  "peak_rss_bytes": 2550370304,
+  "peak_rss_mib": 2432.22265625
+}

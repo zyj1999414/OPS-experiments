@@ -1,0 +1,412 @@
+[
+  {
+    "dataset": "SDB4_Metro_Traffic",
+    "data_length": 48204,
+    "window": 4422,
+    "step": 442,
+    "overlap": 0.9000452284034374,
+    "minsup": 3,
+    "target_windows": 100,
+    "algorithms": {
+      "Original-Combined": {
+        "status": "complete",
+        "completed_runs": 5,
+        "times_seconds": [
+          0.358738334,
+          0.370602625,
+          0.343884292,
+          0.36570791700000005,
+          0.344252875
+        ],
+        "median_seconds": 0.358738334,
+        "peak_rss_mib_values": [
+          38.04296875,
+          38.69140625,
+          37.8203125,
+          37.8671875,
+          37.7734375
+        ],
+        "median_peak_rss_mib": 37.8671875,
+        "windows": 100,
+        "patterns_total": 153693,
+        "patterns_mean_per_window": 1536.93
+      },
+      "OPS-NoReuse": {
+        "status": "complete",
+        "completed_runs": 5,
+        "times_seconds": [
+          0.443850709,
+          0.441368625,
+          0.40850991700000006,
+          0.44651199999999996,
+          0.43370066599999996
+        ],
+        "median_seconds": 0.441368625,
+        "peak_rss_mib_values": [
+          38.52734375,
+          38.5546875,
+          37.17578125,
+          37.97265625,
+          37.2265625
+        ],
+        "median_peak_rss_mib": 37.97265625,
+        "windows": 100,
+        "patterns_total": 153693,
+        "patterns_mean_per_window": 1536.93
+      },
+      "WOPP-Miner": {
+        "status": "complete",
+        "completed_runs": 5,
+        "times_seconds": [
+          1.156360292,
+          1.160793542,
+          1.181712083,
+          1.185497875,
+          1.205314958
+        ],
+        "median_seconds": 1.181712083,
+        "peak_rss_mib_values": [
+          29.5625,
+          29.91015625,
+          30.05859375,
+          30.03125,
+          29.5078125
+        ],
+        "median_peak_rss_mib": 29.91015625,
+        "windows": 100,
+        "patterns_total": 153647,
+        "patterns_mean_per_window": 1536.47
+      }
+    },
+    "reuse_speedup_vs_noreuse": 1.2303358274502105,
+    "reuse_speedup_vs_wopp": 3.294078081435256
+  },
+  {
+    "dataset": "SDB5_OpenAQ_PM25",
+    "data_length": 10000,
+    "window": 914,
+    "step": 91,
+    "overlap": 0.9004376367614879,
+    "minsup": 3,
+    "target_windows": 100,
+    "algorithms": {
+      "Original-Combined": {
+        "status": "complete",
+        "completed_runs": 5,
+        "times_seconds": [
+          0.065214458,
+          0.07446170899999999,
+          0.065235833,
+          0.08366008300000001,
+          0.075579958
+        ],
+        "median_seconds": 0.07446170899999999,
+        "peak_rss_mib_values": [
+          27.890625,
+          28.10546875,
+          28.125,
+          28.0234375,
+          27.82421875
+        ],
+        "median_peak_rss_mib": 28.0234375,
+        "windows": 100,
+        "patterns_total": 17878,
+        "patterns_mean_per_window": 178.78
+      },
+      "OPS-NoReuse": {
+        "status": "complete",
+        "completed_runs": 5,
+        "times_seconds": [
+          0.08533829200000001,
+          0.07736866699999999,
+          0.094107417,
+          0.083848541,
+          0.083414667
+        ],
+        "median_seconds": 0.083848541,
+        "peak_rss_mib_values": [
+          27.96484375,
+          28.01171875,
+          28.1328125,
+          27.96875,
+          28.1953125
+        ],
+        "median_peak_rss_mib": 28.01171875,
+        "windows": 100,
+        "patterns_total": 17878,
+        "patterns_mean_per_window": 178.78
+      },
+      "WOPP-Miner": {
+        "status": "complete",
+        "completed_runs": 5,
+        "times_seconds": [
+          0.287871459,
+          0.273166625,
+          0.27116137500000004,
+          0.27192125,
+          0.26868554200000005
+        ],
+        "median_seconds": 0.27192125,
+        "peak_rss_mib_values": [
+          26.02734375,
+          26.3125,
+          26.25390625,
+          26.125,
+          26.3203125
+        ],
+        "median_peak_rss_mib": 26.25390625,
+        "windows": 100,
+        "patterns_total": 17863,
+        "patterns_mean_per_window": 178.63
+      }
+    },
+    "reuse_speedup_vs_noreuse": 1.1260625377266054,
+    "reuse_speedup_vs_wopp": 3.651826605269026
+  },
+  {
+    "dataset": "SDB6_Jena_Temperature",
+    "data_length": 420551,
+    "window": 38583,
+    "step": 3858,
+    "overlap": 0.9000077754451442,
+    "minsup": 19,
+    "target_windows": 100,
+    "algorithms": {
+      "Original-Combined": {
+        "status": "complete",
+        "completed_runs": 5,
+        "times_seconds": [
+          0.751040833,
+          0.7405785,
+          0.858415583,
+          0.798841375,
+          0.836636959
+        ],
+        "median_seconds": 0.798841375,
+        "peak_rss_mib_values": [
+          67.36328125,
+          71.03125,
+          71.0625,
+          70.0703125,
+          69.39453125
+        ],
+        "median_peak_rss_mib": 70.0703125,
+        "windows": 100,
+        "patterns_total": 143398,
+        "patterns_mean_per_window": 1433.98
+      },
+      "OPS-NoReuse": {
+        "status": "complete",
+        "completed_runs": 5,
+        "times_seconds": [
+          0.8595195409999999,
+          0.8733132499999999,
+          0.9165521669999999,
+          0.8894137499999999,
+          1.0068999170000001
+        ],
+        "median_seconds": 0.8894137499999999,
+        "peak_rss_mib_values": [
+          67.7734375,
+          69.6015625,
+          68.87109375,
+          67.3515625,
+          68.109375
+        ],
+        "median_peak_rss_mib": 68.109375,
+        "windows": 100,
+        "patterns_total": 143398,
+        "patterns_mean_per_window": 1433.98
+      },
+      "WOPP-Miner": {
+        "status": "complete",
+        "completed_runs": 5,
+        "times_seconds": [
+          3.2244465,
+          3.2644258329999998,
+          3.3092757080000004,
+          3.4756426659999997,
+          3.2613927499999997
+        ],
+        "median_seconds": 3.2644258329999998,
+        "peak_rss_mib_values": [
+          46.95703125,
+          48.31640625,
+          51.26953125,
+          46.7578125,
+          49.16796875
+        ],
+        "median_peak_rss_mib": 48.31640625,
+        "windows": 100,
+        "patterns_total": 143395,
+        "patterns_mean_per_window": 1433.95
+      }
+    },
+    "reuse_speedup_vs_noreuse": 1.113379674406574,
+    "reuse_speedup_vs_wopp": 4.086450621063537
+  },
+  {
+    "dataset": "SDB7_Berlin_Temperature",
+    "data_length": 745128,
+    "window": 68360,
+    "step": 6836,
+    "overlap": 0.9,
+    "minsup": 34,
+    "target_windows": 100,
+    "algorithms": {
+      "Original-Combined": {
+        "status": "complete",
+        "completed_runs": 5,
+        "times_seconds": [
+          0.661475375,
+          0.653120375,
+          0.682776125,
+          0.6538525000000001,
+          0.644513625
+        ],
+        "median_seconds": 0.6538525000000001,
+        "peak_rss_mib_values": [
+          87.0078125,
+          88.6640625,
+          86.6171875,
+          88.25390625,
+          85.53515625
+        ],
+        "median_peak_rss_mib": 87.0078125,
+        "windows": 100,
+        "patterns_total": 86209,
+        "patterns_mean_per_window": 862.09
+      },
+      "OPS-NoReuse": {
+        "status": "complete",
+        "completed_runs": 5,
+        "times_seconds": [
+          0.721291917,
+          0.724855417,
+          0.726633583,
+          0.747179167,
+          0.738468834
+        ],
+        "median_seconds": 0.726633583,
+        "peak_rss_mib_values": [
+          87.7109375,
+          87.3359375,
+          88.32421875,
+          85.62890625,
+          87.23046875
+        ],
+        "median_peak_rss_mib": 87.3359375,
+        "windows": 100,
+        "patterns_total": 86209,
+        "patterns_mean_per_window": 862.09
+      },
+      "WOPP-Miner": {
+        "status": "complete",
+        "completed_runs": 5,
+        "times_seconds": [
+          4.057783,
+          3.845688084,
+          3.976511208,
+          3.80598625,
+          4.035757
+        ],
+        "median_seconds": 3.976511208,
+        "peak_rss_mib_values": [
+          53.59765625,
+          53.28125,
+          52.3828125,
+          53.1796875,
+          55.3515625
+        ],
+        "median_peak_rss_mib": 53.28125,
+        "windows": 100,
+        "patterns_total": 86209,
+        "patterns_mean_per_window": 862.09
+      }
+    },
+    "reuse_speedup_vs_noreuse": 1.1113111642151707,
+    "reuse_speedup_vs_wopp": 6.081663996084743
+  },
+  {
+    "dataset": "SDB8_Household_Power",
+    "data_length": 2049280,
+    "window": 188005,
+    "step": 18800,
+    "overlap": 0.9000026595037366,
+    "minsup": 94,
+    "target_windows": 100,
+    "algorithms": {
+      "Original-Combined": {
+        "status": "complete",
+        "completed_runs": 5,
+        "times_seconds": [
+          0.6962301670000001,
+          0.6922756250000001,
+          0.664412334,
+          0.675588042,
+          0.662158625
+        ],
+        "median_seconds": 0.675588042,
+        "peak_rss_mib_values": [
+          138.27734375,
+          147.18359375,
+          140.84375,
+          141.64453125,
+          144.671875
+        ],
+        "median_peak_rss_mib": 141.64453125,
+        "windows": 100,
+        "patterns_total": 47340,
+        "patterns_mean_per_window": 473.4
+      },
+      "OPS-NoReuse": {
+        "status": "complete",
+        "completed_runs": 5,
+        "times_seconds": [
+          0.725257166,
+          0.7344649590000001,
+          0.7551172500000001,
+          0.7517102499999999,
+          0.740248959
+        ],
+        "median_seconds": 0.740248959,
+        "peak_rss_mib_values": [
+          139.671875,
+          142.4609375,
+          143.05859375,
+          146.01953125,
+          142.02734375
+        ],
+        "median_peak_rss_mib": 142.4609375,
+        "windows": 100,
+        "patterns_total": 47340,
+        "patterns_mean_per_window": 473.4
+      },
+      "WOPP-Miner": {
+        "status": "complete",
+        "completed_runs": 5,
+        "times_seconds": [
+          11.383402375,
+          11.110017167,
+          11.601948625,
+          11.006043417,
+          10.923533583
+        ],
+        "median_seconds": 11.110017167,
+        "peak_rss_mib_values": [
+          92.828125,
+          100.5,
+          91.3046875,
+          97.4921875,
+          94.5234375
+        ],
+        "median_peak_rss_mib": 94.5234375,
+        "windows": 100,
+        "patterns_total": 47340,
+        "patterns_mean_per_window": 473.4
+      }
+    },
+    "reuse_speedup_vs_noreuse": 1.0957105706142738,
+    "reuse_speedup_vs_wopp": 16.444958282728162
+  }
+]

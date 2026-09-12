@@ -1,0 +1,13 @@
+{
+  "algorithm": "WOPP-Miner",
+  "dataset": "/Users/zyj/Documents/Codex/2026-08-17/qin/work/input/woppdata/SDB3_Beijing_PM25.txt",
+  "data_length": 41757,
+  "window": 2087,
+  "step": 2087,
+  "minsup": 3,
+  "windows": 20,
+  "patterns_total": 8699,
+  "patterns_mean_per_window": 434.95,
+  "elapsed_seconds": 0.069875375,
+  "peak_rss_mib": 16.19140625
+}

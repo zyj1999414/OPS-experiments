@@ -1,0 +1,17 @@
+{
+  "algorithm": "OPS-Miner",
+  "dataset": "OPS-data-main9/00_transport_nyc/00_transport_nyc_256KiB.f64",
+  "data_length": 32768,
+  "source_series": 1,
+  "window": 20000,
+  "step": 2000,
+  "minsup": 100,
+  "windows": 7,
+  "patterns_total": 1064,
+  "patterns_min": 152,
+  "patterns_max": 152,
+  "patterns_mean_per_window": 152.0,
+  "elapsed_seconds": 0.012410874999999988,
+  "peak_rss_bytes": 33726464,
+  "peak_rss_mib": 32.1640625
+}

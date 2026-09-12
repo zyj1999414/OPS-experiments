@@ -1,0 +1,12 @@
+{
+  "algorithm": "OPS-Miner-StreamlinedReuse",
+  "dataset": "OPS-data-main9/00_transport_nyc/00_transport_nyc_256KiB.f64",
+  "window": 20000,
+  "step": 2000,
+  "minsup": 10,
+  "windows": 7,
+  "patterns_total": 6487,
+  "patterns_mean_per_window": 926.7142857142857,
+  "elapsed_seconds": 0.045326915999999995,
+  "peak_rss_mib": 36.5390625
+}

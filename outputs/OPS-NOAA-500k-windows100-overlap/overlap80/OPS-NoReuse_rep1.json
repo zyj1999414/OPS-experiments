@@ -1,0 +1,18 @@
+{
+  "algorithm": "OPS-NoReuse",
+  "dataset": "work/ops-noaa-500k/noaa_500k.f64",
+  "data_length": 500000,
+  "source_series": 1,
+  "window": 24038,
+  "step": 4807,
+  "minsup": 12,
+  "count_semantics": "frequent patterns",
+  "windows": 100,
+  "patterns_total": 27108,
+  "patterns_min": 155,
+  "patterns_max": 406,
+  "elapsed_seconds": 0.23470874999999997,
+  "patterns_mean_per_window": 271.08,
+  "peak_rss_bytes": 56520704,
+  "peak_rss_mib": 53.90234375
+}

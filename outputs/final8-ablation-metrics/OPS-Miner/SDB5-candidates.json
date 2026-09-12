@@ -1,0 +1,20 @@
+{
+  "algorithm": "OPS-Miner",
+  "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/OPS-data-main9/02_weather_noaa_uscrn/02_weather_noaa_uscrn_4MiB.f64",
+  "data_length": 524288,
+  "source_series": 1,
+  "window": 50000,
+  "step": 5000,
+  "minsup": 8,
+  "count_semantics": "frequent patterns",
+  "windows": 95,
+  "patterns_total": 62150,
+  "patterns_min": 420,
+  "patterns_max": 879,
+  "candidates_total": 1486,
+  "elapsed_seconds": 0.353005917,
+  "patterns_mean_per_window": 654.2105263157895,
+  "peak_rss_bytes": 72282112,
+  "peak_rss_mib": 68.93359375,
+  "candidates_mean_per_window": 15.642105263157895
+}

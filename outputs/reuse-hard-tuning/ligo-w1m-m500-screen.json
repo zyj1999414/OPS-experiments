@@ -1,0 +1,58 @@
+{
+  "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/OPS-data-main9/05_physics_ligo/05_physics_ligo_128MiB.f64",
+  "window": 1000000,
+  "step": 100000,
+  "minsup": 500,
+  "prefix": null,
+  "repetitions": 1,
+  "windows": 158,
+  "patterns_total": 340798,
+  "patterns_mean": 2156.9493670886077,
+  "median_seconds": {
+    "Original-Combined": 12.421787292000001,
+    "OPS-NoReuse": 13.014683834
+  },
+  "speedup": 1.047730373098712,
+  "time_reduction_percent": 4.5555969669512475,
+  "raw": {
+    "Original-Combined": [
+      {
+        "algorithm": "OPS-Miner-ScanAndFusionReuse",
+        "fusion_cache_key": "(prefix_pattern, suffix_pattern, C)",
+        "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/OPS-data-main9/05_physics_ligo/05_physics_ligo_128MiB.f64",
+        "window": 1000000,
+        "step": 100000,
+        "minsup": 500,
+        "windows": 158,
+        "patterns_total": 340798,
+        "patterns_mean_per_window": 2156.9493670886077,
+        "fusion_cache_hits": 336748,
+        "fusion_cache_misses": 3734,
+        "fusion_cache_entries": 3734,
+        "fusion_cache_hit_rate": 0.9890331941189255,
+        "elapsed_seconds": 12.421787292000001,
+        "peak_rss_mib": 694.14453125
+      }
+    ],
+    "OPS-NoReuse": [
+      {
+        "algorithm": "OPS-NoReuse",
+        "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/OPS-data-main9/05_physics_ligo/05_physics_ligo_128MiB.f64",
+        "data_length": 16777216,
+        "source_series": 1,
+        "window": 1000000,
+        "step": 100000,
+        "minsup": 500,
+        "count_semantics": "frequent patterns",
+        "windows": 158,
+        "patterns_total": 340798,
+        "patterns_min": 2010,
+        "patterns_max": 2269,
+        "elapsed_seconds": 13.014683834,
+        "patterns_mean_per_window": 2156.9493670886077,
+        "peak_rss_bytes": 688680960,
+        "peak_rss_mib": 656.77734375
+      }
+    ]
+  }
+}

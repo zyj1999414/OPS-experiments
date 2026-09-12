@@ -1,0 +1,58 @@
+{
+  "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/work/sdb1-8-f64/SDB6_Jena_Temperature.f64",
+  "window": 38583,
+  "step": 3858,
+  "minsup": 19,
+  "prefix": null,
+  "repetitions": 1,
+  "windows": 100,
+  "patterns_total": 143398,
+  "patterns_mean": 1433.98,
+  "median_seconds": {
+    "Original-Combined": 0.77027025,
+    "OPS-NoReuse": 0.8496536250000001
+  },
+  "speedup": 1.1030591211331349,
+  "time_reduction_percent": 9.34302787209318,
+  "raw": {
+    "Original-Combined": [
+      {
+        "algorithm": "OPS-Miner-ScanAndFusionReuse",
+        "fusion_cache_key": "(prefix_pattern, suffix_pattern, C)",
+        "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/work/sdb1-8-f64/SDB6_Jena_Temperature.f64",
+        "window": 38583,
+        "step": 3858,
+        "minsup": 19,
+        "windows": 100,
+        "patterns_total": 143398,
+        "patterns_mean_per_window": 1433.98,
+        "fusion_cache_hits": 141934,
+        "fusion_cache_misses": 2342,
+        "fusion_cache_entries": 2342,
+        "fusion_cache_hit_rate": 0.9837672239319083,
+        "elapsed_seconds": 0.77027025,
+        "peak_rss_mib": 66.38671875
+      }
+    ],
+    "OPS-NoReuse": [
+      {
+        "algorithm": "OPS-NoReuse",
+        "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/work/sdb1-8-f64/SDB6_Jena_Temperature.f64",
+        "data_length": 420551,
+        "source_series": 1,
+        "window": 38583,
+        "step": 3858,
+        "minsup": 19,
+        "count_semantics": "frequent patterns",
+        "windows": 100,
+        "patterns_total": 143398,
+        "patterns_min": 1204,
+        "patterns_max": 1669,
+        "elapsed_seconds": 0.8496536250000001,
+        "patterns_mean_per_window": 1433.98,
+        "peak_rss_bytes": 68354048,
+        "peak_rss_mib": 65.1875
+      }
+    ]
+  }
+}

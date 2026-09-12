@@ -1,0 +1,17 @@
+{
+  "algorithm": "OPS-Miner",
+  "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/OPS-data/02_speech_librispeech/02_speech_librispeech_256MiB.f64",
+  "data_length": 33554432,
+  "window": 16000,
+  "step": 1600,
+  "minsup": 160,
+  "count_semantics": "frequent patterns",
+  "windows": 20962,
+  "patterns_total": 1900930,
+  "patterns_min": 13,
+  "patterns_max": 163,
+  "elapsed_seconds": 24.50267658298253,
+  "patterns_mean_per_window": 90.68457208281653,
+  "peak_rss_bytes": 450691072,
+  "peak_rss_mib": 429.8125
+}

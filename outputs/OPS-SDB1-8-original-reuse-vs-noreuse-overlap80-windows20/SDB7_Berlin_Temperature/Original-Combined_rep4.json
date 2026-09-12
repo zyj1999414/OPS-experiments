@@ -1,0 +1,17 @@
+{
+  "algorithm": "OPS-Miner-ScanAndFusionReuse",
+  "fusion_cache_key": "(prefix_pattern, suffix_pattern, C)",
+  "dataset": "work/sdb1-8-f64/SDB7_Berlin_Temperature.f64",
+  "window": 155235,
+  "step": 31047,
+  "minsup": 78,
+  "windows": 20,
+  "patterns_total": 16927,
+  "patterns_mean_per_window": 846.35,
+  "fusion_cache_hits": 16010,
+  "fusion_cache_misses": 1113,
+  "fusion_cache_entries": 1113,
+  "fusion_cache_hit_rate": 0.9349997079950944,
+  "elapsed_seconds": 0.30509816700000003,
+  "peak_rss_mib": 139.02734375
+}

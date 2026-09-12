@@ -1,0 +1,58 @@
+{
+  "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/work/sdb1-8-f64/SDB7_Berlin_Temperature.f64",
+  "window": 14600,
+  "step": 1460,
+  "minsup": 4,
+  "prefix": null,
+  "repetitions": 1,
+  "windows": 501,
+  "patterns_total": 837611,
+  "patterns_mean": 1671.878243512974,
+  "median_seconds": {
+    "Original-Combined": 2.2118855,
+    "OPS-NoReuse": 2.595337875
+  },
+  "speedup": 1.173359956923629,
+  "time_reduction_percent": 14.774661083385897,
+  "raw": {
+    "Original-Combined": [
+      {
+        "algorithm": "OPS-Miner-ScanAndFusionReuse",
+        "fusion_cache_key": "(prefix_pattern, suffix_pattern, C)",
+        "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/work/sdb1-8-f64/SDB7_Berlin_Temperature.f64",
+        "window": 14600,
+        "step": 1460,
+        "minsup": 4,
+        "windows": 501,
+        "patterns_total": 837611,
+        "patterns_mean_per_window": 1671.878243512974,
+        "fusion_cache_hits": 839816,
+        "fusion_cache_misses": 8133,
+        "fusion_cache_entries": 8133,
+        "fusion_cache_hit_rate": 0.9904086212732134,
+        "elapsed_seconds": 2.2118855,
+        "peak_rss_mib": 57.6328125
+      }
+    ],
+    "OPS-NoReuse": [
+      {
+        "algorithm": "OPS-NoReuse",
+        "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/work/sdb1-8-f64/SDB7_Berlin_Temperature.f64",
+        "data_length": 745128,
+        "source_series": 1,
+        "window": 14600,
+        "step": 1460,
+        "minsup": 4,
+        "count_semantics": "frequent patterns",
+        "windows": 501,
+        "patterns_total": 837611,
+        "patterns_min": 858,
+        "patterns_max": 2056,
+        "elapsed_seconds": 2.595337875,
+        "patterns_mean_per_window": 1671.878243512974,
+        "peak_rss_bytes": 58052608,
+        "peak_rss_mib": 55.36328125
+      }
+    ]
+  }
+}

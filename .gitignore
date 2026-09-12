@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+*.pending.json
+
+# The large datasets live in ../data and are intentionally outside this repo.
+data/
+*.f64
+*.fits

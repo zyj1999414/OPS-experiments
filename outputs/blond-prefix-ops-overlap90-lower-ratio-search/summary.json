@@ -1,0 +1,2624 @@
+{
+  "all": [
+    {
+      "window": 10000,
+      "step": 1000,
+      "minsup": 40,
+      "overlap": 0.9,
+      "ratio": 5.606140541817633,
+      "small": {
+        "seconds": 0.08041912500000001,
+        "windows": 56,
+        "patterns_mean": 157.64285714285714
+      },
+      "large": {
+        "seconds": 0.450840917,
+        "windows": 515,
+        "patterns_mean": 158.05436893203884
+      }
+    },
+    {
+      "window": 10000,
+      "step": 1000,
+      "minsup": 80,
+      "overlap": 0.9,
+      "ratio": 7.214807108462252,
+      "small": {
+        "seconds": 0.04495954099999999,
+        "windows": 56,
+        "patterns_mean": 77.82142857142857
+      },
+      "large": {
+        "seconds": 0.324374416,
+        "windows": 515,
+        "patterns_mean": 77.37281553398059
+      }
+    },
+    {
+      "window": 10000,
+      "step": 1000,
+      "minsup": 120,
+      "overlap": 0.9,
+      "ratio": 7.4164066053644815,
+      "small": {
+        "seconds": 0.03998095800000001,
+        "windows": 56,
+        "patterns_mean": 40.892857142857146
+      },
+      "large": {
+        "seconds": 0.296515041,
+        "windows": 515,
+        "patterns_mean": 41.4621359223301
+      }
+    },
+    {
+      "window": 10000,
+      "step": 1000,
+      "minsup": 160,
+      "overlap": 0.9,
+      "ratio": 6.896472937635481,
+      "small": {
+        "seconds": 0.039010708000000005,
+        "windows": 56,
+        "patterns_mean": 32.892857142857146
+      },
+      "large": {
+        "seconds": 0.269036292,
+        "windows": 515,
+        "patterns_mean": 32.91067961165049
+      }
+    },
+    {
+      "window": 10000,
+      "step": 1000,
+      "minsup": 240,
+      "overlap": 0.9,
+      "ratio": 5.573880860002608,
+      "small": {
+        "seconds": 0.047508042,
+        "windows": 56,
+        "patterns_mean": 32.0
+      },
+      "large": {
+        "seconds": 0.264804166,
+        "windows": 515,
+        "patterns_mean": 32.0
+      }
+    },
+    {
+      "window": 10000,
+      "step": 1000,
+      "minsup": 320,
+      "overlap": 0.9,
+      "ratio": 6.0458682327551925,
+      "small": {
+        "seconds": 0.04239862499999998,
+        "windows": 56,
+        "patterns_mean": 31.339285714285715
+      },
+      "large": {
+        "seconds": 0.2563365,
+        "windows": 515,
+        "patterns_mean": 31.370873786407767
+      }
+    },
+    {
+      "window": 10000,
+      "step": 1000,
+      "minsup": 500,
+      "overlap": 0.9,
+      "ratio": 6.794348625738776,
+      "small": {
+        "seconds": 0.031489792000000016,
+        "windows": 56,
+        "patterns_mean": 10.660714285714286
+      },
+      "large": {
+        "seconds": 0.213952625,
+        "windows": 515,
+        "patterns_mean": 11.1126213592233
+      }
+    },
+    {
+      "window": 10000,
+      "step": 1000,
+      "minsup": 800,
+      "overlap": 0.9,
+      "ratio": 6.925212713551699,
+      "small": {
+        "seconds": 0.027352041999999993,
+        "windows": 56,
+        "patterns_mean": 8.0
+      },
+      "large": {
+        "seconds": 0.189418709,
+        "windows": 515,
+        "patterns_mean": 8.0
+      }
+    },
+    {
+      "window": 10000,
+      "step": 1000,
+      "minsup": 1000,
+      "overlap": 0.9,
+      "ratio": 6.9207299182973845,
+      "small": {
+        "seconds": 0.028074374999999985,
+        "windows": 56,
+        "patterns_mean": 8.0
+      },
+      "large": {
+        "seconds": 0.19429516700000002,
+        "windows": 515,
+        "patterns_mean": 8.0
+      }
+    },
+    {
+      "window": 15000,
+      "step": 1500,
+      "minsup": 40,
+      "overlap": 0.9,
+      "ratio": 5.588892053897966,
+      "small": {
+        "seconds": 0.07185866700000001,
+        "windows": 34,
+        "patterns_mean": 178.94117647058823
+      },
+      "large": {
+        "seconds": 0.40161033300000004,
+        "windows": 340,
+        "patterns_mean": 179.46470588235294
+      }
+    },
+    {
+      "window": 15000,
+      "step": 1500,
+      "minsup": 80,
+      "overlap": 0.9,
+      "ratio": 7.044150668983519,
+      "small": {
+        "seconds": 0.05366933400000001,
+        "windows": 34,
+        "patterns_mean": 150.55882352941177
+      },
+      "large": {
+        "seconds": 0.378054875,
+        "windows": 340,
+        "patterns_mean": 149.6
+      }
+    },
+    {
+      "window": 15000,
+      "step": 1500,
+      "minsup": 120,
+      "overlap": 0.9,
+      "ratio": 7.951439388636682,
+      "small": {
+        "seconds": 0.03567358300000001,
+        "windows": 34,
+        "patterns_mean": 75.58823529411765
+      },
+      "large": {
+        "seconds": 0.283656333,
+        "windows": 340,
+        "patterns_mean": 75.55
+      }
+    },
+    {
+      "window": 15000,
+      "step": 1500,
+      "minsup": 160,
+      "overlap": 0.9,
+      "ratio": 6.6614400644637195,
+      "small": {
+        "seconds": 0.040029958000000004,
+        "windows": 34,
+        "patterns_mean": 47.6764705882353
+      },
+      "large": {
+        "seconds": 0.266657166,
+        "windows": 340,
+        "patterns_mean": 47.6764705882353
+      }
+    },
+    {
+      "window": 15000,
+      "step": 1500,
+      "minsup": 240,
+      "overlap": 0.9,
+      "ratio": 6.97656049612621,
+      "small": {
+        "seconds": 0.035575625,
+        "windows": 34,
+        "patterns_mean": 32.85294117647059
+      },
+      "large": {
+        "seconds": 0.2481955,
+        "windows": 340,
+        "patterns_mean": 32.80882352941177
+      }
+    },
+    {
+      "window": 15000,
+      "step": 1500,
+      "minsup": 320,
+      "overlap": 0.9,
+      "ratio": 6.838221397198326,
+      "small": {
+        "seconds": 0.03551358399999999,
+        "windows": 34,
+        "patterns_mean": 32.0
+      },
+      "large": {
+        "seconds": 0.24284975,
+        "windows": 340,
+        "patterns_mean": 32.0
+      }
+    },
+    {
+      "window": 15000,
+      "step": 1500,
+      "minsup": 500,
+      "overlap": 0.9,
+      "ratio": 7.232245483007588,
+      "small": {
+        "seconds": 0.032635708999999985,
+        "windows": 34,
+        "patterns_mean": 30.41176470588235
+      },
+      "large": {
+        "seconds": 0.236029459,
+        "windows": 340,
+        "patterns_mean": 30.5
+      }
+    },
+    {
+      "window": 15000,
+      "step": 1500,
+      "minsup": 800,
+      "overlap": 0.9,
+      "ratio": 8.308820220369908,
+      "small": {
+        "seconds": 0.02295404100000001,
+        "windows": 34,
+        "patterns_mean": 9.382352941176471
+      },
+      "large": {
+        "seconds": 0.19072099999999997,
+        "windows": 340,
+        "patterns_mean": 9.152941176470588
+      }
+    },
+    {
+      "window": 15000,
+      "step": 1500,
+      "minsup": 1000,
+      "overlap": 0.9,
+      "ratio": 9.423307614755949,
+      "small": {
+        "seconds": 0.01958791600000001,
+        "windows": 34,
+        "patterns_mean": 8.0
+      },
+      "large": {
+        "seconds": 0.184582958,
+        "windows": 340,
+        "patterns_mean": 8.0
+      }
+    },
+    {
+      "window": 20000,
+      "step": 2000,
+      "minsup": 40,
+      "overlap": 0.9,
+      "ratio": 6.966341978270722,
+      "small": {
+        "seconds": 0.053055792000000004,
+        "windows": 23,
+        "patterns_mean": 226.8695652173913
+      },
+      "large": {
+        "seconds": 0.369604791,
+        "windows": 253,
+        "patterns_mean": 228.23320158102766
+      }
+    },
+    {
+      "window": 20000,
+      "step": 2000,
+      "minsup": 80,
+      "overlap": 0.9,
+      "ratio": 7.039001990730889,
+      "small": {
+        "seconds": 0.050616083000000006,
+        "windows": 23,
+        "patterns_mean": 157.0
+      },
+      "large": {
+        "seconds": 0.356286709,
+        "windows": 253,
+        "patterns_mean": 157.7193675889328
+      }
+    },
+    {
+      "window": 20000,
+      "step": 2000,
+      "minsup": 120,
+      "overlap": 0.9,
+      "ratio": 6.7688078508333565,
+      "small": {
+        "seconds": 0.047423042,
+        "windows": 23,
+        "patterns_mean": 137.91304347826087
+      },
+      "large": {
+        "seconds": 0.320997459,
+        "windows": 253,
+        "patterns_mean": 138.22529644268775
+      }
+    },
+    {
+      "window": 20000,
+      "step": 2000,
+      "minsup": 160,
+      "overlap": 0.9,
+      "ratio": 5.4793197797294875,
+      "small": {
+        "seconds": 0.04785679200000001,
+        "windows": 23,
+        "patterns_mean": 74.78260869565217
+      },
+      "large": {
+        "seconds": 0.26222266699999996,
+        "windows": 253,
+        "patterns_mean": 74.57312252964427
+      }
+    },
+    {
+      "window": 20000,
+      "step": 2000,
+      "minsup": 240,
+      "overlap": 0.9,
+      "ratio": 8.075846844137567,
+      "small": {
+        "seconds": 0.031174124999999997,
+        "windows": 23,
+        "patterns_mean": 40.91304347826087
+      },
+      "large": {
+        "seconds": 0.251757459,
+        "windows": 253,
+        "patterns_mean": 41.34782608695652
+      }
+    },
+    {
+      "window": 20000,
+      "step": 2000,
+      "minsup": 320,
+      "overlap": 0.9,
+      "ratio": 8.372797107120205,
+      "small": {
+        "seconds": 0.027792375000000008,
+        "windows": 23,
+        "patterns_mean": 32.95652173913044
+      },
+      "large": {
+        "seconds": 0.23269991699999998,
+        "windows": 253,
+        "patterns_mean": 32.75494071146245
+      }
+    },
+    {
+      "window": 20000,
+      "step": 2000,
+      "minsup": 500,
+      "overlap": 0.9,
+      "ratio": 8.001661348175029,
+      "small": {
+        "seconds": 0.029391792,
+        "windows": 23,
+        "patterns_mean": 32.0
+      },
+      "large": {
+        "seconds": 0.23518316600000003,
+        "windows": 253,
+        "patterns_mean": 32.0
+      }
+    },
+    {
+      "window": 20000,
+      "step": 2000,
+      "minsup": 800,
+      "overlap": 0.9,
+      "ratio": 7.91560875277068,
+      "small": {
+        "seconds": 0.02434145800000001,
+        "windows": 23,
+        "patterns_mean": 18.043478260869566
+      },
+      "large": {
+        "seconds": 0.19267745799999997,
+        "windows": 253,
+        "patterns_mean": 18.233201581027668
+      }
+    },
+    {
+      "window": 20000,
+      "step": 2000,
+      "minsup": 1000,
+      "overlap": 0.9,
+      "ratio": 10.248016059109343,
+      "small": {
+        "seconds": 0.018530541999999983,
+        "windows": 23,
+        "patterns_mean": 11.0
+      },
+      "large": {
+        "seconds": 0.189901292,
+        "windows": 253,
+        "patterns_mean": 11.347826086956522
+      }
+    },
+    {
+      "window": 25000,
+      "step": 2500,
+      "minsup": 40,
+      "overlap": 0.9,
+      "ratio": 6.599221198898536,
+      "small": {
+        "seconds": 0.05901250000000002,
+        "windows": 17,
+        "patterns_mean": 304.3529411764706
+      },
+      "large": {
+        "seconds": 0.389436541,
+        "windows": 200,
+        "patterns_mean": 305.47
+      }
+    },
+    {
+      "window": 25000,
+      "step": 2500,
+      "minsup": 80,
+      "overlap": 0.9,
+      "ratio": 7.552490438482715,
+      "small": {
+        "seconds": 0.04176429199999998,
+        "windows": 17,
+        "patterns_mean": 165.2941176470588
+      },
+      "large": {
+        "seconds": 0.315424416,
+        "windows": 200,
+        "patterns_mean": 165.375
+      }
+    },
+    {
+      "window": 25000,
+      "step": 2500,
+      "minsup": 120,
+      "overlap": 0.9,
+      "ratio": 9.498388739143113,
+      "small": {
+        "seconds": 0.03465391699999999,
+        "windows": 17,
+        "patterns_mean": 154.11764705882354
+      },
+      "large": {
+        "seconds": 0.329156375,
+        "windows": 200,
+        "patterns_mean": 153.7
+      }
+    },
+    {
+      "window": 25000,
+      "step": 2500,
+      "minsup": 160,
+      "overlap": 0.9,
+      "ratio": 8.161939944024304,
+      "small": {
+        "seconds": 0.036578374999999996,
+        "windows": 17,
+        "patterns_mean": 124.94117647058823
+      },
+      "large": {
+        "seconds": 0.2985505,
+        "windows": 200,
+        "patterns_mean": 125.435
+      }
+    },
+    {
+      "window": 25000,
+      "step": 2500,
+      "minsup": 240,
+      "overlap": 0.9,
+      "ratio": 6.983828352416954,
+      "small": {
+        "seconds": 0.035128207999999994,
+        "windows": 17,
+        "patterns_mean": 54.705882352941174
+      },
+      "large": {
+        "seconds": 0.24532937500000002,
+        "windows": 200,
+        "patterns_mean": 55.185
+      }
+    },
+    {
+      "window": 25000,
+      "step": 2500,
+      "minsup": 320,
+      "overlap": 0.9,
+      "ratio": 9.367237141592481,
+      "small": {
+        "seconds": 0.025416250000000015,
+        "windows": 17,
+        "patterns_mean": 38.05882352941177
+      },
+      "large": {
+        "seconds": 0.23808004100000002,
+        "windows": 200,
+        "patterns_mean": 37.91
+      }
+    },
+    {
+      "window": 25000,
+      "step": 2500,
+      "minsup": 500,
+      "overlap": 0.9,
+      "ratio": 7.567601103640204,
+      "small": {
+        "seconds": 0.028334959000000007,
+        "windows": 17,
+        "patterns_mean": 32.0
+      },
+      "large": {
+        "seconds": 0.214427667,
+        "windows": 200,
+        "patterns_mean": 32.0
+      }
+    },
+    {
+      "window": 25000,
+      "step": 2500,
+      "minsup": 800,
+      "overlap": 0.9,
+      "ratio": 9.630749667943663,
+      "small": {
+        "seconds": 0.02277475000000001,
+        "windows": 17,
+        "patterns_mean": 31.88235294117647
+      },
+      "large": {
+        "seconds": 0.21933791600000002,
+        "windows": 200,
+        "patterns_mean": 31.825
+      }
+    },
+    {
+      "window": 25000,
+      "step": 2500,
+      "minsup": 1000,
+      "overlap": 0.9,
+      "ratio": 8.6159185781017,
+      "small": {
+        "seconds": 0.023203291,
+        "windows": 17,
+        "patterns_mean": 18.176470588235293
+      },
+      "large": {
+        "seconds": 0.199917666,
+        "windows": 200,
+        "patterns_mean": 18.225
+      }
+    },
+    {
+      "window": 30000,
+      "step": 3000,
+      "minsup": 40,
+      "overlap": 0.9,
+      "ratio": 8.844212498613805,
+      "small": {
+        "seconds": 0.047828791999999995,
+        "windows": 12,
+        "patterns_mean": 406.75
+      },
+      "large": {
+        "seconds": 0.42300799999999994,
+        "windows": 165,
+        "patterns_mean": 407.5151515151515
+      }
+    },
+    {
+      "window": 30000,
+      "step": 3000,
+      "minsup": 80,
+      "overlap": 0.9,
+      "ratio": 8.7897882684318,
+      "small": {
+        "seconds": 0.035502500000000006,
+        "windows": 12,
+        "patterns_mean": 176.83333333333334
+      },
+      "large": {
+        "seconds": 0.312059458,
+        "windows": 165,
+        "patterns_mean": 177.3151515151515
+      }
+    },
+    {
+      "window": 30000,
+      "step": 3000,
+      "minsup": 120,
+      "overlap": 0.9,
+      "ratio": 7.640354273237614,
+      "small": {
+        "seconds": 0.040694917,
+        "windows": 12,
+        "patterns_mean": 157.16666666666666
+      },
+      "large": {
+        "seconds": 0.310923583,
+        "windows": 165,
+        "patterns_mean": 157.63030303030303
+      }
+    },
+    {
+      "window": 30000,
+      "step": 3000,
+      "minsup": 160,
+      "overlap": 0.9,
+      "ratio": 7.909903907467815,
+      "small": {
+        "seconds": 0.040656125000000015,
+        "windows": 12,
+        "patterns_mean": 152.66666666666666
+      },
+      "large": {
+        "seconds": 0.321586042,
+        "windows": 165,
+        "patterns_mean": 151.23030303030302
+      }
+    },
+    {
+      "window": 30000,
+      "step": 3000,
+      "minsup": 240,
+      "overlap": 0.9,
+      "ratio": 11.708227580238832,
+      "small": {
+        "seconds": 0.021400082999999986,
+        "windows": 12,
+        "patterns_mean": 72.91666666666667
+      },
+      "large": {
+        "seconds": 0.250557042,
+        "windows": 165,
+        "patterns_mean": 73.46666666666667
+      }
+    },
+    {
+      "window": 30000,
+      "step": 3000,
+      "minsup": 320,
+      "overlap": 0.9,
+      "ratio": 6.425056588139421,
+      "small": {
+        "seconds": 0.038406458000000004,
+        "windows": 12,
+        "patterns_mean": 46.666666666666664
+      },
+      "large": {
+        "seconds": 0.24676366600000002,
+        "windows": 165,
+        "patterns_mean": 46.96969696969697
+      }
+    },
+    {
+      "window": 30000,
+      "step": 3000,
+      "minsup": 500,
+      "overlap": 0.9,
+      "ratio": 7.611260293972312,
+      "small": {
+        "seconds": 0.031934708000000006,
+        "windows": 12,
+        "patterns_mean": 32.166666666666664
+      },
+      "large": {
+        "seconds": 0.243063375,
+        "windows": 165,
+        "patterns_mean": 32.18787878787879
+      }
+    },
+    {
+      "window": 30000,
+      "step": 3000,
+      "minsup": 800,
+      "overlap": 0.9,
+      "ratio": 8.027857571356472,
+      "small": {
+        "seconds": 0.027984707999999997,
+        "windows": 12,
+        "patterns_mean": 32.0
+      },
+      "large": {
+        "seconds": 0.22465725,
+        "windows": 165,
+        "patterns_mean": 32.0
+      }
+    },
+    {
+      "window": 30000,
+      "step": 3000,
+      "minsup": 1000,
+      "overlap": 0.9,
+      "ratio": 11.21001100246785,
+      "small": {
+        "seconds": 0.020751707999999994,
+        "windows": 12,
+        "patterns_mean": 31.0
+      },
+      "large": {
+        "seconds": 0.232626875,
+        "windows": 165,
+        "patterns_mean": 30.89090909090909
+      }
+    },
+    {
+      "window": 35000,
+      "step": 3500,
+      "minsup": 40,
+      "overlap": 0.9,
+      "ratio": 8.582319713808019,
+      "small": {
+        "seconds": 0.05525158299999999,
+        "windows": 9,
+        "patterns_mean": 540.6666666666666
+      },
+      "large": {
+        "seconds": 0.47418675,
+        "windows": 140,
+        "patterns_mean": 539.3142857142857
+      }
+    },
+    {
+      "window": 35000,
+      "step": 3500,
+      "minsup": 80,
+      "overlap": 0.9,
+      "ratio": 8.730974292154224,
+      "small": {
+        "seconds": 0.036388540999999996,
+        "windows": 9,
+        "patterns_mean": 191.22222222222223
+      },
+      "large": {
+        "seconds": 0.31770741599999996,
+        "windows": 140,
+        "patterns_mean": 194.35
+      }
+    },
+    {
+      "window": 35000,
+      "step": 3500,
+      "minsup": 120,
+      "overlap": 0.9,
+      "ratio": 9.840250937265681,
+      "small": {
+        "seconds": 0.03100775,
+        "windows": 9,
+        "patterns_mean": 160.77777777777777
+      },
+      "large": {
+        "seconds": 0.30512404099999996,
+        "windows": 140,
+        "patterns_mean": 161.7
+      }
+    },
+    {
+      "window": 35000,
+      "step": 3500,
+      "minsup": 160,
+      "overlap": 0.9,
+      "ratio": 9.940362084847377,
+      "small": {
+        "seconds": 0.03006466599999999,
+        "windows": 9,
+        "patterns_mean": 154.11111111111111
+      },
+      "large": {
+        "seconds": 0.29885366599999996,
+        "windows": 140,
+        "patterns_mean": 154.56428571428572
+      }
+    },
+    {
+      "window": 35000,
+      "step": 3500,
+      "minsup": 240,
+      "overlap": 0.9,
+      "ratio": 11.145127353054253,
+      "small": {
+        "seconds": 0.024217833000000008,
+        "windows": 9,
+        "patterns_mean": 107.44444444444444
+      },
+      "large": {
+        "seconds": 0.269910833,
+        "windows": 140,
+        "patterns_mean": 107.57857142857142
+      }
+    },
+    {
+      "window": 35000,
+      "step": 3500,
+      "minsup": 320,
+      "overlap": 0.9,
+      "ratio": 6.94101950138564,
+      "small": {
+        "seconds": 0.03364391700000002,
+        "windows": 9,
+        "patterns_mean": 59.111111111111114
+      },
+      "large": {
+        "seconds": 0.23352308400000002,
+        "windows": 140,
+        "patterns_mean": 59.05
+      }
+    },
+    {
+      "window": 35000,
+      "step": 3500,
+      "minsup": 500,
+      "overlap": 0.9,
+      "ratio": 11.962526377350818,
+      "small": {
+        "seconds": 0.019581666999999997,
+        "windows": 9,
+        "patterns_mean": 34.0
+      },
+      "large": {
+        "seconds": 0.234246208,
+        "windows": 140,
+        "patterns_mean": 34.371428571428574
+      }
+    },
+    {
+      "window": 35000,
+      "step": 3500,
+      "minsup": 800,
+      "overlap": 0.9,
+      "ratio": 9.299908568750837,
+      "small": {
+        "seconds": 0.023806959000000016,
+        "windows": 9,
+        "patterns_mean": 32.0
+      },
+      "large": {
+        "seconds": 0.221402542,
+        "windows": 140,
+        "patterns_mean": 32.0
+      }
+    },
+    {
+      "window": 35000,
+      "step": 3500,
+      "minsup": 1000,
+      "overlap": 0.9,
+      "ratio": 7.470815979246396,
+      "small": {
+        "seconds": 0.029103374999999987,
+        "windows": 9,
+        "patterns_mean": 32.0
+      },
+      "large": {
+        "seconds": 0.21742595899999997,
+        "windows": 140,
+        "patterns_mean": 32.0
+      }
+    },
+    {
+      "window": 40000,
+      "step": 4000,
+      "minsup": 40,
+      "overlap": 0.9,
+      "ratio": 7.947173912692348,
+      "small": {
+        "seconds": 0.065626458,
+        "windows": 7,
+        "patterns_mean": 680.4285714285714
+      },
+      "large": {
+        "seconds": 0.521544875,
+        "windows": 122,
+        "patterns_mean": 678.7377049180328
+      }
+    },
+    {
+      "window": 40000,
+      "step": 4000,
+      "minsup": 80,
+      "overlap": 0.9,
+      "ratio": 8.763254693508255,
+      "small": {
+        "seconds": 0.035368,
+        "windows": 7,
+        "patterns_mean": 218.42857142857142
+      },
+      "large": {
+        "seconds": 0.30993879199999996,
+        "windows": 122,
+        "patterns_mean": 222.0327868852459
+      }
+    },
+    {
+      "window": 40000,
+      "step": 4000,
+      "minsup": 120,
+      "overlap": 0.9,
+      "ratio": 8.94578445746653,
+      "small": {
+        "seconds": 0.03195425000000002,
+        "windows": 7,
+        "patterns_mean": 169.42857142857142
+      },
+      "large": {
+        "seconds": 0.285855833,
+        "windows": 122,
+        "patterns_mean": 168.827868852459
+      }
+    },
+    {
+      "window": 40000,
+      "step": 4000,
+      "minsup": 160,
+      "overlap": 0.9,
+      "ratio": 14.196961753770694,
+      "small": {
+        "seconds": 0.020743874999999995,
+        "windows": 7,
+        "patterns_mean": 157.57142857142858
+      },
+      "large": {
+        "seconds": 0.2945,
+        "windows": 122,
+        "patterns_mean": 157.54098360655738
+      }
+    },
+    {
+      "window": 40000,
+      "step": 4000,
+      "minsup": 240,
+      "overlap": 0.9,
+      "ratio": 10.865823665281788,
+      "small": {
+        "seconds": 0.025498416000000024,
+        "windows": 7,
+        "patterns_mean": 139.0
+      },
+      "large": {
+        "seconds": 0.277061292,
+        "windows": 122,
+        "patterns_mean": 141.08196721311475
+      }
+    },
+    {
+      "window": 40000,
+      "step": 4000,
+      "minsup": 320,
+      "overlap": 0.9,
+      "ratio": 11.390692827047252,
+      "small": {
+        "seconds": 0.020808208999999994,
+        "windows": 7,
+        "patterns_mean": 72.14285714285714
+      },
+      "large": {
+        "seconds": 0.237019917,
+        "windows": 122,
+        "patterns_mean": 72.97540983606558
+      }
+    },
+    {
+      "window": 40000,
+      "step": 4000,
+      "minsup": 500,
+      "overlap": 0.9,
+      "ratio": 13.839182854105806,
+      "small": {
+        "seconds": 0.016440834000000015,
+        "windows": 7,
+        "patterns_mean": 39.57142857142857
+      },
+      "large": {
+        "seconds": 0.227527708,
+        "windows": 122,
+        "patterns_mean": 38.90983606557377
+      }
+    },
+    {
+      "window": 40000,
+      "step": 4000,
+      "minsup": 800,
+      "overlap": 0.9,
+      "ratio": 10.419468540316947,
+      "small": {
+        "seconds": 0.020548124999999987,
+        "windows": 7,
+        "patterns_mean": 32.0
+      },
+      "large": {
+        "seconds": 0.21410054200000003,
+        "windows": 122,
+        "patterns_mean": 32.0
+      }
+    },
+    {
+      "window": 40000,
+      "step": 4000,
+      "minsup": 1000,
+      "overlap": 0.9,
+      "ratio": 12.994028816896366,
+      "small": {
+        "seconds": 0.016760999999999998,
+        "windows": 7,
+        "patterns_mean": 32.0
+      },
+      "large": {
+        "seconds": 0.21779291699999997,
+        "windows": 122,
+        "patterns_mean": 32.0
+      }
+    },
+    {
+      "window": 42000,
+      "step": 4200,
+      "minsup": 40,
+      "overlap": 0.9,
+      "ratio": 8.643905710045978,
+      "small": {
+        "seconds": 0.06682629200000001,
+        "windows": 6,
+        "patterns_mean": 727.8333333333334
+      },
+      "large": {
+        "seconds": 0.577640167,
+        "windows": 115,
+        "patterns_mean": 729.1652173913044
+      }
+    },
+    {
+      "window": 42000,
+      "step": 4200,
+      "minsup": 80,
+      "overlap": 0.9,
+      "ratio": 7.118752353006453,
+      "small": {
+        "seconds": 0.044668917,
+        "windows": 6,
+        "patterns_mean": 231.66666666666666
+      },
+      "large": {
+        "seconds": 0.317986958,
+        "windows": 115,
+        "patterns_mean": 234.56521739130434
+      }
+    },
+    {
+      "window": 42000,
+      "step": 4200,
+      "minsup": 120,
+      "overlap": 0.9,
+      "ratio": 6.925018286739459,
+      "small": {
+        "seconds": 0.04316379099999999,
+        "windows": 6,
+        "patterns_mean": 171.33333333333334
+      },
+      "large": {
+        "seconds": 0.29891004200000004,
+        "windows": 115,
+        "patterns_mean": 172.2
+      }
+    },
+    {
+      "window": 42000,
+      "step": 4200,
+      "minsup": 160,
+      "overlap": 0.9,
+      "ratio": 7.830932989349279,
+      "small": {
+        "seconds": 0.035854374999999994,
+        "windows": 6,
+        "patterns_mean": 158.66666666666666
+      },
+      "large": {
+        "seconds": 0.280773208,
+        "windows": 115,
+        "patterns_mean": 158.69565217391303
+      }
+    },
+    {
+      "window": 42000,
+      "step": 4200,
+      "minsup": 240,
+      "overlap": 0.9,
+      "ratio": 11.381884646513901,
+      "small": {
+        "seconds": 0.02404858400000001,
+        "windows": 6,
+        "patterns_mean": 149.83333333333334
+      },
+      "large": {
+        "seconds": 0.273718209,
+        "windows": 115,
+        "patterns_mean": 148.01739130434783
+      }
+    },
+    {
+      "window": 42000,
+      "step": 4200,
+      "minsup": 320,
+      "overlap": 0.9,
+      "ratio": 11.261651342366001,
+      "small": {
+        "seconds": 0.022182959000000002,
+        "windows": 6,
+        "patterns_mean": 82.33333333333333
+      },
+      "large": {
+        "seconds": 0.24981674999999998,
+        "windows": 115,
+        "patterns_mean": 80.98260869565217
+      }
+    },
+    {
+      "window": 42000,
+      "step": 4200,
+      "minsup": 500,
+      "overlap": 0.9,
+      "ratio": 11.985870899528283,
+      "small": {
+        "seconds": 0.018442999999999987,
+        "windows": 6,
+        "patterns_mean": 42.0
+      },
+      "large": {
+        "seconds": 0.22105541699999998,
+        "windows": 115,
+        "patterns_mean": 41.982608695652175
+      }
+    },
+    {
+      "window": 42000,
+      "step": 4200,
+      "minsup": 800,
+      "overlap": 0.9,
+      "ratio": 7.8733556886049385,
+      "small": {
+        "seconds": 0.027958207999999984,
+        "windows": 6,
+        "patterns_mean": 32.0
+      },
+      "large": {
+        "seconds": 0.22012491599999998,
+        "windows": 115,
+        "patterns_mean": 32.0
+      }
+    },
+    {
+      "window": 42000,
+      "step": 4200,
+      "minsup": 1000,
+      "overlap": 0.9,
+      "ratio": 8.878941956250213,
+      "small": {
+        "seconds": 0.024050083,
+        "windows": 6,
+        "patterns_mean": 32.0
+      },
+      "large": {
+        "seconds": 0.213539291,
+        "windows": 115,
+        "patterns_mean": 32.0
+      }
+    },
+    {
+      "window": 43000,
+      "step": 4300,
+      "minsup": 40,
+      "overlap": 0.9,
+      "ratio": 10.704883073101076,
+      "small": {
+        "seconds": 0.053838125000000014,
+        "windows": 6,
+        "patterns_mean": 750.8333333333334
+      },
+      "large": {
+        "seconds": 0.576330833,
+        "windows": 112,
+        "patterns_mean": 751.4732142857143
+      }
+    },
+    {
+      "window": 43000,
+      "step": 4300,
+      "minsup": 80,
+      "overlap": 0.9,
+      "ratio": 8.223434754491457,
+      "small": {
+        "seconds": 0.037963708999999984,
+        "windows": 6,
+        "patterns_mean": 238.0
+      },
+      "large": {
+        "seconds": 0.312192084,
+        "windows": 112,
+        "patterns_mean": 241.125
+      }
+    },
+    {
+      "window": 43000,
+      "step": 4300,
+      "minsup": 120,
+      "overlap": 0.9,
+      "ratio": 10.997731291283928,
+      "small": {
+        "seconds": 0.02662704099999999,
+        "windows": 6,
+        "patterns_mean": 172.16666666666666
+      },
+      "large": {
+        "seconds": 0.292837042,
+        "windows": 112,
+        "patterns_mean": 173.8125
+      }
+    },
+    {
+      "window": 43000,
+      "step": 4300,
+      "minsup": 160,
+      "overlap": 0.9,
+      "ratio": 8.34967085254881,
+      "small": {
+        "seconds": 0.03344504100000001,
+        "windows": 6,
+        "patterns_mean": 159.5
+      },
+      "large": {
+        "seconds": 0.279255084,
+        "windows": 112,
+        "patterns_mean": 159.3125
+      }
+    },
+    {
+      "window": 43000,
+      "step": 4300,
+      "minsup": 240,
+      "overlap": 0.9,
+      "ratio": 11.253424304309267,
+      "small": {
+        "seconds": 0.024238499999999982,
+        "windows": 6,
+        "patterns_mean": 151.83333333333334
+      },
+      "large": {
+        "seconds": 0.27276612499999997,
+        "windows": 112,
+        "patterns_mean": 149.9375
+      }
+    },
+    {
+      "window": 43000,
+      "step": 4300,
+      "minsup": 320,
+      "overlap": 0.9,
+      "ratio": 11.771726480653745,
+      "small": {
+        "seconds": 0.019980582999999996,
+        "windows": 6,
+        "patterns_mean": 87.16666666666667
+      },
+      "large": {
+        "seconds": 0.23520595800000002,
+        "windows": 112,
+        "patterns_mean": 85.99107142857143
+      }
+    },
+    {
+      "window": 43000,
+      "step": 4300,
+      "minsup": 500,
+      "overlap": 0.9,
+      "ratio": 11.73556028681253,
+      "small": {
+        "seconds": 0.019833582999999988,
+        "windows": 6,
+        "patterns_mean": 42.333333333333336
+      },
+      "large": {
+        "seconds": 0.232758209,
+        "windows": 112,
+        "patterns_mean": 43.0625
+      }
+    },
+    {
+      "window": 43000,
+      "step": 4300,
+      "minsup": 800,
+      "overlap": 0.9,
+      "ratio": 15.393896249542783,
+      "small": {
+        "seconds": 0.01356333300000001,
+        "windows": 6,
+        "patterns_mean": 32.0
+      },
+      "large": {
+        "seconds": 0.20879254100000003,
+        "windows": 112,
+        "patterns_mean": 32.0
+      }
+    },
+    {
+      "window": 43000,
+      "step": 4300,
+      "minsup": 1000,
+      "overlap": 0.9,
+      "ratio": 10.90411467376521,
+      "small": {
+        "seconds": 0.01936770800000001,
+        "windows": 6,
+        "patterns_mean": 32.0
+      },
+      "large": {
+        "seconds": 0.21118770899999997,
+        "windows": 112,
+        "patterns_mean": 32.0
+      }
+    }
+  ],
+  "meaningful_sorted": [
+    {
+      "window": 20000,
+      "step": 2000,
+      "minsup": 160,
+      "overlap": 0.9,
+      "ratio": 5.4793197797294875,
+      "small": {
+        "seconds": 0.04785679200000001,
+        "windows": 23,
+        "patterns_mean": 74.78260869565217
+      },
+      "large": {
+        "seconds": 0.26222266699999996,
+        "windows": 253,
+        "patterns_mean": 74.57312252964427
+      }
+    },
+    {
+      "window": 10000,
+      "step": 1000,
+      "minsup": 240,
+      "overlap": 0.9,
+      "ratio": 5.573880860002608,
+      "small": {
+        "seconds": 0.047508042,
+        "windows": 56,
+        "patterns_mean": 32.0
+      },
+      "large": {
+        "seconds": 0.264804166,
+        "windows": 515,
+        "patterns_mean": 32.0
+      }
+    },
+    {
+      "window": 15000,
+      "step": 1500,
+      "minsup": 40,
+      "overlap": 0.9,
+      "ratio": 5.588892053897966,
+      "small": {
+        "seconds": 0.07185866700000001,
+        "windows": 34,
+        "patterns_mean": 178.94117647058823
+      },
+      "large": {
+        "seconds": 0.40161033300000004,
+        "windows": 340,
+        "patterns_mean": 179.46470588235294
+      }
+    },
+    {
+      "window": 10000,
+      "step": 1000,
+      "minsup": 40,
+      "overlap": 0.9,
+      "ratio": 5.606140541817633,
+      "small": {
+        "seconds": 0.08041912500000001,
+        "windows": 56,
+        "patterns_mean": 157.64285714285714
+      },
+      "large": {
+        "seconds": 0.450840917,
+        "windows": 515,
+        "patterns_mean": 158.05436893203884
+      }
+    },
+    {
+      "window": 10000,
+      "step": 1000,
+      "minsup": 320,
+      "overlap": 0.9,
+      "ratio": 6.0458682327551925,
+      "small": {
+        "seconds": 0.04239862499999998,
+        "windows": 56,
+        "patterns_mean": 31.339285714285715
+      },
+      "large": {
+        "seconds": 0.2563365,
+        "windows": 515,
+        "patterns_mean": 31.370873786407767
+      }
+    },
+    {
+      "window": 30000,
+      "step": 3000,
+      "minsup": 320,
+      "overlap": 0.9,
+      "ratio": 6.425056588139421,
+      "small": {
+        "seconds": 0.038406458000000004,
+        "windows": 12,
+        "patterns_mean": 46.666666666666664
+      },
+      "large": {
+        "seconds": 0.24676366600000002,
+        "windows": 165,
+        "patterns_mean": 46.96969696969697
+      }
+    },
+    {
+      "window": 25000,
+      "step": 2500,
+      "minsup": 40,
+      "overlap": 0.9,
+      "ratio": 6.599221198898536,
+      "small": {
+        "seconds": 0.05901250000000002,
+        "windows": 17,
+        "patterns_mean": 304.3529411764706
+      },
+      "large": {
+        "seconds": 0.389436541,
+        "windows": 200,
+        "patterns_mean": 305.47
+      }
+    },
+    {
+      "window": 15000,
+      "step": 1500,
+      "minsup": 160,
+      "overlap": 0.9,
+      "ratio": 6.6614400644637195,
+      "small": {
+        "seconds": 0.040029958000000004,
+        "windows": 34,
+        "patterns_mean": 47.6764705882353
+      },
+      "large": {
+        "seconds": 0.266657166,
+        "windows": 340,
+        "patterns_mean": 47.6764705882353
+      }
+    },
+    {
+      "window": 20000,
+      "step": 2000,
+      "minsup": 120,
+      "overlap": 0.9,
+      "ratio": 6.7688078508333565,
+      "small": {
+        "seconds": 0.047423042,
+        "windows": 23,
+        "patterns_mean": 137.91304347826087
+      },
+      "large": {
+        "seconds": 0.320997459,
+        "windows": 253,
+        "patterns_mean": 138.22529644268775
+      }
+    },
+    {
+      "window": 15000,
+      "step": 1500,
+      "minsup": 320,
+      "overlap": 0.9,
+      "ratio": 6.838221397198326,
+      "small": {
+        "seconds": 0.03551358399999999,
+        "windows": 34,
+        "patterns_mean": 32.0
+      },
+      "large": {
+        "seconds": 0.24284975,
+        "windows": 340,
+        "patterns_mean": 32.0
+      }
+    },
+    {
+      "window": 10000,
+      "step": 1000,
+      "minsup": 160,
+      "overlap": 0.9,
+      "ratio": 6.896472937635481,
+      "small": {
+        "seconds": 0.039010708000000005,
+        "windows": 56,
+        "patterns_mean": 32.892857142857146
+      },
+      "large": {
+        "seconds": 0.269036292,
+        "windows": 515,
+        "patterns_mean": 32.91067961165049
+      }
+    },
+    {
+      "window": 42000,
+      "step": 4200,
+      "minsup": 120,
+      "overlap": 0.9,
+      "ratio": 6.925018286739459,
+      "small": {
+        "seconds": 0.04316379099999999,
+        "windows": 6,
+        "patterns_mean": 171.33333333333334
+      },
+      "large": {
+        "seconds": 0.29891004200000004,
+        "windows": 115,
+        "patterns_mean": 172.2
+      }
+    },
+    {
+      "window": 35000,
+      "step": 3500,
+      "minsup": 320,
+      "overlap": 0.9,
+      "ratio": 6.94101950138564,
+      "small": {
+        "seconds": 0.03364391700000002,
+        "windows": 9,
+        "patterns_mean": 59.111111111111114
+      },
+      "large": {
+        "seconds": 0.23352308400000002,
+        "windows": 140,
+        "patterns_mean": 59.05
+      }
+    },
+    {
+      "window": 20000,
+      "step": 2000,
+      "minsup": 40,
+      "overlap": 0.9,
+      "ratio": 6.966341978270722,
+      "small": {
+        "seconds": 0.053055792000000004,
+        "windows": 23,
+        "patterns_mean": 226.8695652173913
+      },
+      "large": {
+        "seconds": 0.369604791,
+        "windows": 253,
+        "patterns_mean": 228.23320158102766
+      }
+    },
+    {
+      "window": 15000,
+      "step": 1500,
+      "minsup": 240,
+      "overlap": 0.9,
+      "ratio": 6.97656049612621,
+      "small": {
+        "seconds": 0.035575625,
+        "windows": 34,
+        "patterns_mean": 32.85294117647059
+      },
+      "large": {
+        "seconds": 0.2481955,
+        "windows": 340,
+        "patterns_mean": 32.80882352941177
+      }
+    },
+    {
+      "window": 25000,
+      "step": 2500,
+      "minsup": 240,
+      "overlap": 0.9,
+      "ratio": 6.983828352416954,
+      "small": {
+        "seconds": 0.035128207999999994,
+        "windows": 17,
+        "patterns_mean": 54.705882352941174
+      },
+      "large": {
+        "seconds": 0.24532937500000002,
+        "windows": 200,
+        "patterns_mean": 55.185
+      }
+    },
+    {
+      "window": 20000,
+      "step": 2000,
+      "minsup": 80,
+      "overlap": 0.9,
+      "ratio": 7.039001990730889,
+      "small": {
+        "seconds": 0.050616083000000006,
+        "windows": 23,
+        "patterns_mean": 157.0
+      },
+      "large": {
+        "seconds": 0.356286709,
+        "windows": 253,
+        "patterns_mean": 157.7193675889328
+      }
+    },
+    {
+      "window": 15000,
+      "step": 1500,
+      "minsup": 80,
+      "overlap": 0.9,
+      "ratio": 7.044150668983519,
+      "small": {
+        "seconds": 0.05366933400000001,
+        "windows": 34,
+        "patterns_mean": 150.55882352941177
+      },
+      "large": {
+        "seconds": 0.378054875,
+        "windows": 340,
+        "patterns_mean": 149.6
+      }
+    },
+    {
+      "window": 42000,
+      "step": 4200,
+      "minsup": 80,
+      "overlap": 0.9,
+      "ratio": 7.118752353006453,
+      "small": {
+        "seconds": 0.044668917,
+        "windows": 6,
+        "patterns_mean": 231.66666666666666
+      },
+      "large": {
+        "seconds": 0.317986958,
+        "windows": 115,
+        "patterns_mean": 234.56521739130434
+      }
+    },
+    {
+      "window": 10000,
+      "step": 1000,
+      "minsup": 80,
+      "overlap": 0.9,
+      "ratio": 7.214807108462252,
+      "small": {
+        "seconds": 0.04495954099999999,
+        "windows": 56,
+        "patterns_mean": 77.82142857142857
+      },
+      "large": {
+        "seconds": 0.324374416,
+        "windows": 515,
+        "patterns_mean": 77.37281553398059
+      }
+    },
+    {
+      "window": 15000,
+      "step": 1500,
+      "minsup": 500,
+      "overlap": 0.9,
+      "ratio": 7.232245483007588,
+      "small": {
+        "seconds": 0.032635708999999985,
+        "windows": 34,
+        "patterns_mean": 30.41176470588235
+      },
+      "large": {
+        "seconds": 0.236029459,
+        "windows": 340,
+        "patterns_mean": 30.5
+      }
+    },
+    {
+      "window": 10000,
+      "step": 1000,
+      "minsup": 120,
+      "overlap": 0.9,
+      "ratio": 7.4164066053644815,
+      "small": {
+        "seconds": 0.03998095800000001,
+        "windows": 56,
+        "patterns_mean": 40.892857142857146
+      },
+      "large": {
+        "seconds": 0.296515041,
+        "windows": 515,
+        "patterns_mean": 41.4621359223301
+      }
+    },
+    {
+      "window": 35000,
+      "step": 3500,
+      "minsup": 1000,
+      "overlap": 0.9,
+      "ratio": 7.470815979246396,
+      "small": {
+        "seconds": 0.029103374999999987,
+        "windows": 9,
+        "patterns_mean": 32.0
+      },
+      "large": {
+        "seconds": 0.21742595899999997,
+        "windows": 140,
+        "patterns_mean": 32.0
+      }
+    },
+    {
+      "window": 25000,
+      "step": 2500,
+      "minsup": 80,
+      "overlap": 0.9,
+      "ratio": 7.552490438482715,
+      "small": {
+        "seconds": 0.04176429199999998,
+        "windows": 17,
+        "patterns_mean": 165.2941176470588
+      },
+      "large": {
+        "seconds": 0.315424416,
+        "windows": 200,
+        "patterns_mean": 165.375
+      }
+    },
+    {
+      "window": 25000,
+      "step": 2500,
+      "minsup": 500,
+      "overlap": 0.9,
+      "ratio": 7.567601103640204,
+      "small": {
+        "seconds": 0.028334959000000007,
+        "windows": 17,
+        "patterns_mean": 32.0
+      },
+      "large": {
+        "seconds": 0.214427667,
+        "windows": 200,
+        "patterns_mean": 32.0
+      }
+    },
+    {
+      "window": 30000,
+      "step": 3000,
+      "minsup": 500,
+      "overlap": 0.9,
+      "ratio": 7.611260293972312,
+      "small": {
+        "seconds": 0.031934708000000006,
+        "windows": 12,
+        "patterns_mean": 32.166666666666664
+      },
+      "large": {
+        "seconds": 0.243063375,
+        "windows": 165,
+        "patterns_mean": 32.18787878787879
+      }
+    },
+    {
+      "window": 30000,
+      "step": 3000,
+      "minsup": 120,
+      "overlap": 0.9,
+      "ratio": 7.640354273237614,
+      "small": {
+        "seconds": 0.040694917,
+        "windows": 12,
+        "patterns_mean": 157.16666666666666
+      },
+      "large": {
+        "seconds": 0.310923583,
+        "windows": 165,
+        "patterns_mean": 157.63030303030303
+      }
+    },
+    {
+      "window": 42000,
+      "step": 4200,
+      "minsup": 160,
+      "overlap": 0.9,
+      "ratio": 7.830932989349279,
+      "small": {
+        "seconds": 0.035854374999999994,
+        "windows": 6,
+        "patterns_mean": 158.66666666666666
+      },
+      "large": {
+        "seconds": 0.280773208,
+        "windows": 115,
+        "patterns_mean": 158.69565217391303
+      }
+    },
+    {
+      "window": 42000,
+      "step": 4200,
+      "minsup": 800,
+      "overlap": 0.9,
+      "ratio": 7.8733556886049385,
+      "small": {
+        "seconds": 0.027958207999999984,
+        "windows": 6,
+        "patterns_mean": 32.0
+      },
+      "large": {
+        "seconds": 0.22012491599999998,
+        "windows": 115,
+        "patterns_mean": 32.0
+      }
+    },
+    {
+      "window": 30000,
+      "step": 3000,
+      "minsup": 160,
+      "overlap": 0.9,
+      "ratio": 7.909903907467815,
+      "small": {
+        "seconds": 0.040656125000000015,
+        "windows": 12,
+        "patterns_mean": 152.66666666666666
+      },
+      "large": {
+        "seconds": 0.321586042,
+        "windows": 165,
+        "patterns_mean": 151.23030303030302
+      }
+    },
+    {
+      "window": 40000,
+      "step": 4000,
+      "minsup": 40,
+      "overlap": 0.9,
+      "ratio": 7.947173912692348,
+      "small": {
+        "seconds": 0.065626458,
+        "windows": 7,
+        "patterns_mean": 680.4285714285714
+      },
+      "large": {
+        "seconds": 0.521544875,
+        "windows": 122,
+        "patterns_mean": 678.7377049180328
+      }
+    },
+    {
+      "window": 15000,
+      "step": 1500,
+      "minsup": 120,
+      "overlap": 0.9,
+      "ratio": 7.951439388636682,
+      "small": {
+        "seconds": 0.03567358300000001,
+        "windows": 34,
+        "patterns_mean": 75.58823529411765
+      },
+      "large": {
+        "seconds": 0.283656333,
+        "windows": 340,
+        "patterns_mean": 75.55
+      }
+    },
+    {
+      "window": 20000,
+      "step": 2000,
+      "minsup": 500,
+      "overlap": 0.9,
+      "ratio": 8.001661348175029,
+      "small": {
+        "seconds": 0.029391792,
+        "windows": 23,
+        "patterns_mean": 32.0
+      },
+      "large": {
+        "seconds": 0.23518316600000003,
+        "windows": 253,
+        "patterns_mean": 32.0
+      }
+    },
+    {
+      "window": 30000,
+      "step": 3000,
+      "minsup": 800,
+      "overlap": 0.9,
+      "ratio": 8.027857571356472,
+      "small": {
+        "seconds": 0.027984707999999997,
+        "windows": 12,
+        "patterns_mean": 32.0
+      },
+      "large": {
+        "seconds": 0.22465725,
+        "windows": 165,
+        "patterns_mean": 32.0
+      }
+    },
+    {
+      "window": 20000,
+      "step": 2000,
+      "minsup": 240,
+      "overlap": 0.9,
+      "ratio": 8.075846844137567,
+      "small": {
+        "seconds": 0.031174124999999997,
+        "windows": 23,
+        "patterns_mean": 40.91304347826087
+      },
+      "large": {
+        "seconds": 0.251757459,
+        "windows": 253,
+        "patterns_mean": 41.34782608695652
+      }
+    },
+    {
+      "window": 25000,
+      "step": 2500,
+      "minsup": 160,
+      "overlap": 0.9,
+      "ratio": 8.161939944024304,
+      "small": {
+        "seconds": 0.036578374999999996,
+        "windows": 17,
+        "patterns_mean": 124.94117647058823
+      },
+      "large": {
+        "seconds": 0.2985505,
+        "windows": 200,
+        "patterns_mean": 125.435
+      }
+    },
+    {
+      "window": 43000,
+      "step": 4300,
+      "minsup": 80,
+      "overlap": 0.9,
+      "ratio": 8.223434754491457,
+      "small": {
+        "seconds": 0.037963708999999984,
+        "windows": 6,
+        "patterns_mean": 238.0
+      },
+      "large": {
+        "seconds": 0.312192084,
+        "windows": 112,
+        "patterns_mean": 241.125
+      }
+    },
+    {
+      "window": 43000,
+      "step": 4300,
+      "minsup": 160,
+      "overlap": 0.9,
+      "ratio": 8.34967085254881,
+      "small": {
+        "seconds": 0.03344504100000001,
+        "windows": 6,
+        "patterns_mean": 159.5
+      },
+      "large": {
+        "seconds": 0.279255084,
+        "windows": 112,
+        "patterns_mean": 159.3125
+      }
+    },
+    {
+      "window": 20000,
+      "step": 2000,
+      "minsup": 320,
+      "overlap": 0.9,
+      "ratio": 8.372797107120205,
+      "small": {
+        "seconds": 0.027792375000000008,
+        "windows": 23,
+        "patterns_mean": 32.95652173913044
+      },
+      "large": {
+        "seconds": 0.23269991699999998,
+        "windows": 253,
+        "patterns_mean": 32.75494071146245
+      }
+    },
+    {
+      "window": 35000,
+      "step": 3500,
+      "minsup": 40,
+      "overlap": 0.9,
+      "ratio": 8.582319713808019,
+      "small": {
+        "seconds": 0.05525158299999999,
+        "windows": 9,
+        "patterns_mean": 540.6666666666666
+      },
+      "large": {
+        "seconds": 0.47418675,
+        "windows": 140,
+        "patterns_mean": 539.3142857142857
+      }
+    },
+    {
+      "window": 42000,
+      "step": 4200,
+      "minsup": 40,
+      "overlap": 0.9,
+      "ratio": 8.643905710045978,
+      "small": {
+        "seconds": 0.06682629200000001,
+        "windows": 6,
+        "patterns_mean": 727.8333333333334
+      },
+      "large": {
+        "seconds": 0.577640167,
+        "windows": 115,
+        "patterns_mean": 729.1652173913044
+      }
+    },
+    {
+      "window": 35000,
+      "step": 3500,
+      "minsup": 80,
+      "overlap": 0.9,
+      "ratio": 8.730974292154224,
+      "small": {
+        "seconds": 0.036388540999999996,
+        "windows": 9,
+        "patterns_mean": 191.22222222222223
+      },
+      "large": {
+        "seconds": 0.31770741599999996,
+        "windows": 140,
+        "patterns_mean": 194.35
+      }
+    },
+    {
+      "window": 40000,
+      "step": 4000,
+      "minsup": 80,
+      "overlap": 0.9,
+      "ratio": 8.763254693508255,
+      "small": {
+        "seconds": 0.035368,
+        "windows": 7,
+        "patterns_mean": 218.42857142857142
+      },
+      "large": {
+        "seconds": 0.30993879199999996,
+        "windows": 122,
+        "patterns_mean": 222.0327868852459
+      }
+    },
+    {
+      "window": 30000,
+      "step": 3000,
+      "minsup": 80,
+      "overlap": 0.9,
+      "ratio": 8.7897882684318,
+      "small": {
+        "seconds": 0.035502500000000006,
+        "windows": 12,
+        "patterns_mean": 176.83333333333334
+      },
+      "large": {
+        "seconds": 0.312059458,
+        "windows": 165,
+        "patterns_mean": 177.3151515151515
+      }
+    },
+    {
+      "window": 30000,
+      "step": 3000,
+      "minsup": 40,
+      "overlap": 0.9,
+      "ratio": 8.844212498613805,
+      "small": {
+        "seconds": 0.047828791999999995,
+        "windows": 12,
+        "patterns_mean": 406.75
+      },
+      "large": {
+        "seconds": 0.42300799999999994,
+        "windows": 165,
+        "patterns_mean": 407.5151515151515
+      }
+    },
+    {
+      "window": 42000,
+      "step": 4200,
+      "minsup": 1000,
+      "overlap": 0.9,
+      "ratio": 8.878941956250213,
+      "small": {
+        "seconds": 0.024050083,
+        "windows": 6,
+        "patterns_mean": 32.0
+      },
+      "large": {
+        "seconds": 0.213539291,
+        "windows": 115,
+        "patterns_mean": 32.0
+      }
+    },
+    {
+      "window": 40000,
+      "step": 4000,
+      "minsup": 120,
+      "overlap": 0.9,
+      "ratio": 8.94578445746653,
+      "small": {
+        "seconds": 0.03195425000000002,
+        "windows": 7,
+        "patterns_mean": 169.42857142857142
+      },
+      "large": {
+        "seconds": 0.285855833,
+        "windows": 122,
+        "patterns_mean": 168.827868852459
+      }
+    },
+    {
+      "window": 35000,
+      "step": 3500,
+      "minsup": 800,
+      "overlap": 0.9,
+      "ratio": 9.299908568750837,
+      "small": {
+        "seconds": 0.023806959000000016,
+        "windows": 9,
+        "patterns_mean": 32.0
+      },
+      "large": {
+        "seconds": 0.221402542,
+        "windows": 140,
+        "patterns_mean": 32.0
+      }
+    },
+    {
+      "window": 25000,
+      "step": 2500,
+      "minsup": 320,
+      "overlap": 0.9,
+      "ratio": 9.367237141592481,
+      "small": {
+        "seconds": 0.025416250000000015,
+        "windows": 17,
+        "patterns_mean": 38.05882352941177
+      },
+      "large": {
+        "seconds": 0.23808004100000002,
+        "windows": 200,
+        "patterns_mean": 37.91
+      }
+    },
+    {
+      "window": 25000,
+      "step": 2500,
+      "minsup": 120,
+      "overlap": 0.9,
+      "ratio": 9.498388739143113,
+      "small": {
+        "seconds": 0.03465391699999999,
+        "windows": 17,
+        "patterns_mean": 154.11764705882354
+      },
+      "large": {
+        "seconds": 0.329156375,
+        "windows": 200,
+        "patterns_mean": 153.7
+      }
+    },
+    {
+      "window": 25000,
+      "step": 2500,
+      "minsup": 800,
+      "overlap": 0.9,
+      "ratio": 9.630749667943663,
+      "small": {
+        "seconds": 0.02277475000000001,
+        "windows": 17,
+        "patterns_mean": 31.88235294117647
+      },
+      "large": {
+        "seconds": 0.21933791600000002,
+        "windows": 200,
+        "patterns_mean": 31.825
+      }
+    },
+    {
+      "window": 35000,
+      "step": 3500,
+      "minsup": 120,
+      "overlap": 0.9,
+      "ratio": 9.840250937265681,
+      "small": {
+        "seconds": 0.03100775,
+        "windows": 9,
+        "patterns_mean": 160.77777777777777
+      },
+      "large": {
+        "seconds": 0.30512404099999996,
+        "windows": 140,
+        "patterns_mean": 161.7
+      }
+    },
+    {
+      "window": 35000,
+      "step": 3500,
+      "minsup": 160,
+      "overlap": 0.9,
+      "ratio": 9.940362084847377,
+      "small": {
+        "seconds": 0.03006466599999999,
+        "windows": 9,
+        "patterns_mean": 154.11111111111111
+      },
+      "large": {
+        "seconds": 0.29885366599999996,
+        "windows": 140,
+        "patterns_mean": 154.56428571428572
+      }
+    },
+    {
+      "window": 40000,
+      "step": 4000,
+      "minsup": 800,
+      "overlap": 0.9,
+      "ratio": 10.419468540316947,
+      "small": {
+        "seconds": 0.020548124999999987,
+        "windows": 7,
+        "patterns_mean": 32.0
+      },
+      "large": {
+        "seconds": 0.21410054200000003,
+        "windows": 122,
+        "patterns_mean": 32.0
+      }
+    },
+    {
+      "window": 43000,
+      "step": 4300,
+      "minsup": 40,
+      "overlap": 0.9,
+      "ratio": 10.704883073101076,
+      "small": {
+        "seconds": 0.053838125000000014,
+        "windows": 6,
+        "patterns_mean": 750.8333333333334
+      },
+      "large": {
+        "seconds": 0.576330833,
+        "windows": 112,
+        "patterns_mean": 751.4732142857143
+      }
+    },
+    {
+      "window": 40000,
+      "step": 4000,
+      "minsup": 240,
+      "overlap": 0.9,
+      "ratio": 10.865823665281788,
+      "small": {
+        "seconds": 0.025498416000000024,
+        "windows": 7,
+        "patterns_mean": 139.0
+      },
+      "large": {
+        "seconds": 0.277061292,
+        "windows": 122,
+        "patterns_mean": 141.08196721311475
+      }
+    },
+    {
+      "window": 43000,
+      "step": 4300,
+      "minsup": 1000,
+      "overlap": 0.9,
+      "ratio": 10.90411467376521,
+      "small": {
+        "seconds": 0.01936770800000001,
+        "windows": 6,
+        "patterns_mean": 32.0
+      },
+      "large": {
+        "seconds": 0.21118770899999997,
+        "windows": 112,
+        "patterns_mean": 32.0
+      }
+    },
+    {
+      "window": 43000,
+      "step": 4300,
+      "minsup": 120,
+      "overlap": 0.9,
+      "ratio": 10.997731291283928,
+      "small": {
+        "seconds": 0.02662704099999999,
+        "windows": 6,
+        "patterns_mean": 172.16666666666666
+      },
+      "large": {
+        "seconds": 0.292837042,
+        "windows": 112,
+        "patterns_mean": 173.8125
+      }
+    },
+    {
+      "window": 35000,
+      "step": 3500,
+      "minsup": 240,
+      "overlap": 0.9,
+      "ratio": 11.145127353054253,
+      "small": {
+        "seconds": 0.024217833000000008,
+        "windows": 9,
+        "patterns_mean": 107.44444444444444
+      },
+      "large": {
+        "seconds": 0.269910833,
+        "windows": 140,
+        "patterns_mean": 107.57857142857142
+      }
+    },
+    {
+      "window": 30000,
+      "step": 3000,
+      "minsup": 1000,
+      "overlap": 0.9,
+      "ratio": 11.21001100246785,
+      "small": {
+        "seconds": 0.020751707999999994,
+        "windows": 12,
+        "patterns_mean": 31.0
+      },
+      "large": {
+        "seconds": 0.232626875,
+        "windows": 165,
+        "patterns_mean": 30.89090909090909
+      }
+    },
+    {
+      "window": 43000,
+      "step": 4300,
+      "minsup": 240,
+      "overlap": 0.9,
+      "ratio": 11.253424304309267,
+      "small": {
+        "seconds": 0.024238499999999982,
+        "windows": 6,
+        "patterns_mean": 151.83333333333334
+      },
+      "large": {
+        "seconds": 0.27276612499999997,
+        "windows": 112,
+        "patterns_mean": 149.9375
+      }
+    },
+    {
+      "window": 42000,
+      "step": 4200,
+      "minsup": 320,
+      "overlap": 0.9,
+      "ratio": 11.261651342366001,
+      "small": {
+        "seconds": 0.022182959000000002,
+        "windows": 6,
+        "patterns_mean": 82.33333333333333
+      },
+      "large": {
+        "seconds": 0.24981674999999998,
+        "windows": 115,
+        "patterns_mean": 80.98260869565217
+      }
+    },
+    {
+      "window": 42000,
+      "step": 4200,
+      "minsup": 240,
+      "overlap": 0.9,
+      "ratio": 11.381884646513901,
+      "small": {
+        "seconds": 0.02404858400000001,
+        "windows": 6,
+        "patterns_mean": 149.83333333333334
+      },
+      "large": {
+        "seconds": 0.273718209,
+        "windows": 115,
+        "patterns_mean": 148.01739130434783
+      }
+    },
+    {
+      "window": 40000,
+      "step": 4000,
+      "minsup": 320,
+      "overlap": 0.9,
+      "ratio": 11.390692827047252,
+      "small": {
+        "seconds": 0.020808208999999994,
+        "windows": 7,
+        "patterns_mean": 72.14285714285714
+      },
+      "large": {
+        "seconds": 0.237019917,
+        "windows": 122,
+        "patterns_mean": 72.97540983606558
+      }
+    },
+    {
+      "window": 30000,
+      "step": 3000,
+      "minsup": 240,
+      "overlap": 0.9,
+      "ratio": 11.708227580238832,
+      "small": {
+        "seconds": 0.021400082999999986,
+        "windows": 12,
+        "patterns_mean": 72.91666666666667
+      },
+      "large": {
+        "seconds": 0.250557042,
+        "windows": 165,
+        "patterns_mean": 73.46666666666667
+      }
+    },
+    {
+      "window": 43000,
+      "step": 4300,
+      "minsup": 500,
+      "overlap": 0.9,
+      "ratio": 11.73556028681253,
+      "small": {
+        "seconds": 0.019833582999999988,
+        "windows": 6,
+        "patterns_mean": 42.333333333333336
+      },
+      "large": {
+        "seconds": 0.232758209,
+        "windows": 112,
+        "patterns_mean": 43.0625
+      }
+    },
+    {
+      "window": 43000,
+      "step": 4300,
+      "minsup": 320,
+      "overlap": 0.9,
+      "ratio": 11.771726480653745,
+      "small": {
+        "seconds": 0.019980582999999996,
+        "windows": 6,
+        "patterns_mean": 87.16666666666667
+      },
+      "large": {
+        "seconds": 0.23520595800000002,
+        "windows": 112,
+        "patterns_mean": 85.99107142857143
+      }
+    },
+    {
+      "window": 35000,
+      "step": 3500,
+      "minsup": 500,
+      "overlap": 0.9,
+      "ratio": 11.962526377350818,
+      "small": {
+        "seconds": 0.019581666999999997,
+        "windows": 9,
+        "patterns_mean": 34.0
+      },
+      "large": {
+        "seconds": 0.234246208,
+        "windows": 140,
+        "patterns_mean": 34.371428571428574
+      }
+    },
+    {
+      "window": 42000,
+      "step": 4200,
+      "minsup": 500,
+      "overlap": 0.9,
+      "ratio": 11.985870899528283,
+      "small": {
+        "seconds": 0.018442999999999987,
+        "windows": 6,
+        "patterns_mean": 42.0
+      },
+      "large": {
+        "seconds": 0.22105541699999998,
+        "windows": 115,
+        "patterns_mean": 41.982608695652175
+      }
+    },
+    {
+      "window": 40000,
+      "step": 4000,
+      "minsup": 1000,
+      "overlap": 0.9,
+      "ratio": 12.994028816896366,
+      "small": {
+        "seconds": 0.016760999999999998,
+        "windows": 7,
+        "patterns_mean": 32.0
+      },
+      "large": {
+        "seconds": 0.21779291699999997,
+        "windows": 122,
+        "patterns_mean": 32.0
+      }
+    },
+    {
+      "window": 40000,
+      "step": 4000,
+      "minsup": 500,
+      "overlap": 0.9,
+      "ratio": 13.839182854105806,
+      "small": {
+        "seconds": 0.016440834000000015,
+        "windows": 7,
+        "patterns_mean": 39.57142857142857
+      },
+      "large": {
+        "seconds": 0.227527708,
+        "windows": 122,
+        "patterns_mean": 38.90983606557377
+      }
+    },
+    {
+      "window": 40000,
+      "step": 4000,
+      "minsup": 160,
+      "overlap": 0.9,
+      "ratio": 14.196961753770694,
+      "small": {
+        "seconds": 0.020743874999999995,
+        "windows": 7,
+        "patterns_mean": 157.57142857142858
+      },
+      "large": {
+        "seconds": 0.2945,
+        "windows": 122,
+        "patterns_mean": 157.54098360655738
+      }
+    },
+    {
+      "window": 43000,
+      "step": 4300,
+      "minsup": 800,
+      "overlap": 0.9,
+      "ratio": 15.393896249542783,
+      "small": {
+        "seconds": 0.01356333300000001,
+        "windows": 6,
+        "patterns_mean": 32.0
+      },
+      "large": {
+        "seconds": 0.20879254100000003,
+        "windows": 112,
+        "patterns_mean": 32.0
+      }
+    }
+  ]
+}

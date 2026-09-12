@@ -1,0 +1,14 @@
+{
+  "algorithm": "SOPP-OPS",
+  "dataset": "SDB5",
+  "minsup": 80,
+  "window": 50000,
+  "step": 5000,
+  "windows": 95,
+  "status": "measured",
+  "elapsed_seconds": 4.372216291,
+  "peak_rss_mib": 96.04296875,
+  "patterns_total": 10451,
+  "first_window_seconds": 0.08544770800000001,
+  "initial_estimate_seconds": 8.11753226
+}

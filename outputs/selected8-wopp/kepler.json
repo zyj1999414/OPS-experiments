@@ -1,0 +1,14 @@
+{
+  "algorithm": "WOPP-Miner",
+  "dataset": "OPS-data-main9/03_astronomy_kepler/03_astronomy_kepler_approx16MiB.f64",
+  "data_length": 2005671,
+  "source_series": 16,
+  "window": 20000,
+  "step": 2000,
+  "minsup": 8,
+  "windows": 850,
+  "patterns_total": 1347418,
+  "patterns_mean_per_window": 1585.1976470588236,
+  "elapsed_seconds": 30.887305666,
+  "peak_rss_mib": 72.78125
+}

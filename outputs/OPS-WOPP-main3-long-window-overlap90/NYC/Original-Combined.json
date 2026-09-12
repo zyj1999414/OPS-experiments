@@ -1,0 +1,17 @@
+{
+  "algorithm": "OPS-Miner-ScanAndFusionReuse",
+  "fusion_cache_key": "(prefix_pattern, suffix_pattern, C)",
+  "dataset": "OPS-data-main9/00_transport_nyc/00_transport_nyc_256KiB.f64",
+  "window": 10000,
+  "step": 1000,
+  "minsup": 5,
+  "windows": 23,
+  "patterns_total": 26212,
+  "patterns_mean_per_window": 1139.6521739130435,
+  "fusion_cache_hits": 23946,
+  "fusion_cache_misses": 2220,
+  "fusion_cache_entries": 2220,
+  "fusion_cache_hit_rate": 0.9151570740655813,
+  "elapsed_seconds": 0.08674933400000001,
+  "peak_rss_mib": 40.42578125
+}

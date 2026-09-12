@@ -1,0 +1,14 @@
+{
+  "algorithm": "OPS-ISC",
+  "dataset": "SDB1",
+  "minsup": 40,
+  "window": 1000,
+  "step": 100,
+  "windows": 45,
+  "status": "measured",
+  "elapsed_seconds": 0.183745916,
+  "peak_rss_mib": 29.16796875,
+  "patterns_total": 833,
+  "first_window_seconds": 0.008376542,
+  "initial_estimate_seconds": 0.37694439
+}

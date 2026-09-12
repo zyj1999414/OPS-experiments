@@ -1,0 +1,12 @@
+{
+  "algorithm": "OPS-Miner-StreamlinedReuse",
+  "dataset": "OPS-data-main9/01_industrial_cwru/01_industrial_cwru_800KB.f64",
+  "window": 50000,
+  "step": 5000,
+  "minsup": 25,
+  "windows": 11,
+  "patterns_total": 20364,
+  "patterns_mean_per_window": 1851.2727272727273,
+  "elapsed_seconds": 0.17374399999999998,
+  "peak_rss_mib": 82.9296875
+}

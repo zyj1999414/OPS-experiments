@@ -1,0 +1,20 @@
+{
+  "algorithm": "NegativeBorderSlidingNewsup",
+  "dataset": "OPS-data-main9/02_weather_noaa_uscrn/02_weather_noaa_uscrn_4MiB.f64",
+  "data_length": 524288,
+  "window": 105120,
+  "step": 10512,
+  "minsup": 53,
+  "windows": 40,
+  "patterns_total": 10356,
+  "patterns_mean_per_window": 258.9,
+  "initial_runtime_seconds": 0.103014625,
+  "update_runtime_seconds": 0.41025679100000007,
+  "elapsed_seconds": 0.520495625,
+  "peak_rss_mib": 175.50390625,
+  "levels": 23,
+  "repair_pair_checks": 10393,
+  "repair_endpoint_checks": 22736,
+  "normal_new_endpoint_checks": 8262432,
+  "normal_unique_event_checks": 49640
+}

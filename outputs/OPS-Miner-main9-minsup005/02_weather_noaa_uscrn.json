@@ -1,0 +1,17 @@
+{
+  "algorithm": "OPS-Miner",
+  "dataset": "OPS-data-main9/02_weather_noaa_uscrn/02_weather_noaa_uscrn_4MiB.f64",
+  "data_length": 524288,
+  "source_series": 1,
+  "window": 105120,
+  "step": 10512,
+  "minsup": 526,
+  "windows": 40,
+  "patterns_total": 1978,
+  "patterns_min": 44,
+  "patterns_max": 55,
+  "patterns_mean_per_window": 49.45,
+  "elapsed_seconds": 0.15738416700000002,
+  "peak_rss_bytes": 84885504,
+  "peak_rss_mib": 80.953125
+}

@@ -1,0 +1,20 @@
+{
+  "algorithm": "OPS-Enum",
+  "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/OPS-data-main9/05_physics_ligo/05_physics_ligo_128MiB.f64",
+  "data_length": 16777216,
+  "source_series": 1,
+  "window": 4422,
+  "step": 442,
+  "minsup": 4,
+  "count_semantics": "frequent patterns",
+  "windows": 100,
+  "patterns_total": 183836,
+  "patterns_min": 1500,
+  "patterns_max": 2612,
+  "candidates_total": null,
+  "elapsed_seconds": 4.39239575,
+  "patterns_mean_per_window": 1838.36,
+  "peak_rss_bytes": 39096320,
+  "peak_rss_mib": 37.28515625,
+  "candidates_mean_per_window": null
+}

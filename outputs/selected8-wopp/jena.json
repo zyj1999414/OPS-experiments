@@ -1,0 +1,14 @@
+{
+  "algorithm": "WOPP-Miner",
+  "dataset": "work/sdb1-8-f64/SDB6_Jena_Temperature.f64",
+  "data_length": 420551,
+  "source_series": 1,
+  "window": 16000,
+  "step": 1600,
+  "minsup": 4,
+  "windows": 253,
+  "patterns_total": 822876,
+  "patterns_mean_per_window": 3252.4743083003955,
+  "elapsed_seconds": 8.296501417,
+  "peak_rss_mib": 45.40625
+}

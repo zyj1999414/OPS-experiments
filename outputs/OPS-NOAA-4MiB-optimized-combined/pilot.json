@@ -1,0 +1,15 @@
+{
+  "algorithm": "OPS-OptimizedCombinedReuse",
+  "dataset": "OPS-data-main9/02_weather_noaa_uscrn/02_weather_noaa_uscrn_4MiB.f64",
+  "window": 105120,
+  "step": 10512,
+  "minsup": 53,
+  "windows": 40,
+  "patterns_total": 10356,
+  "patterns_mean_per_window": 258.9,
+  "fusion_cache_hits": 10846,
+  "fusion_cache_misses": 336,
+  "relation_cache_levels": 22,
+  "elapsed_seconds": 0.26295425000000006,
+  "peak_rss_mib": 83.41796875
+}

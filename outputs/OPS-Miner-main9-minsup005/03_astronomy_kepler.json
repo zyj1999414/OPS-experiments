@@ -1,0 +1,17 @@
+{
+  "algorithm": "OPS-Miner",
+  "dataset": "OPS-data-main9/03_astronomy_kepler/03_astronomy_kepler_approx16MiB.f64",
+  "data_length": 2005671,
+  "source_series": 16,
+  "window": 100000,
+  "step": 10000,
+  "minsup": 500,
+  "windows": 46,
+  "patterns_total": 7882,
+  "patterns_min": 152,
+  "patterns_max": 278,
+  "patterns_mean_per_window": 171.34782608695653,
+  "elapsed_seconds": 0.33100375000000004,
+  "peak_rss_bytes": 145940480,
+  "peak_rss_mib": 139.1796875
+}

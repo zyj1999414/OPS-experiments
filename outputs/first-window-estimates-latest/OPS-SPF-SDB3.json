@@ -1,0 +1,22 @@
+{
+  "algorithm": "OPS-SPF",
+  "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/OPS-data-main9/01_industrial_cwru/01_industrial_cwru_800KB.f64",
+  "data_length": 100000,
+  "source_series": 1,
+  "window": 15000,
+  "step": 1500,
+  "minsup": 4,
+  "count_semantics": "frequent patterns",
+  "windows": 1,
+  "patterns_total": 4112,
+  "patterns_min": 4112,
+  "patterns_max": 4112,
+  "candidates_total": 4112,
+  "elapsed_seconds": 4.4749295,
+  "patterns_mean_per_window": 4112.0,
+  "peak_rss_bytes": 30523392,
+  "peak_rss_mib": 29.109375,
+  "candidates_mean_per_window": 4112.0,
+  "estimated_windows": 57,
+  "estimated_total_seconds": 255.0709815
+}

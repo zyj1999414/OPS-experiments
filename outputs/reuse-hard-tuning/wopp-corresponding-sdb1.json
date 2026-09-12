@@ -1,0 +1,17 @@
+[
+  {
+    "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/work/sdb1-8-f64/SDB1_GOOG.f64",
+    "status": "complete",
+    "algorithm": "WOPP-Miner",
+    "data_length": 5484,
+    "source_series": 1,
+    "window": 200,
+    "step": 10,
+    "minsup": 1,
+    "windows": 529,
+    "patterns_total": 6415859,
+    "patterns_mean_per_window": 12128.27788279773,
+    "elapsed_seconds": 58.429811041,
+    "peak_rss_mib": 30.75
+  }
+]

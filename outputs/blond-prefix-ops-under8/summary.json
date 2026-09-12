@@ -1,0 +1,157 @@
+{
+  "results": [
+    {
+      "dataset": "SDB61_1",
+      "data_length": 65536,
+      "window": 65536,
+      "step": 65536,
+      "overlap": 0,
+      "minsup": 80,
+      "windows": 1,
+      "runtime_trials": [
+        0.012567333999999986,
+        0.026401625000000012,
+        0.01654583300000001,
+        0.010856333999999995,
+        0.018626749999999997
+      ],
+      "runtime_median": 0.01654583300000001,
+      "peak_rss_mib_median": 45.19921875,
+      "patterns_total": 468
+    },
+    {
+      "dataset": "SDB62_2",
+      "data_length": 131072,
+      "window": 65536,
+      "step": 65536,
+      "overlap": 0,
+      "minsup": 80,
+      "windows": 2,
+      "runtime_trials": [
+        0.03840212500000001,
+        0.021377666000000017,
+        0.029905833000000007,
+        0.036824915999999985,
+        0.019042334000000008
+      ],
+      "runtime_median": 0.029905833000000007,
+      "peak_rss_mib_median": 54.703125,
+      "patterns_total": 927
+    },
+    {
+      "dataset": "SDB63_3",
+      "data_length": 196608,
+      "window": 65536,
+      "step": 65536,
+      "overlap": 0,
+      "minsup": 80,
+      "windows": 3,
+      "runtime_trials": [
+        0.02257504099999999,
+        0.036063417,
+        0.022894957999999993,
+        0.03512395800000001,
+        0.047393415999999994
+      ],
+      "runtime_median": 0.03512395800000001,
+      "peak_rss_mib_median": 55.99609375,
+      "patterns_total": 1394
+    },
+    {
+      "dataset": "SDB64_4",
+      "data_length": 262144,
+      "window": 65536,
+      "step": 65536,
+      "overlap": 0,
+      "minsup": 80,
+      "windows": 4,
+      "runtime_trials": [
+        0.06325183300000001,
+        0.050816083,
+        0.046582708999999986,
+        0.031892041999999995,
+        0.04363866599999999
+      ],
+      "runtime_median": 0.046582708999999986,
+      "peak_rss_mib_median": 65.76171875,
+      "patterns_total": 1855
+    },
+    {
+      "dataset": "SDB65_5",
+      "data_length": 327680,
+      "window": 65536,
+      "step": 65536,
+      "overlap": 0,
+      "minsup": 80,
+      "windows": 5,
+      "runtime_trials": [
+        0.05734245800000001,
+        0.05194241599999999,
+        0.06572983400000001,
+        0.06235270800000001,
+        0.05106733399999999
+      ],
+      "runtime_median": 0.05734245800000001,
+      "peak_rss_mib_median": 77.37890625,
+      "patterns_total": 2320
+    },
+    {
+      "dataset": "SDB66_6",
+      "data_length": 393216,
+      "window": 65536,
+      "step": 65536,
+      "overlap": 0,
+      "minsup": 80,
+      "windows": 6,
+      "runtime_trials": [
+        0.06088816600000002,
+        0.05039887500000001,
+        0.06501500000000002,
+        0.05621975000000001,
+        0.059917207999999986
+      ],
+      "runtime_median": 0.059917207999999986,
+      "peak_rss_mib_median": 73.0,
+      "patterns_total": 2783
+    },
+    {
+      "dataset": "SDB67_7",
+      "data_length": 458752,
+      "window": 65536,
+      "step": 65536,
+      "overlap": 0,
+      "minsup": 80,
+      "windows": 7,
+      "runtime_trials": [
+        0.06177441700000001,
+        0.07842437500000002,
+        0.071387958,
+        0.056992457999999996,
+        0.070266584
+      ],
+      "runtime_median": 0.070266584,
+      "peak_rss_mib_median": 81.3984375,
+      "patterns_total": 3230
+    },
+    {
+      "dataset": "SDB68_8",
+      "data_length": 524288,
+      "window": 65536,
+      "step": 65536,
+      "overlap": 0,
+      "minsup": 80,
+      "windows": 8,
+      "runtime_trials": [
+        0.08104312500000002,
+        0.09273616600000001,
+        0.098897083,
+        0.054105083,
+        0.07291620899999998
+      ],
+      "runtime_median": 0.08104312500000002,
+      "peak_rss_mib_median": 76.015625,
+      "patterns_total": 3687
+    }
+  ],
+  "endpoint_runtime_ratio": 4.898098814366129
+}

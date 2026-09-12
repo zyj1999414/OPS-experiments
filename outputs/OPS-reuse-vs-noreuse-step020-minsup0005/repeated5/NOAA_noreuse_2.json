@@ -1,0 +1,18 @@
+{
+  "algorithm": "OPS-NoReuse",
+  "dataset": "OPS-data-main9/02_weather_noaa_uscrn/02_weather_noaa_uscrn_4MiB.f64",
+  "data_length": 524288,
+  "source_series": 1,
+  "window": 105120,
+  "step": 21024,
+  "minsup": 53,
+  "count_semantics": "frequent patterns",
+  "windows": 20,
+  "patterns_total": 5181,
+  "patterns_min": 241,
+  "patterns_max": 271,
+  "elapsed_seconds": 0.14831499999999997,
+  "patterns_mean_per_window": 259.05,
+  "peak_rss_bytes": 92004352,
+  "peak_rss_mib": 87.7421875
+}

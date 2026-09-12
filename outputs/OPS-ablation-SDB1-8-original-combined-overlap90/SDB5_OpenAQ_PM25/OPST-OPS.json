@@ -1,0 +1,18 @@
+{
+  "algorithm": "OPST-OPS",
+  "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/work/sdb1-8-f64/SDB5_OpenAQ_PM25.f64",
+  "data_length": 10000,
+  "source_series": 1,
+  "window": 2000,
+  "step": 200,
+  "minsup": 3,
+  "count_semantics": "maximal frequent patterns",
+  "windows": 41,
+  "patterns_total": 10601,
+  "patterns_min": 160,
+  "patterns_max": 329,
+  "elapsed_seconds": 0.735545833,
+  "patterns_mean_per_window": 258.5609756097561,
+  "peak_rss_bytes": 41545728,
+  "peak_rss_mib": 39.62109375
+}

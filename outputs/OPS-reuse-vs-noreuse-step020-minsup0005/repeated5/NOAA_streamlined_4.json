@@ -1,0 +1,12 @@
+{
+  "algorithm": "OPS-Miner-StreamlinedReuse",
+  "dataset": "OPS-data-main9/02_weather_noaa_uscrn/02_weather_noaa_uscrn_4MiB.f64",
+  "window": 105120,
+  "step": 21024,
+  "minsup": 53,
+  "windows": 20,
+  "patterns_total": 5181,
+  "patterns_mean_per_window": 259.05,
+  "elapsed_seconds": 0.161242375,
+  "peak_rss_mib": 79.125
+}

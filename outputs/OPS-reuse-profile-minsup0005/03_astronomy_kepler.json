@@ -1,0 +1,26 @@
+{
+  "dataset": "OPS-data-main9/03_astronomy_kepler/03_astronomy_kepler_approx16MiB.f64",
+  "window": 100000,
+  "step": 10000,
+  "minsup": 50,
+  "windows": 46,
+  "reuse_updates": 30,
+  "component_total_ms": {
+    "reuse_overlap_pis2": 0.010045,
+    "remove_leaving_counts": 0.909832,
+    "scan_arriving_positions": 6.759792,
+    "add_arriving_counts": 0.69417,
+    "zero_window_first_id": 0.024501,
+    "filter_ids_by_minsup": 0.060292
+  },
+  "component_mean_ms_per_update": {
+    "reuse_overlap_pis2": 0.0003348333333333333,
+    "remove_leaving_counts": 0.030327733333333332,
+    "scan_arriving_positions": 0.22532639999999998,
+    "add_arriving_counts": 0.023139,
+    "zero_window_first_id": 0.0008167000000000001,
+    "filter_ids_by_minsup": 0.0020097333333333333
+  },
+  "reuse_total_ms": 8.458632,
+  "reuse_mean_ms_per_update": 0.28195440000000005
+}

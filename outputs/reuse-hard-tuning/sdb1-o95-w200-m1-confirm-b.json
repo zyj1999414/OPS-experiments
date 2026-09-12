@@ -1,0 +1,58 @@
+{
+  "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/work/sdb1-8-f64/SDB1_GOOG.f64",
+  "window": 200,
+  "step": 10,
+  "minsup": 1,
+  "prefix": null,
+  "repetitions": 1,
+  "windows": 529,
+  "patterns_total": 6466066,
+  "patterns_mean": 12223.187145557657,
+  "median_seconds": {
+    "Original-Combined": 16.546735458,
+    "OPS-NoReuse": 36.156219958
+  },
+  "speedup": 2.185096876043862,
+  "time_reduction_percent": 54.23543866803245,
+  "raw": {
+    "Original-Combined": [
+      {
+        "algorithm": "OPS-Miner-ScanAndFusionReuse",
+        "fusion_cache_key": "(prefix_pattern, suffix_pattern, C)",
+        "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/work/sdb1-8-f64/SDB1_GOOG.f64",
+        "window": 200,
+        "step": 10,
+        "minsup": 1,
+        "windows": 529,
+        "patterns_total": 6466066,
+        "patterns_mean_per_window": 12223.187145557657,
+        "fusion_cache_hits": 5968580,
+        "fusion_cache_misses": 497349,
+        "fusion_cache_entries": 497349,
+        "fusion_cache_hit_rate": 0.9230815865747984,
+        "elapsed_seconds": 16.546735458,
+        "peak_rss_mib": 431.28515625
+      }
+    ],
+    "OPS-NoReuse": [
+      {
+        "algorithm": "OPS-NoReuse",
+        "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/work/sdb1-8-f64/SDB1_GOOG.f64",
+        "data_length": 5484,
+        "source_series": 1,
+        "window": 200,
+        "step": 10,
+        "minsup": 1,
+        "count_semantics": "frequent patterns",
+        "windows": 529,
+        "patterns_total": 6466066,
+        "patterns_min": 4903,
+        "patterns_max": 19161,
+        "elapsed_seconds": 36.156219958,
+        "patterns_mean_per_window": 12223.187145557657,
+        "peak_rss_bytes": 71421952,
+        "peak_rss_mib": 68.11328125
+      }
+    ]
+  }
+}

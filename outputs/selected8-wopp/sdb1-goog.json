@@ -1,0 +1,14 @@
+{
+  "algorithm": "WOPP-Miner",
+  "dataset": "work/sdb1-8-f64/SDB1_GOOG.f64",
+  "data_length": 5484,
+  "source_series": 1,
+  "window": 1000,
+  "step": 100,
+  "minsup": 4,
+  "windows": 45,
+  "patterns_total": 10196,
+  "patterns_mean_per_window": 226.57777777777778,
+  "elapsed_seconds": 0.14003816700000002,
+  "peak_rss_mib": 25.83203125
+}

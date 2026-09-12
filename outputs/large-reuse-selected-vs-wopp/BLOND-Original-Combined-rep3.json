@@ -1,0 +1,17 @@
+{
+  "algorithm": "OPS-Miner-ScanAndFusionReuse",
+  "fusion_cache_key": "(prefix_pattern, suffix_pattern, C)",
+  "dataset": "OPS-data-main9/06_power_blond250/06_power_blond250_256MiB.f64",
+  "window": 5000000,
+  "step": 500000,
+  "minsup": 2500,
+  "windows": 58,
+  "patterns_total": 58006,
+  "patterns_mean_per_window": 1000.1034482758621,
+  "fusion_cache_hits": 57103,
+  "fusion_cache_misses": 1019,
+  "fusion_cache_entries": 1019,
+  "fusion_cache_hit_rate": 0.9824679123223564,
+  "elapsed_seconds": 15.351404542000001,
+  "peak_rss_mib": 1089.06640625
+}

@@ -1,0 +1,8 @@
+{
+  "status": "running",
+  "algorithm": "OPS-ISC",
+  "dataset": "SDB8",
+  "size_mib": 32,
+  "phase": "timing",
+  "started_unix": 1788598712.140592
+}

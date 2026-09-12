@@ -1,0 +1,46 @@
+{
+  "dataset": "BLOND-250 Electric Current",
+  "window": 200000,
+  "step": 20000,
+  "overlap": "90%",
+  "minsup": 40,
+  "repeats": 5,
+  "rows": [
+    {
+      "size_mib": 4,
+      "length": 524288,
+      "windows": 17,
+      "runtimes_seconds": [
+        0.38772862499999994,
+        0.41312845899999995,
+        0.37834187500000005,
+        0.378171959,
+        0.397931708
+      ],
+      "median_runtime_seconds": 0.38772862499999994,
+      "mean_runtime_seconds": 0.3910605252,
+      "median_peak_rss_mib": 195.890625,
+      "patterns_total": 39198,
+      "patterns_mean_per_window": 2305.764705882353
+    },
+    {
+      "size_mib": 32,
+      "length": 4194304,
+      "windows": 200,
+      "runtimes_seconds": [
+        3.453373834,
+        3.4198936669999997,
+        3.624795916,
+        3.46468025,
+        5.371996125
+      ],
+      "median_runtime_seconds": 3.46468025,
+      "mean_runtime_seconds": 3.8669479584,
+      "median_peak_rss_mib": 234.77734375,
+      "patterns_total": 457448,
+      "patterns_mean_per_window": 2287.24
+    }
+  ],
+  "runtime_ratio_32mib_over_4mib": 8.935838178055594,
+  "rss_ratio_32mib_over_4mib": 1.1985124032862726
+}

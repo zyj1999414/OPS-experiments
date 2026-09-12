@@ -1,0 +1,13 @@
+{
+  "algorithm": "OPF-OPS",
+  "dataset": "SDB8",
+  "minsup": 80,
+  "window": 200000,
+  "step": 20000,
+  "windows": 191,
+  "status": "estimated",
+  "first_window_seconds": 3.483966833,
+  "estimated_seconds": 665.4376651030001,
+  "first_window_peak_rss_mib": 96.203125,
+  "first_window_patterns": 1104
+}

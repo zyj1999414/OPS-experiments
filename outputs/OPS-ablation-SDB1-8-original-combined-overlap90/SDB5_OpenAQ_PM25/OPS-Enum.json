@@ -1,0 +1,18 @@
+{
+  "algorithm": "OPS-Enum",
+  "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/work/sdb1-8-f64/SDB5_OpenAQ_PM25.f64",
+  "data_length": 10000,
+  "source_series": 1,
+  "window": 2000,
+  "step": 200,
+  "minsup": 3,
+  "count_semantics": "frequent patterns",
+  "windows": 41,
+  "patterns_total": 14949,
+  "patterns_min": 181,
+  "patterns_max": 503,
+  "elapsed_seconds": 0.42392829200000004,
+  "patterns_mean_per_window": 364.609756097561,
+  "peak_rss_bytes": 30928896,
+  "peak_rss_mib": 29.49609375
+}

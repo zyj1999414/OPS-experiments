@@ -1,0 +1,22 @@
+{
+  "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/OPS-data/07_astronomy_kepler/fits_lightcurves",
+  "source_code": "/Users/zyj/Documents/Codex/2026-08-18/users-zyj-documents-codex-2026-08/OPS-ablation/OPS-Miner.py",
+  "fits_files": 207,
+  "processed_files": 207,
+  "skipped_short_files": 0,
+  "valid_data_length": 8691996,
+  "window": 10000,
+  "step": 1000,
+  "minsup": 100,
+  "updates": 6519,
+  "windows": 6726,
+  "elapsed_seconds": 5.783314125001198,
+  "mean_update_seconds": 0.0005367928213578959,
+  "patterns_total": 449056,
+  "patterns_mean_per_window": 66.76419863217366,
+  "patterns_min_per_window": 32,
+  "patterns_max_per_window": 356,
+  "patterns_in_last_window_per_series_sum": 13713,
+  "peak_rss_bytes": 67780608,
+  "peak_rss_mib": 64.640625
+}

@@ -1,0 +1,18 @@
+{
+  "algorithm": "OPS-NoReuse",
+  "dataset": "work/sdb1-8-f64/SDB7_Berlin_Temperature.f64",
+  "data_length": 745128,
+  "source_series": 1,
+  "window": 256941,
+  "step": 25694,
+  "minsup": 128,
+  "count_semantics": "frequent patterns",
+  "windows": 20,
+  "patterns_total": 17025,
+  "patterns_min": 788,
+  "patterns_max": 886,
+  "elapsed_seconds": 0.449299916,
+  "patterns_mean_per_window": 851.25,
+  "peak_rss_bytes": 180924416,
+  "peak_rss_mib": 172.54296875
+}

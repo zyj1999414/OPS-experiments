@@ -1,0 +1,13 @@
+{
+  "algorithm": "WOPP-Miner",
+  "dataset": "OPS-data-main9/04_biomedical_sleep_edf/04_biomedical_sleep_edf_approx64MiB.f64",
+  "data_length": 8490000,
+  "window": 500000,
+  "step": 50000,
+  "minsup": 250,
+  "windows": 160,
+  "patterns_total": 182479,
+  "patterns_mean_per_window": 1140.49375,
+  "elapsed_seconds": 79.31659675,
+  "peak_rss_mib": 537.44921875
+}

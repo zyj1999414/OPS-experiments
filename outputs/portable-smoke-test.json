@@ -1,0 +1,20 @@
+{
+  "algorithm": "OPS-Miner",
+  "dataset": "../data/SDB1/SDB1_GOOG.f64",
+  "data_length": 5484,
+  "source_series": 1,
+  "window": 1000,
+  "step": 100,
+  "minsup": 40,
+  "count_semantics": "frequent patterns",
+  "windows": 2,
+  "patterns_total": 37,
+  "patterns_min": 18,
+  "patterns_max": 19,
+  "candidates_total": null,
+  "elapsed_seconds": 0.0025347079999999966,
+  "patterns_mean_per_window": 18.5,
+  "peak_rss_bytes": 27811840,
+  "peak_rss_mib": 26.5234375,
+  "candidates_mean_per_window": null
+}

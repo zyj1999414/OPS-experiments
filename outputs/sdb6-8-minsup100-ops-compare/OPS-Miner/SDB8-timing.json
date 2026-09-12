@@ -1,0 +1,20 @@
+{
+  "algorithm": "OPS-Miner",
+  "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/OPS-data-main9/06_power_blond250/06_power_blond250_256MiB.f64",
+  "data_length": 33554432,
+  "source_series": 1,
+  "window": 200000,
+  "step": 20000,
+  "minsup": 100,
+  "count_semantics": "frequent patterns",
+  "windows": 191,
+  "patterns_total": 191400,
+  "patterns_min": 985,
+  "patterns_max": 1014,
+  "candidates_total": null,
+  "elapsed_seconds": 2.50619975,
+  "patterns_mean_per_window": 1002.0942408376964,
+  "peak_rss_bytes": 253034496,
+  "peak_rss_mib": 241.3125,
+  "candidates_mean_per_window": null
+}

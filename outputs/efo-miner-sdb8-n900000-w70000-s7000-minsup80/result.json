@@ -1,0 +1,19 @@
+{
+  "algorithm": "EFO-Miner",
+  "dataset": "OPS-data-main9/06_power_blond250/06_power_blond250_256MiB.f64",
+  "data_length": 900000,
+  "window": 70000,
+  "step": 7000,
+  "minsup": 80,
+  "windows": 119,
+  "elapsed_seconds": 195.74196299699997,
+  "elapsed_wall_seconds": 195.910705583,
+  "window_time_min": 1.6043746669999992,
+  "window_time_max": 1.748029083,
+  "window_time_mean": 1.644890445352941,
+  "frequent_patterns_total": 61821,
+  "frequent_patterns_mean": 519.5042016806723,
+  "candidate_patterns_total": 178969,
+  "candidate_patterns_mean": 1503.9411764705883,
+  "peak_rss_mib": 57.8984375
+}

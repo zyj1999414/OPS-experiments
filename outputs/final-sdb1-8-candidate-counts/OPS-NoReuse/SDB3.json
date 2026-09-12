@@ -1,0 +1,20 @@
+{
+  "algorithm": "OPS-NoReuse",
+  "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/OPS-data-main9/01_industrial_cwru/01_industrial_cwru_800KB.f64",
+  "data_length": 100000,
+  "source_series": 1,
+  "window": 15000,
+  "step": 1500,
+  "minsup": 40,
+  "count_semantics": "frequent patterns",
+  "windows": 57,
+  "patterns_total": 22229,
+  "patterns_min": 377,
+  "patterns_max": 403,
+  "candidates_total": 22229,
+  "elapsed_seconds": 0.190502917,
+  "patterns_mean_per_window": 389.9824561403509,
+  "peak_rss_bytes": 46092288,
+  "peak_rss_mib": 43.95703125,
+  "candidates_mean_per_window": 389.9824561403509
+}

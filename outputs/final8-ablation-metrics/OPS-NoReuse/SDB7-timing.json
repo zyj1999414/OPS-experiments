@@ -1,0 +1,20 @@
+{
+  "algorithm": "OPS-NoReuse",
+  "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/OPS-data/05_transport_nyc_tlc/05_transport_nyc_tlc_640MiB.f64",
+  "data_length": 83886080,
+  "source_series": 1,
+  "window": 60000,
+  "step": 6000,
+  "minsup": 8,
+  "count_semantics": "frequent patterns",
+  "windows": 325,
+  "patterns_total": 1742965,
+  "patterns_min": 5195,
+  "patterns_max": 5448,
+  "candidates_total": null,
+  "elapsed_seconds": 5.944984958,
+  "patterns_mean_per_window": 5362.969230769231,
+  "peak_rss_bytes": 105877504,
+  "peak_rss_mib": 100.97265625,
+  "candidates_mean_per_window": null
+}

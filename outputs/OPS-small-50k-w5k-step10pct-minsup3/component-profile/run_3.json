@@ -1,0 +1,32 @@
+{
+  "dataset": "work/ops-small-50k/cwru_50k.f64",
+  "window": 5000,
+  "step": 500,
+  "minsup": 3,
+  "windows": 91,
+  "reuse_updates": 90,
+  "patterns_total": 196198,
+  "patterns_mean_per_window": 2156.021978021978,
+  "elapsed_seconds": 0.500154875,
+  "component_total_ms": {
+    "reuse_overlap_pis2": 0.041503,
+    "remove_leaving_counts": 0.441542,
+    "scan_arriving_positions": 0.805336,
+    "add_arriving_counts": 0.301701,
+    "zero_window_first_id": 0.057,
+    "filter_ids_by_minsup": 0.139085
+  },
+  "component_mean_ms_per_update": {
+    "reuse_overlap_pis2": 0.00046114444444444444,
+    "remove_leaving_counts": 0.004906022222222222,
+    "scan_arriving_positions": 0.008948177777777778,
+    "add_arriving_counts": 0.003352233333333333,
+    "zero_window_first_id": 0.0006333333333333334,
+    "filter_ids_by_minsup": 0.001545388888888889
+  },
+  "reuse_total_ms": 1.786167,
+  "reuse_mean_ms_per_update": 0.0198463,
+  "initial_pis2_total_ms": 0.341208,
+  "higher_order_total_ms": 494.087329,
+  "profiled_core_total_ms": 496.214704
+}

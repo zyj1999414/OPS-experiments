@@ -1,0 +1,18 @@
+{
+  "algorithm": "OPS-NoReuse",
+  "dataset": "work/sdb1-8-f64/SDB4_Metro_Traffic.f64",
+  "data_length": 48204,
+  "source_series": 1,
+  "window": 10042,
+  "step": 2008,
+  "minsup": 5,
+  "count_semantics": "frequent patterns",
+  "windows": 20,
+  "patterns_total": 34408,
+  "patterns_min": 1402,
+  "patterns_max": 2005,
+  "elapsed_seconds": 0.168379209,
+  "patterns_mean_per_window": 1720.4,
+  "peak_rss_bytes": 47505408,
+  "peak_rss_mib": 45.3046875
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "dataset": "SDB61_1",
+    "data_length": 65536,
+    "windows": 4,
+    "first_window_seconds": 1.078372792,
+    "estimated_seconds": 4.313491168,
+    "first_window_peak_rss_mib": 36.79296875,
+    "first_window_frequent_patterns": 288,
+    "first_window_candidate_patterns": 967
+  },
+  {
+    "dataset": "SDB62_2",
+    "data_length": 131072,
+    "windows": 17,
+    "first_window_seconds": 1.078372792,
+    "estimated_seconds": 18.332337464,
+    "first_window_peak_rss_mib": 36.79296875,
+    "first_window_frequent_patterns": 288,
+    "first_window_candidate_patterns": 967
+  },
+  {
+    "dataset": "SDB63_3",
+    "data_length": 196608,
+    "windows": 30,
+    "first_window_seconds": 1.078372792,
+    "estimated_seconds": 32.35118376,
+    "first_window_peak_rss_mib": 36.79296875,
+    "first_window_frequent_patterns": 288,
+    "first_window_candidate_patterns": 967
+  },
+  {
+    "dataset": "SDB64_4",
+    "data_length": 262144,
+    "windows": 43,
+    "first_window_seconds": 1.078372792,
+    "estimated_seconds": 46.370030056,
+    "first_window_peak_rss_mib": 36.79296875,
+    "first_window_frequent_patterns": 288,
+    "first_window_candidate_patterns": 967
+  },
+  {
+    "dataset": "SDB65_5",
+    "data_length": 327680,
+    "windows": 56,
+    "first_window_seconds": 1.078372792,
+    "estimated_seconds": 60.388876352,
+    "first_window_peak_rss_mib": 36.79296875,
+    "first_window_frequent_patterns": 288,
+    "first_window_candidate_patterns": 967
+  },
+  {
+    "dataset": "SDB66_6",
+    "data_length": 393216,
+    "windows": 69,
+    "first_window_seconds": 1.078372792,
+    "estimated_seconds": 74.40772264799999,
+    "first_window_peak_rss_mib": 36.79296875,
+    "first_window_frequent_patterns": 288,
+    "first_window_candidate_patterns": 967
+  },
+  {
+    "dataset": "SDB67_7",
+    "data_length": 458752,
+    "windows": 82,
+    "first_window_seconds": 1.078372792,
+    "estimated_seconds": 88.426568944,
+    "first_window_peak_rss_mib": 36.79296875,
+    "first_window_frequent_patterns": 288,
+    "first_window_candidate_patterns": 967
+  },
+  {
+    "dataset": "SDB68_8",
+    "data_length": 524288,
+    "windows": 95,
+    "first_window_seconds": 1.078372792,
+    "estimated_seconds": 102.44541523999999,
+    "first_window_peak_rss_mib": 36.79296875,
+    "first_window_frequent_patterns": 288,
+    "first_window_candidate_patterns": 967
+  }
+]

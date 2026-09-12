@@ -1,0 +1,13 @@
+{
+  "algorithm": "OPS-SPF",
+  "dataset": "SDB7",
+  "minsup": 80,
+  "window": 60000,
+  "step": 6000,
+  "windows": 325,
+  "status": "estimated",
+  "first_window_seconds": 1.7963644170000002,
+  "estimated_seconds": 583.818435525,
+  "first_window_peak_rss_mib": 35.45703125,
+  "first_window_patterns": 559
+}

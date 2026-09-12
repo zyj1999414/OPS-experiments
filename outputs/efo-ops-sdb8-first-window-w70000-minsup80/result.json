@@ -1,0 +1,20 @@
+{
+  "algorithm": "EFO-OPS",
+  "dataset": "OPS-data-main9/06_power_blond250/06_power_blond250_256MiB.f64",
+  "data_length": 33554432,
+  "source_series": 1,
+  "window": 70000,
+  "step": 7000,
+  "minsup": 80,
+  "count_semantics": "frequent patterns",
+  "windows": 1,
+  "patterns_total": 533,
+  "patterns_min": 533,
+  "patterns_max": 533,
+  "candidates_total": 1523,
+  "elapsed_seconds": 1.813136958,
+  "patterns_mean_per_window": 533.0,
+  "peak_rss_bytes": 43024384,
+  "peak_rss_mib": 41.03125,
+  "candidates_mean_per_window": 1523.0
+}

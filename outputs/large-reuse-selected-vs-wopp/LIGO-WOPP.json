@@ -1,0 +1,13 @@
+{
+  "algorithm": "WOPP-Miner",
+  "dataset": "OPS-data-main9/05_physics_ligo/05_physics_ligo_128MiB.f64",
+  "data_length": 16777216,
+  "window": 2000000,
+  "step": 200000,
+  "minsup": 1000,
+  "windows": 74,
+  "patterns_total": 159340,
+  "patterns_mean_per_window": 2153.2432432432433,
+  "elapsed_seconds": 146.491938083,
+  "peak_rss_mib": 920.69921875
+}

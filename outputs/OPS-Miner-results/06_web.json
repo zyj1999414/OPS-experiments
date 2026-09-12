@@ -1,0 +1,19 @@
+{
+  "dataset": "OPS-data/06_web_wikimedia_pageviews/06_web_wikimedia_pageviews_768MiB.f64",
+  "source_code": "/Users/zyj/Documents/Codex/2026-08-18/users-zyj-documents-codex-2026-08/OPS-ablation/OPS-Miner.py",
+  "data_length": 100663296,
+  "window": 1000,
+  "step": 100,
+  "minsup": 10,
+  "updates": 1006622,
+  "windows": 1006623,
+  "elapsed_seconds": 50.85069608397316,
+  "initial_seconds": 0.000424915982875973,
+  "mean_update_seconds": 4.9700931222104035e-05,
+  "level_counts_last_window": [
+    2,
+    6,
+    1
+  ],
+  "patterns_last_window": 9
+}

@@ -1,0 +1,14 @@
+{
+  "algorithm": "OPS-PF",
+  "dataset": "SDB7",
+  "minsup": 80,
+  "window": 60000,
+  "step": 6000,
+  "windows": 325,
+  "status": "measured",
+  "elapsed_seconds": 128.666581834,
+  "peak_rss_mib": 84.74609375,
+  "patterns_total": 189332,
+  "first_window_seconds": 0.44373895800000007,
+  "initial_estimate_seconds": 144.21516135000002
+}

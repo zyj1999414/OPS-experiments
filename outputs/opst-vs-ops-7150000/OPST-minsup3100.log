@@ -1,0 +1,15 @@
+--------------------------------------------Information Board--------------------------------------------------------
+Enabling OPST maximal method
+Processing data/binance_7150000_dense_rank.txt
+Tau is set as 3100.
+It is necessary to construct the wavelet tree for b-a > 512
+sigma of input = 324300
+Runtime for wavelet tree construction  = 1.063 s.
+The input size: 7150000
+Terminate_label (2 * n + 1) $ = 14300001
+Runtime only for OPST construction  = 5.96382 s.
+Runtime only used for mining 3100-maximal order-preserving 3100-frequent patterns: 1.33236 s.
+The number of found maximal patterns is 711
+Total runtime for OPST construction and Maximal patterns mining : 7.29618 s.
+The max length of patterns:800
+---------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,11 @@
+{
+  "algorithm": "SOPP-Miner",
+  "dataset": "SDB8",
+  "window_index": 1,
+  "window_size": 40000,
+  "minsup": 8,
+  "elapsed_seconds": 0.27010925,
+  "peak_rss_mib": 68.765625,
+  "frequent_patterns": 2808,
+  "candidate_patterns": 0
+}

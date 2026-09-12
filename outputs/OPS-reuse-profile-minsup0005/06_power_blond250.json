@@ -1,0 +1,26 @@
+{
+  "dataset": "OPS-data-main9/06_power_blond250/06_power_blond250_256MiB.f64",
+  "window": 15000000,
+  "step": 1500000,
+  "minsup": 7500,
+  "windows": 13,
+  "reuse_updates": 12,
+  "component_total_ms": {
+    "reuse_overlap_pis2": 0.005165,
+    "remove_leaving_counts": 35.871834,
+    "scan_arriving_positions": 259.901208,
+    "add_arriving_counts": 35.339792,
+    "zero_window_first_id": 0.056083,
+    "filter_ids_by_minsup": 0.059916
+  },
+  "component_mean_ms_per_update": {
+    "reuse_overlap_pis2": 0.0004304166666666667,
+    "remove_leaving_counts": 2.9893195,
+    "scan_arriving_positions": 21.658434,
+    "add_arriving_counts": 2.9449826666666663,
+    "zero_window_first_id": 0.004673583333333333,
+    "filter_ids_by_minsup": 0.004993
+  },
+  "reuse_total_ms": 331.233998,
+  "reuse_mean_ms_per_update": 27.602833166666667
+}

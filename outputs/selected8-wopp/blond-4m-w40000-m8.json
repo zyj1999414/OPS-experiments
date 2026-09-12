@@ -1,0 +1,14 @@
+{
+  "algorithm": "WOPP-Miner",
+  "dataset": "OPS-data-main9/06_power_blond250/06_power_blond250_256MiB.f64",
+  "data_length": 33554432,
+  "source_series": 1,
+  "window": 40000,
+  "step": 4000,
+  "minsup": 8,
+  "windows": 991,
+  "patterns_total": 2807757,
+  "patterns_mean_per_window": 2833.2563067608476,
+  "elapsed_seconds": 85.065811625,
+  "peak_rss_mib": 121.94921875
+}

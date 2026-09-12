@@ -1,0 +1,165 @@
+{
+  "results": [
+    {
+      "dataset": "SDB61_1",
+      "data_length": 65536,
+      "window": 20000,
+      "step": 2000,
+      "overlap": 0.9,
+      "minsup": 160,
+      "windows": 23,
+      "runtime_trials": [
+        0.03297966699999999,
+        0.03634937499999999,
+        0.038107,
+        0.023367833000000005,
+        0.039060583999999995
+      ],
+      "runtime_median": 0.03634937499999999,
+      "peak_rss_mib_median": 40.8203125,
+      "patterns_total": 1720,
+      "patterns_mean": 74.78260869565217
+    },
+    {
+      "dataset": "SDB62_2",
+      "data_length": 131072,
+      "window": 20000,
+      "step": 2000,
+      "overlap": 0.9,
+      "minsup": 160,
+      "windows": 56,
+      "runtime_trials": [
+        0.075412125,
+        0.084651791,
+        0.09013279200000002,
+        0.07257466700000001,
+        0.08209108399999998
+      ],
+      "runtime_median": 0.08209108399999998,
+      "peak_rss_mib_median": 46.01953125,
+      "patterns_total": 4232,
+      "patterns_mean": 75.57142857142857
+    },
+    {
+      "dataset": "SDB63_3",
+      "data_length": 196608,
+      "window": 20000,
+      "step": 2000,
+      "overlap": 0.9,
+      "minsup": 160,
+      "windows": 89,
+      "runtime_trials": [
+        0.107531708,
+        0.16715379199999997,
+        0.14834129100000001,
+        0.14222658300000002,
+        0.11554762500000001
+      ],
+      "runtime_median": 0.14222658300000002,
+      "peak_rss_mib_median": 47.953125,
+      "patterns_total": 6678,
+      "patterns_mean": 75.03370786516854
+    },
+    {
+      "dataset": "SDB64_4",
+      "data_length": 262144,
+      "window": 20000,
+      "step": 2000,
+      "overlap": 0.9,
+      "minsup": 160,
+      "windows": 122,
+      "runtime_trials": [
+        0.15079437499999998,
+        0.15872912500000003,
+        0.16041920800000004,
+        0.165716583,
+        0.16928425000000002
+      ],
+      "runtime_median": 0.16041920800000004,
+      "peak_rss_mib_median": 48.625,
+      "patterns_total": 9114,
+      "patterns_mean": 74.70491803278688
+    },
+    {
+      "dataset": "SDB65_5",
+      "data_length": 327680,
+      "window": 20000,
+      "step": 2000,
+      "overlap": 0.9,
+      "minsup": 160,
+      "windows": 154,
+      "runtime_trials": [
+        0.189188125,
+        0.205508875,
+        0.17760154099999997,
+        0.19016104200000003,
+        0.206813083
+      ],
+      "runtime_median": 0.19016104200000003,
+      "peak_rss_mib_median": 49.43359375,
+      "patterns_total": 11525,
+      "patterns_mean": 74.83766233766234
+    },
+    {
+      "dataset": "SDB66_6",
+      "data_length": 393216,
+      "window": 20000,
+      "step": 2000,
+      "overlap": 0.9,
+      "minsup": 160,
+      "windows": 187,
+      "runtime_trials": [
+        0.22352554099999997,
+        0.20974825,
+        0.22076600000000002,
+        0.213475291,
+        0.216992459
+      ],
+      "runtime_median": 0.216992459,
+      "peak_rss_mib_median": 50.17578125,
+      "patterns_total": 13987,
+      "patterns_mean": 74.79679144385027
+    },
+    {
+      "dataset": "SDB67_7",
+      "data_length": 458752,
+      "window": 20000,
+      "step": 2000,
+      "overlap": 0.9,
+      "minsup": 160,
+      "windows": 220,
+      "runtime_trials": [
+        0.236939583,
+        0.241651917,
+        0.22352037500000002,
+        0.23309816700000002,
+        0.243795375
+      ],
+      "runtime_median": 0.236939583,
+      "peak_rss_mib_median": 51.19921875,
+      "patterns_total": 16415,
+      "patterns_mean": 74.61363636363636
+    },
+    {
+      "dataset": "SDB68_8",
+      "data_length": 524288,
+      "window": 20000,
+      "step": 2000,
+      "overlap": 0.9,
+      "minsup": 160,
+      "windows": 253,
+      "runtime_trials": [
+        0.261592917,
+        0.26626937500000003,
+        0.274812375,
+        0.256115792,
+        0.27544616600000005
+      ],
+      "runtime_median": 0.26626937500000003,
+      "peak_rss_mib_median": 51.8203125,
+      "patterns_total": 18867,
+      "patterns_mean": 74.57312252964427
+    }
+  ],
+  "endpoint_runtime_ratio": 7.325280696022975
+}

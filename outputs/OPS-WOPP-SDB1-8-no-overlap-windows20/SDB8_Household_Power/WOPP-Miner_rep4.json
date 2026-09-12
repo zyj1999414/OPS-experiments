@@ -1,0 +1,13 @@
+{
+  "algorithm": "WOPP-Miner",
+  "dataset": "/Users/zyj/Documents/Codex/2026-08-17/qin/work/input/woppdata/SDB8_Household_Power.txt",
+  "data_length": 2049280,
+  "window": 102464,
+  "step": 102464,
+  "minsup": 51,
+  "windows": 20,
+  "patterns_total": 9732,
+  "patterns_mean_per_window": 486.6,
+  "elapsed_seconds": 0.9804075000000001,
+  "peak_rss_mib": 141.7578125
+}

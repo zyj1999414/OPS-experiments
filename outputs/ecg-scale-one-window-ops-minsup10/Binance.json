@@ -1,0 +1,20 @@
+{
+  "algorithm": "OPS-Miner",
+  "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/OPS-data-main9/07_finance_binance/07_finance_binance_512MiB.f64",
+  "data_length": 67108864,
+  "source_series": 1,
+  "window": 22973535,
+  "step": 22973535,
+  "minsup": 10,
+  "count_semantics": "frequent patterns",
+  "windows": 1,
+  "patterns_total": 13890,
+  "patterns_min": 13890,
+  "patterns_max": 13890,
+  "candidates_total": null,
+  "elapsed_seconds": 3.0262087920000003,
+  "patterns_mean_per_window": 13890.0,
+  "peak_rss_bytes": 2065616896,
+  "peak_rss_mib": 1969.92578125,
+  "candidates_mean_per_window": null
+}

@@ -1,0 +1,17 @@
+{
+  "algorithm": "OPS-Miner",
+  "dataset": "OPS-data-main9/05_physics_ligo/05_physics_ligo_128MiB.f64",
+  "data_length": 16777216,
+  "source_series": 1,
+  "window": 4096000,
+  "step": 409600,
+  "minsup": 2048,
+  "windows": 31,
+  "patterns_total": 66395,
+  "patterns_min": 2016,
+  "patterns_max": 2266,
+  "patterns_mean_per_window": 2141.7741935483873,
+  "elapsed_seconds": 11.590632957999999,
+  "peak_rss_bytes": 1159237632,
+  "peak_rss_mib": 1105.53515625
+}

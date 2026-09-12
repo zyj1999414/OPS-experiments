@@ -1,0 +1,17 @@
+{
+  "algorithm": "OPS-Miner-ScanAndFusionReuse",
+  "fusion_cache_key": "(prefix_pattern, suffix_pattern, C)",
+  "dataset": "OPS-data-main9/04_biomedical_sleep_edf/04_biomedical_sleep_edf_approx64MiB.f64",
+  "window": 500000,
+  "step": 50000,
+  "minsup": 250,
+  "windows": 160,
+  "patterns_total": 182480,
+  "patterns_mean_per_window": 1140.5,
+  "fusion_cache_hits": 180920,
+  "fusion_cache_misses": 2039,
+  "fusion_cache_entries": 2039,
+  "fusion_cache_hit_rate": 0.9888554266256374,
+  "elapsed_seconds": 5.084461291,
+  "peak_rss_mib": 401.50390625
+}

@@ -1,0 +1,58 @@
+{
+  "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/work/sdb1-8-f64/SDB8_Household_Power.f64",
+  "window": 15000,
+  "step": 1500,
+  "minsup": 4,
+  "prefix": null,
+  "repetitions": 1,
+  "windows": 1357,
+  "patterns_total": 1407545,
+  "patterns_mean": 1037.2476050110538,
+  "median_seconds": {
+    "Original-Combined": 3.075489209,
+    "OPS-NoReuse": 3.753677
+  },
+  "speedup": 1.2205137930627024,
+  "time_reduction_percent": 18.06729217777662,
+  "raw": {
+    "Original-Combined": [
+      {
+        "algorithm": "OPS-Miner-ScanAndFusionReuse",
+        "fusion_cache_key": "(prefix_pattern, suffix_pattern, C)",
+        "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/work/sdb1-8-f64/SDB8_Household_Power.f64",
+        "window": 15000,
+        "step": 1500,
+        "minsup": 4,
+        "windows": 1357,
+        "patterns_total": 1407545,
+        "patterns_mean_per_window": 1037.2476050110538,
+        "fusion_cache_hits": 1423743,
+        "fusion_cache_misses": 7078,
+        "fusion_cache_entries": 7078,
+        "fusion_cache_hit_rate": 0.9950531897421131,
+        "elapsed_seconds": 3.075489209,
+        "peak_rss_mib": 67.51953125
+      }
+    ],
+    "OPS-NoReuse": [
+      {
+        "algorithm": "OPS-NoReuse",
+        "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/work/sdb1-8-f64/SDB8_Household_Power.f64",
+        "data_length": 2049280,
+        "source_series": 1,
+        "window": 15000,
+        "step": 1500,
+        "minsup": 4,
+        "count_semantics": "frequent patterns",
+        "windows": 1357,
+        "patterns_total": 1407545,
+        "patterns_min": 301,
+        "patterns_max": 1771,
+        "elapsed_seconds": 3.753677,
+        "patterns_mean_per_window": 1037.2476050110538,
+        "peak_rss_bytes": 65695744,
+        "peak_rss_mib": 62.65234375
+      }
+    ]
+  }
+}

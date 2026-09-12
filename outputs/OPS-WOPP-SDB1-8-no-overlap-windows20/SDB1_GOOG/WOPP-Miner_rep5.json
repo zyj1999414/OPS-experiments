@@ -1,0 +1,13 @@
+{
+  "algorithm": "WOPP-Miner",
+  "dataset": "/Users/zyj/Documents/Codex/2026-08-17/qin/work/input/woppdata/SDB1_GOOG.txt",
+  "data_length": 5484,
+  "window": 274,
+  "step": 274,
+  "minsup": 3,
+  "windows": 20,
+  "patterns_total": 1955,
+  "patterns_mean_per_window": 97.75,
+  "elapsed_seconds": 0.012808041999999995,
+  "peak_rss_mib": 13.74609375
+}

@@ -1,0 +1,13 @@
+{
+  "algorithm": "WOPP-Miner",
+  "dataset": "/Users/zyj/Documents/Codex/2026-08-17/qin/work/input/woppdata/SDB4_Metro_Traffic.txt",
+  "data_length": 48204,
+  "window": 16622,
+  "step": 1662,
+  "minsup": 8,
+  "windows": 20,
+  "patterns_total": 32603,
+  "patterns_mean_per_window": 1630.15,
+  "elapsed_seconds": 0.336803333,
+  "peak_rss_mib": 23.078125
+}

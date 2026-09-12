@@ -1,0 +1,13 @@
+{
+  "algorithm": "WOPP-Miner",
+  "dataset": "/Users/zyj/Documents/Codex/2026-08-17/qin/work/input/woppdata/SDB5_OpenAQ_PM25.txt",
+  "data_length": 10000,
+  "window": 3448,
+  "step": 344,
+  "minsup": 3,
+  "windows": 20,
+  "patterns_total": 12792,
+  "patterns_mean_per_window": 639.6,
+  "elapsed_seconds": 0.143570958,
+  "peak_rss_mib": 15.375
+}

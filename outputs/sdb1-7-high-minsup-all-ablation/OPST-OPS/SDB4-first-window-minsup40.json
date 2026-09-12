@@ -1,0 +1,20 @@
+{
+  "algorithm": "OPST-OPS",
+  "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/OPS-data-main9/04_biomedical_sleep_edf/04_biomedical_sleep_edf_approx64MiB.f64",
+  "data_length": 8490000,
+  "source_series": 1,
+  "window": 16000,
+  "step": 1600,
+  "minsup": 40,
+  "count_semantics": "maximal frequent patterns",
+  "windows": 1,
+  "patterns_total": 138,
+  "patterns_min": 138,
+  "patterns_max": 138,
+  "candidates_total": null,
+  "elapsed_seconds": 0.203661833,
+  "patterns_mean_per_window": 138.0,
+  "peak_rss_bytes": 43339776,
+  "peak_rss_mib": 41.33203125,
+  "candidates_mean_per_window": null
+}

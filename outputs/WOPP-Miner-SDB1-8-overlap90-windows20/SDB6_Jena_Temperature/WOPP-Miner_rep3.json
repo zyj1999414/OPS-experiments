@@ -1,0 +1,13 @@
+{
+  "algorithm": "WOPP-Miner",
+  "dataset": "/Users/zyj/Documents/Codex/2026-08-17/qin/work/input/woppdata/SDB6_Jena_Temperature.txt",
+  "data_length": 420551,
+  "window": 145018,
+  "step": 14501,
+  "minsup": 73,
+  "windows": 20,
+  "patterns_total": 27289,
+  "patterns_mean_per_window": 1364.45,
+  "elapsed_seconds": 1.410230792,
+  "peak_rss_mib": 85.23828125
+}

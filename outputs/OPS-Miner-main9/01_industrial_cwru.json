@@ -1,0 +1,17 @@
+{
+  "algorithm": "OPS-Miner",
+  "dataset": "OPS-data-main9/01_industrial_cwru/01_industrial_cwru_800KB.f64",
+  "data_length": 100000,
+  "window": 50000,
+  "step": 5000,
+  "minsup": 500,
+  "count_semantics": "frequent patterns",
+  "windows": 11,
+  "patterns_total": 1234,
+  "patterns_min": 111,
+  "patterns_max": 114,
+  "elapsed_seconds": 0.053574333,
+  "patterns_mean_per_window": 112.18181818181819,
+  "peak_rss_bytes": 62914560,
+  "peak_rss_mib": 60.0
+}

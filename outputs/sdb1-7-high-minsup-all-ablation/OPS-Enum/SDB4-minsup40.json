@@ -1,0 +1,14 @@
+{
+  "algorithm": "OPS-Enum",
+  "dataset": "SDB4",
+  "minsup": 40,
+  "window": 16000,
+  "step": 1600,
+  "windows": 253,
+  "status": "measured",
+  "elapsed_seconds": 1.00181575,
+  "peak_rss_mib": 53.6796875,
+  "patterns_total": 53318,
+  "first_window_seconds": 0.012631583000000016,
+  "initial_estimate_seconds": 3.195790499000004
+}

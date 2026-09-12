@@ -1,0 +1,17 @@
+{
+  "algorithm": "OPS-Miner",
+  "dataset": "OPS-data-main9/06_power_blond250/06_power_blond250_256MiB.f64",
+  "data_length": 33554432,
+  "window": 15000000,
+  "step": 1500000,
+  "minsup": 150000,
+  "count_semantics": "frequent patterns",
+  "windows": 13,
+  "patterns_total": 652,
+  "patterns_min": 50,
+  "patterns_max": 51,
+  "elapsed_seconds": 8.379777958,
+  "patterns_mean_per_window": 50.15384615384615,
+  "peak_rss_bytes": 2009960448,
+  "peak_rss_mib": 1916.84765625
+}

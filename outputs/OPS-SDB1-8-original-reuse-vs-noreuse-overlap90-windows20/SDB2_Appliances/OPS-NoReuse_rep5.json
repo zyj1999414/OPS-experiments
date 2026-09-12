@@ -1,0 +1,18 @@
+{
+  "algorithm": "OPS-NoReuse",
+  "dataset": "work/sdb1-8-f64/SDB2_Appliances.f64",
+  "data_length": 19735,
+  "source_series": 1,
+  "window": 6805,
+  "step": 680,
+  "minsup": 3,
+  "count_semantics": "frequent patterns",
+  "windows": 20,
+  "patterns_total": 4179,
+  "patterns_min": 171,
+  "patterns_max": 240,
+  "elapsed_seconds": 0.028957874999999994,
+  "patterns_mean_per_window": 208.95,
+  "peak_rss_bytes": 31395840,
+  "peak_rss_mib": 29.94140625
+}

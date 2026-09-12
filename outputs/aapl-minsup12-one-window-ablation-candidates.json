@@ -1,0 +1,87 @@
+{
+  "dataset": "/Users/zyj/Downloads/AAPL.txt",
+  "length": 13620,
+  "window": 13620,
+  "step": 13620,
+  "minsup": 12,
+  "windows": 1,
+  "results": [
+    {
+      "algorithm": "OPS-Miner",
+      "candidate_patterns": 855,
+      "reported_patterns": 855,
+      "pattern_semantics": "frequent patterns",
+      "counter_semantics": "generated candidate patterns (including length-2)"
+    },
+    {
+      "algorithm": "OPS-NoReuse",
+      "candidate_patterns": 855,
+      "reported_patterns": 855,
+      "pattern_semantics": "frequent patterns",
+      "counter_semantics": "generated candidate patterns (including length-2)"
+    },
+    {
+      "algorithm": "OPS-NoNumpy",
+      "candidate_patterns": 855,
+      "reported_patterns": 855,
+      "pattern_semantics": "frequent patterns",
+      "counter_semantics": "generated candidate patterns (including length-2)"
+    },
+    {
+      "algorithm": "OPS-PF",
+      "candidate_patterns": 2658,
+      "reported_patterns": 855,
+      "pattern_semantics": "frequent patterns",
+      "counter_semantics": "generated candidate patterns (including length-2)"
+    },
+    {
+      "algorithm": "OPS-Enum",
+      "candidate_patterns": 2658,
+      "reported_patterns": 855,
+      "pattern_semantics": "frequent patterns",
+      "counter_semantics": "generated candidate patterns (including length-2)"
+    },
+    {
+      "algorithm": "OPS-ISC",
+      "candidate_patterns": 855,
+      "reported_patterns": 855,
+      "pattern_semantics": "frequent patterns",
+      "counter_semantics": "native candidate_patterns counter"
+    },
+    {
+      "algorithm": "OPS-SPF",
+      "candidate_patterns": 855,
+      "reported_patterns": 855,
+      "pattern_semantics": "frequent patterns",
+      "counter_semantics": "native candidate_patterns counter"
+    },
+    {
+      "algorithm": "EFO-OPS",
+      "candidate_patterns": 1846,
+      "reported_patterns": 855,
+      "pattern_semantics": "frequent patterns",
+      "counter_semantics": "native candidates counter"
+    },
+    {
+      "algorithm": "OPF-OPS",
+      "candidate_patterns": 1675,
+      "reported_patterns": 855,
+      "pattern_semantics": "frequent patterns",
+      "counter_semantics": "native candidates counter"
+    },
+    {
+      "algorithm": "SOPP-OPS",
+      "candidate_patterns": 1832,
+      "reported_patterns": 855,
+      "pattern_semantics": "frequent patterns",
+      "counter_semantics": "native candidates counter"
+    },
+    {
+      "algorithm": "OPST-OPS",
+      "candidate_patterns": null,
+      "reported_patterns": 357,
+      "pattern_semantics": "maximal frequent patterns",
+      "counter_semantics": "not applicable: suffix-tree maximal mining has no candidate set"
+    }
+  ]
+}

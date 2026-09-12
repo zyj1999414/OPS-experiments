@@ -1,0 +1,17 @@
+{
+  "algorithm": "OPS-Miner-ScanAndFusionReuse",
+  "fusion_cache_key": "(prefix_pattern, suffix_pattern, C)",
+  "dataset": "work/ops-noaa-500k/noaa_500k.f64",
+  "window": 172414,
+  "step": 17241,
+  "minsup": 86,
+  "windows": 20,
+  "patterns_total": 5182,
+  "patterns_mean_per_window": 259.1,
+  "fusion_cache_hits": 5284,
+  "fusion_cache_misses": 321,
+  "fusion_cache_entries": 321,
+  "fusion_cache_hit_rate": 0.9427297056199822,
+  "elapsed_seconds": 0.177321792,
+  "peak_rss_mib": 112.765625
+}

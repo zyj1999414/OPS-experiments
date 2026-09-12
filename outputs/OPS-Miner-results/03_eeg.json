@@ -1,0 +1,22 @@
+{
+  "dataset": "OPS-data/03_biomedical_sleep_edf/03_biomedical_sleep_edf_384MiB.f64",
+  "source_code": "/Users/zyj/Documents/Codex/2026-08-18/users-zyj-documents-codex-2026-08/OPS-ablation/OPS-Miner.py",
+  "data_length": 50331648,
+  "window": 3000,
+  "step": 300,
+  "minsup": 30,
+  "updates": 167762,
+  "windows": 167763,
+  "elapsed_seconds": 49.53487708297325,
+  "initial_seconds": 0.00109029101440683,
+  "mean_update_seconds": 0.0002933338413339596,
+  "level_counts_last_window": [
+    2,
+    6,
+    24,
+    22,
+    3,
+    1
+  ],
+  "patterns_last_window": 58
+}

@@ -1,0 +1,17 @@
+{
+  "algorithm": "OPS-Miner-ScanAndFusionReuse",
+  "fusion_cache_key": "(prefix_pattern, suffix_pattern, C)",
+  "dataset": "work/sdb1-8-f64/SDB1_GOOG.f64",
+  "window": 1142,
+  "step": 228,
+  "minsup": 3,
+  "windows": 20,
+  "patterns_total": 7524,
+  "patterns_mean_per_window": 376.2,
+  "fusion_cache_hits": 6582,
+  "fusion_cache_misses": 902,
+  "fusion_cache_entries": 902,
+  "fusion_cache_hit_rate": 0.8794762159273116,
+  "elapsed_seconds": 0.039324374999999995,
+  "peak_rss_mib": 27.69921875
+}

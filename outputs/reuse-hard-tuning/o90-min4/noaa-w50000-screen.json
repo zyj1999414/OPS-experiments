@@ -1,0 +1,58 @@
+{
+  "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/OPS-data-main9/02_weather_noaa_uscrn/02_weather_noaa_uscrn_4MiB.f64",
+  "window": 50000,
+  "step": 5000,
+  "minsup": 4,
+  "prefix": null,
+  "repetitions": 1,
+  "windows": 95,
+  "patterns_total": 115869,
+  "patterns_mean": 1219.6736842105263,
+  "median_seconds": {
+    "Original-Combined": 0.46619774999999997,
+    "OPS-NoReuse": 0.501682833
+  },
+  "speedup": 1.0761159465055334,
+  "time_reduction_percent": 7.073210535788865,
+  "raw": {
+    "Original-Combined": [
+      {
+        "algorithm": "OPS-Miner-ScanAndFusionReuse",
+        "fusion_cache_key": "(prefix_pattern, suffix_pattern, C)",
+        "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/OPS-data-main9/02_weather_noaa_uscrn/02_weather_noaa_uscrn_4MiB.f64",
+        "window": 50000,
+        "step": 5000,
+        "minsup": 4,
+        "windows": 95,
+        "patterns_total": 115869,
+        "patterns_mean_per_window": 1219.6736842105263,
+        "fusion_cache_hits": 119008,
+        "fusion_cache_misses": 3145,
+        "fusion_cache_entries": 3145,
+        "fusion_cache_hit_rate": 0.9742535999934508,
+        "elapsed_seconds": 0.46619774999999997,
+        "peak_rss_mib": 63.79296875
+      }
+    ],
+    "OPS-NoReuse": [
+      {
+        "algorithm": "OPS-NoReuse",
+        "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/OPS-data-main9/02_weather_noaa_uscrn/02_weather_noaa_uscrn_4MiB.f64",
+        "data_length": 524288,
+        "source_series": 1,
+        "window": 50000,
+        "step": 5000,
+        "minsup": 4,
+        "count_semantics": "frequent patterns",
+        "windows": 95,
+        "patterns_total": 115869,
+        "patterns_min": 743,
+        "patterns_max": 1646,
+        "elapsed_seconds": 0.501682833,
+        "patterns_mean_per_window": 1219.6736842105263,
+        "peak_rss_bytes": 67563520,
+        "peak_rss_mib": 64.43359375
+      }
+    ]
+  }
+}

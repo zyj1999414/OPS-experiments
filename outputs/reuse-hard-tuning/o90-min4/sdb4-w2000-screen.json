@@ -1,0 +1,58 @@
+{
+  "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/work/sdb1-8-f64/SDB4_Metro_Traffic.f64",
+  "window": 2000,
+  "step": 200,
+  "minsup": 4,
+  "prefix": null,
+  "repetitions": 1,
+  "windows": 232,
+  "patterns_total": 120357,
+  "patterns_mean": 518.7801724137931,
+  "median_seconds": {
+    "Original-Combined": 0.37928829099999994,
+    "OPS-NoReuse": 0.40379224999999996
+  },
+  "speedup": 1.0646051027185546,
+  "time_reduction_percent": 6.068456984996617,
+  "raw": {
+    "Original-Combined": [
+      {
+        "algorithm": "OPS-Miner-ScanAndFusionReuse",
+        "fusion_cache_key": "(prefix_pattern, suffix_pattern, C)",
+        "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/work/sdb1-8-f64/SDB4_Metro_Traffic.f64",
+        "window": 2000,
+        "step": 200,
+        "minsup": 4,
+        "windows": 232,
+        "patterns_total": 120357,
+        "patterns_mean_per_window": 518.7801724137931,
+        "fusion_cache_hits": 117378,
+        "fusion_cache_misses": 2515,
+        "fusion_cache_entries": 2515,
+        "fusion_cache_hit_rate": 0.9790229621412426,
+        "elapsed_seconds": 0.37928829099999994,
+        "peak_rss_mib": 32.078125
+      }
+    ],
+    "OPS-NoReuse": [
+      {
+        "algorithm": "OPS-NoReuse",
+        "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/work/sdb1-8-f64/SDB4_Metro_Traffic.f64",
+        "data_length": 48204,
+        "source_series": 1,
+        "window": 2000,
+        "step": 200,
+        "minsup": 4,
+        "count_semantics": "frequent patterns",
+        "windows": 232,
+        "patterns_total": 120357,
+        "patterns_min": 285,
+        "patterns_max": 896,
+        "elapsed_seconds": 0.40379224999999996,
+        "patterns_mean_per_window": 518.7801724137931,
+        "peak_rss_bytes": 33673216,
+        "peak_rss_mib": 32.11328125
+      }
+    ]
+  }
+}

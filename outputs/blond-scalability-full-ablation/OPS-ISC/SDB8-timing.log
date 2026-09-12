@@ -1,0 +1,14 @@
+Traceback (most recent call last):
+  File "/Users/zyj/Documents/Codex/2026-08-30/qin/work/run_all_ops_algorithm.py", line 102, in <module>
+    if __name__=='__main__':main()
+  File "/Users/zyj/Documents/Codex/2026-08-30/qin/work/run_all_ops_algorithm.py", line 85, in main
+    result=alg.solve_window(True) if first else alg.slide();first=False
+  File "/Users/zyj/Documents/Codex/2026-08-18/users-zyj-documents-codex-2026-08/OPS-ablation/OPS-ISC.py", line 255, in slide
+    return self.solve_window(False)
+  File "/Users/zyj/Documents/Codex/2026-08-18/users-zyj-documents-codex-2026-08/OPS-ablation/OPS-ISC.py", line 237, in solve_window
+    new_FOP = self.generate_fre()
+  File "/Users/zyj/Documents/Codex/2026-08-18/users-zyj-documents-codex-2026-08/OPS-ablation/OPS-ISC.py", line 154, in generate_fre
+    r = sort(R)
+  File "/Users/zyj/Documents/Codex/2026-08-18/users-zyj-documents-codex-2026-08/OPS-ablation/OPS-ISC.py", line 24, in sort
+    src = src.argsort()
+KeyboardInterrupt

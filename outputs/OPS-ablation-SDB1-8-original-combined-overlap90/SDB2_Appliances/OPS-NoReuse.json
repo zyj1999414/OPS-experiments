@@ -1,0 +1,18 @@
+{
+  "algorithm": "OPS-NoReuse",
+  "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/work/sdb1-8-f64/SDB2_Appliances.f64",
+  "data_length": 19735,
+  "source_series": 1,
+  "window": 3947,
+  "step": 395,
+  "minsup": 3,
+  "count_semantics": "frequent patterns",
+  "windows": 40,
+  "patterns_total": 5445,
+  "patterns_min": 101,
+  "patterns_max": 168,
+  "elapsed_seconds": 0.10180708400000002,
+  "patterns_mean_per_window": 136.125,
+  "peak_rss_bytes": 29925376,
+  "peak_rss_mib": 28.5390625
+}

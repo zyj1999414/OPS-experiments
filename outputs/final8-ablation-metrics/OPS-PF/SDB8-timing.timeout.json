@@ -1,0 +1,8 @@
+{
+  "algorithm": "OPS-PF",
+  "dataset": "SDB8",
+  "metric_run": "timing",
+  "status": "timeout",
+  "timeout_seconds": 180.0,
+  "elapsed_wall_seconds": 180.00856333399997
+}

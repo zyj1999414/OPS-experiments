@@ -1,0 +1,14 @@
+{
+  "algorithm": "EFO-OPS",
+  "dataset": "SDB5",
+  "minsup": 80,
+  "window": 50000,
+  "step": 5000,
+  "windows": 95,
+  "status": "measured",
+  "elapsed_seconds": 43.419593375000005,
+  "peak_rss_mib": 50.34765625,
+  "patterns_total": 10451,
+  "first_window_seconds": 0.47768449999999996,
+  "initial_estimate_seconds": 45.3800275
+}

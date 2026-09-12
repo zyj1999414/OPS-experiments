@@ -1,0 +1,17 @@
+{
+  "algorithm": "OPS-Miner-ScanAndFusionReuse",
+  "fusion_cache_key": "(prefix_pattern, suffix_pattern, C)",
+  "dataset": "work/sdb1-8-f64/SDB8_Household_Power.f64",
+  "window": 102464,
+  "step": 102464,
+  "minsup": 51,
+  "windows": 20,
+  "patterns_total": 9732,
+  "patterns_mean_per_window": 486.6,
+  "fusion_cache_hits": 9067,
+  "fusion_cache_misses": 789,
+  "fusion_cache_entries": 789,
+  "fusion_cache_hit_rate": 0.9199472402597403,
+  "elapsed_seconds": 0.17860629199999997,
+  "peak_rss_mib": 116.16796875
+}

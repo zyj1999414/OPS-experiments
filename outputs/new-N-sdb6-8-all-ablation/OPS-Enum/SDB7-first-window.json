@@ -1,0 +1,20 @@
+{
+  "algorithm": "OPS-Enum",
+  "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/OPS-data/05_transport_nyc_tlc/05_transport_nyc_tlc_640MiB.f64",
+  "data_length": 83886080,
+  "source_series": 1,
+  "window": 60000,
+  "step": 6000,
+  "minsup": 80,
+  "count_semantics": "frequent patterns",
+  "windows": 1,
+  "patterns_total": 559,
+  "patterns_min": 559,
+  "patterns_max": 559,
+  "candidates_total": null,
+  "elapsed_seconds": 0.024532166999999994,
+  "patterns_mean_per_window": 559.0,
+  "peak_rss_bytes": 48566272,
+  "peak_rss_mib": 46.31640625,
+  "candidates_mean_per_window": null
+}

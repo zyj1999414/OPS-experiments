@@ -1,0 +1,2 @@
+{"algorithm": "EFO-OPS", "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/work/sdb1-8-f64/SDB1_GOOG.f64", "data_length": 5484, "source_series": 1, "window": 1000, "step": 100, "minsup": 40, "count_semantics": "frequent patterns", "windows": 45, "patterns_total": 833, "patterns_min": 16, "patterns_max": 21, "candidates_total": 1936, "elapsed_seconds": 0.5268920420000001, "patterns_mean_per_window": 18.511111111111113, "peak_rss_bytes": 30048256, "peak_rss_mib": 28.65625, "candidates_mean_per_window": 43.022222222222226}
+

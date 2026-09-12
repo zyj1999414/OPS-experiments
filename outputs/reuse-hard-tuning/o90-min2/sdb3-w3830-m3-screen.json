@@ -1,0 +1,58 @@
+{
+  "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/work/sdb1-8-f64/SDB3_Beijing_PM25.f64",
+  "window": 3830,
+  "step": 383,
+  "minsup": 3,
+  "prefix": null,
+  "repetitions": 1,
+  "windows": 100,
+  "patterns_total": 74554,
+  "patterns_mean": 745.54,
+  "median_seconds": {
+    "Original-Combined": 0.222979292,
+    "OPS-NoReuse": 0.270753125
+  },
+  "speedup": 1.2142523306603736,
+  "time_reduction_percent": 17.64479468150183,
+  "raw": {
+    "Original-Combined": [
+      {
+        "algorithm": "OPS-Miner-ScanAndFusionReuse",
+        "fusion_cache_key": "(prefix_pattern, suffix_pattern, C)",
+        "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/work/sdb1-8-f64/SDB3_Beijing_PM25.f64",
+        "window": 3830,
+        "step": 383,
+        "minsup": 3,
+        "windows": 100,
+        "patterns_total": 74554,
+        "patterns_mean_per_window": 745.54,
+        "fusion_cache_hits": 73518,
+        "fusion_cache_misses": 2461,
+        "fusion_cache_entries": 2461,
+        "fusion_cache_hit_rate": 0.96760947103805,
+        "elapsed_seconds": 0.222979292,
+        "peak_rss_mib": 37.21875
+      }
+    ],
+    "OPS-NoReuse": [
+      {
+        "algorithm": "OPS-NoReuse",
+        "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/work/sdb1-8-f64/SDB3_Beijing_PM25.f64",
+        "data_length": 41757,
+        "source_series": 1,
+        "window": 3830,
+        "step": 383,
+        "minsup": 3,
+        "count_semantics": "frequent patterns",
+        "windows": 100,
+        "patterns_total": 74554,
+        "patterns_min": 656,
+        "patterns_max": 830,
+        "elapsed_seconds": 0.270753125,
+        "patterns_mean_per_window": 745.54,
+        "peak_rss_bytes": 39673856,
+        "peak_rss_mib": 37.8359375
+      }
+    ]
+  }
+}

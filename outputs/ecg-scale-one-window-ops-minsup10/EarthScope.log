@@ -1,0 +1,2 @@
+{"algorithm": "OPS-Miner", "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/OPS-data-main9/08_seismic_earthscope/08_seismic_earthscope_1GiB.f64", "data_length": 134217728, "source_series": 1, "window": 22973535, "step": 22973535, "minsup": 10, "count_semantics": "frequent patterns", "windows": 1, "patterns_total": 929242, "patterns_min": 929242, "patterns_max": 929242, "candidates_total": null, "elapsed_seconds": 23.395951916, "patterns_mean_per_window": 929242.0, "peak_rss_bytes": 3032752128, "peak_rss_mib": 2892.2578125, "candidates_mean_per_window": null}
+

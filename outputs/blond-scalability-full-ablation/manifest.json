@@ -1,0 +1,30 @@
+{
+  "dataset": "BLOND-250 Electric Current",
+  "sizes_mib": [
+    4,
+    8,
+    12,
+    16,
+    20,
+    24,
+    28,
+    32
+  ],
+  "window": 50000,
+  "step": 5000,
+  "overlap": "90%",
+  "minsup": 20,
+  "algorithms": [
+    "OPS-SPF",
+    "OPS-ISC",
+    "OPS-PF",
+    "OPS-Enum",
+    "OPS-NoReuse",
+    "EFO-OPS",
+    "OPF-OPS",
+    "SOPP-OPS",
+    "OPST-OPS",
+    "OPS-Miner"
+  ],
+  "timeout": null
+}

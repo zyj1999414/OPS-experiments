@@ -1,0 +1,20 @@
+{
+  "algorithm": "OPS-NoReuse",
+  "dataset": "OPS-data/05_transport_nyc_tlc/05_transport_nyc_tlc_640MiB.f64",
+  "data_length": 83886080,
+  "source_series": 1,
+  "window": 60000,
+  "step": 6000,
+  "minsup": 80,
+  "count_semantics": "frequent patterns",
+  "windows": 116,
+  "patterns_total": 65604,
+  "patterns_min": 523,
+  "patterns_max": 597,
+  "candidates_total": null,
+  "elapsed_seconds": 0.570108625,
+  "patterns_mean_per_window": 565.551724137931,
+  "peak_rss_bytes": 97361920,
+  "peak_rss_mib": 92.8515625,
+  "candidates_mean_per_window": null
+}

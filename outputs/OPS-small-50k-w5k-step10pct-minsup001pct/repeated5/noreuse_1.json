@@ -1,0 +1,18 @@
+{
+  "algorithm": "OPS-NoReuse",
+  "dataset": "work/ops-small-50k/cwru_50k.f64",
+  "data_length": 50000,
+  "source_series": 1,
+  "window": 5000,
+  "step": 500,
+  "minsup": 1,
+  "count_semantics": "frequent patterns",
+  "windows": 91,
+  "patterns_total": 13835868,
+  "patterns_min": 130001,
+  "patterns_max": 169674,
+  "elapsed_seconds": 47.038465291,
+  "patterns_mean_per_window": 152042.5054945055,
+  "peak_rss_bytes": 194813952,
+  "peak_rss_mib": 185.7890625
+}

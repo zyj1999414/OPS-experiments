@@ -1,0 +1,13 @@
+{
+  "algorithm": "OPS-NoReuse",
+  "dataset": "SDB3",
+  "minsup": 40,
+  "window": 15000,
+  "step": 1500,
+  "windows": 57,
+  "status": "measured",
+  "elapsed_seconds": 0.17494095800000004,
+  "peak_rss_mib": 44.3671875,
+  "patterns_total": 22229,
+  "source": "/Users/zyj/Documents/Codex/2026-08-30/qin/outputs/main8-high-minsup-comparison/OPS-NoReuse/SDB3-timing.json"
+}

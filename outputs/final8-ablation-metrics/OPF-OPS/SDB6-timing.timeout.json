@@ -1,0 +1,8 @@
+{
+  "algorithm": "OPF-OPS",
+  "dataset": "SDB6",
+  "metric_run": "timing",
+  "status": "timeout",
+  "timeout_seconds": 180.0,
+  "elapsed_wall_seconds": 180.01011349999953
+}

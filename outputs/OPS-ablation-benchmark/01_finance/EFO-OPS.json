@@ -1,0 +1,17 @@
+{
+  "algorithm": "EFO-OPS",
+  "dataset": "OPS-data/01_finance_binance/01_finance_binance_64MiB.f64",
+  "data_length": 8388608,
+  "window": 100000,
+  "step": 10000,
+  "minsup": 1000,
+  "count_semantics": "frequent patterns",
+  "windows": 829,
+  "patterns_total": 27263,
+  "patterns_min": 12,
+  "patterns_max": 47,
+  "elapsed_seconds": 154.6526302919956,
+  "patterns_mean_per_window": 32.886610373944514,
+  "peak_rss_bytes": 128925696,
+  "peak_rss_mib": 122.953125
+}

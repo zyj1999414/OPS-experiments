@@ -1,0 +1,10 @@
+{
+  "algorithm": "EFO-OPS",
+  "dataset": "SDB8",
+  "status": "estimated",
+  "estimated_seconds": 215.55543487100002,
+  "first_window_seconds": 1.811390209,
+  "first_window_peak_rss_mib": 41.140625,
+  "first_window_patterns": 533,
+  "windows": 119
+}

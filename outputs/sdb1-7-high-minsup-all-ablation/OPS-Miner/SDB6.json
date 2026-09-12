@@ -1,0 +1,13 @@
+{
+  "algorithm": "OPS-Miner",
+  "dataset": "SDB6",
+  "minsup": 80,
+  "window": 50000,
+  "step": 5000,
+  "windows": 248,
+  "status": "measured",
+  "elapsed_seconds": 0.843623833,
+  "peak_rss_mib": 97.1171875,
+  "patterns_total": 91594,
+  "source": "/Users/zyj/Documents/Codex/2026-08-30/qin/outputs/main8-high-minsup-comparison/OPS-Miner/SDB6-timing.json"
+}

@@ -1,0 +1,26 @@
+{
+  "dataset": "OPS-data-main9/01_industrial_cwru/01_industrial_cwru_800KB.f64",
+  "window": 50000,
+  "step": 5000,
+  "minsup": 25,
+  "windows": 11,
+  "reuse_updates": 10,
+  "component_total_ms": {
+    "reuse_overlap_pis2": 0.003501,
+    "remove_leaving_counts": 0.191751,
+    "scan_arriving_positions": 1.271999,
+    "add_arriving_counts": 0.145334,
+    "zero_window_first_id": 0.008918,
+    "filter_ids_by_minsup": 0.020292
+  },
+  "component_mean_ms_per_update": {
+    "reuse_overlap_pis2": 0.0003501,
+    "remove_leaving_counts": 0.019175099999999997,
+    "scan_arriving_positions": 0.1271999,
+    "add_arriving_counts": 0.0145334,
+    "zero_window_first_id": 0.0008918,
+    "filter_ids_by_minsup": 0.0020292
+  },
+  "reuse_total_ms": 1.641795,
+  "reuse_mean_ms_per_update": 0.1641795
+}

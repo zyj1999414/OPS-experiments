@@ -1,0 +1,18 @@
+{
+  "algorithm": "OPS-NoReuse",
+  "dataset": "OPS-data-main9/01_industrial_cwru/01_industrial_cwru_800KB.f64",
+  "data_length": 100000,
+  "source_series": 1,
+  "window": 50000,
+  "step": 10000,
+  "minsup": 25,
+  "count_semantics": "frequent patterns",
+  "windows": 6,
+  "patterns_total": 11106,
+  "patterns_min": 1827,
+  "patterns_max": 1875,
+  "elapsed_seconds": 0.12318204199999999,
+  "patterns_mean_per_window": 1851.0,
+  "peak_rss_bytes": 85151744,
+  "peak_rss_mib": 81.20703125
+}

@@ -1,0 +1,165 @@
+{
+  "results": [
+    {
+      "dataset": "SDB61_1",
+      "data_length": 65536,
+      "window": 10000,
+      "step": 1000,
+      "overlap": 0.9,
+      "minsup": 40,
+      "windows": 56,
+      "runtime_trials": [
+        0.07452862499999999,
+        0.079547917,
+        0.071575833,
+        0.07144741599999999,
+        0.05852904100000002
+      ],
+      "runtime_median": 0.071575833,
+      "peak_rss_mib_median": 41.609375,
+      "patterns_total": 8828,
+      "patterns_mean": 157.64285714285714
+    },
+    {
+      "dataset": "SDB62_2",
+      "data_length": 131072,
+      "window": 10000,
+      "step": 1000,
+      "overlap": 0.9,
+      "minsup": 40,
+      "windows": 122,
+      "runtime_trials": [
+        0.165750583,
+        0.15042725,
+        0.17115487500000004,
+        0.15135525000000002,
+        0.162639167
+      ],
+      "runtime_median": 0.162639167,
+      "peak_rss_mib_median": 44.13671875,
+      "patterns_total": 19240,
+      "patterns_mean": 157.70491803278688
+    },
+    {
+      "dataset": "SDB63_3",
+      "data_length": 196608,
+      "window": 10000,
+      "step": 1000,
+      "overlap": 0.9,
+      "minsup": 40,
+      "windows": 187,
+      "runtime_trials": [
+        0.222171583,
+        0.2226715,
+        0.196873666,
+        0.22258650000000002,
+        0.210762375
+      ],
+      "runtime_median": 0.222171583,
+      "peak_rss_mib_median": 45.3359375,
+      "patterns_total": 29516,
+      "patterns_mean": 157.83957219251337
+    },
+    {
+      "dataset": "SDB64_4",
+      "data_length": 262144,
+      "window": 10000,
+      "step": 1000,
+      "overlap": 0.9,
+      "minsup": 40,
+      "windows": 253,
+      "runtime_trials": [
+        0.25601175,
+        0.23410875,
+        0.25264133299999997,
+        0.23190366699999998,
+        0.30142887500000004
+      ],
+      "runtime_median": 0.25264133299999997,
+      "peak_rss_mib_median": 46.07421875,
+      "patterns_total": 39938,
+      "patterns_mean": 157.85770750988144
+    },
+    {
+      "dataset": "SDB65_5",
+      "data_length": 327680,
+      "window": 10000,
+      "step": 1000,
+      "overlap": 0.9,
+      "minsup": 40,
+      "windows": 318,
+      "runtime_trials": [
+        0.302852667,
+        0.326870542,
+        0.303942917,
+        0.30376787499999997,
+        0.347807458
+      ],
+      "runtime_median": 0.303942917,
+      "peak_rss_mib_median": 46.83984375,
+      "patterns_total": 50166,
+      "patterns_mean": 157.75471698113208
+    },
+    {
+      "dataset": "SDB66_6",
+      "data_length": 393216,
+      "window": 10000,
+      "step": 1000,
+      "overlap": 0.9,
+      "minsup": 40,
+      "windows": 384,
+      "runtime_trials": [
+        0.358855667,
+        0.332617459,
+        0.35369649999999997,
+        0.361746875,
+        0.348790834
+      ],
+      "runtime_median": 0.35369649999999997,
+      "peak_rss_mib_median": 47.62890625,
+      "patterns_total": 60582,
+      "patterns_mean": 157.765625
+    },
+    {
+      "dataset": "SDB67_7",
+      "data_length": 458752,
+      "window": 10000,
+      "step": 1000,
+      "overlap": 0.9,
+      "minsup": 40,
+      "windows": 449,
+      "runtime_trials": [
+        0.385228708,
+        0.406886708,
+        0.403127417,
+        0.3909645,
+        0.39495062499999994
+      ],
+      "runtime_median": 0.39495062499999994,
+      "peak_rss_mib_median": 48.41796875,
+      "patterns_total": 70909,
+      "patterns_mean": 157.92650334075725
+    },
+    {
+      "dataset": "SDB68_8",
+      "data_length": 524288,
+      "window": 10000,
+      "step": 1000,
+      "overlap": 0.9,
+      "minsup": 40,
+      "windows": 515,
+      "runtime_trials": [
+        0.45922150000000006,
+        0.42922537499999996,
+        0.45694708399999995,
+        0.44654258399999996,
+        0.494115458
+      ],
+      "runtime_median": 0.45694708399999995,
+      "peak_rss_mib_median": 49.2265625,
+      "patterns_total": 81398,
+      "patterns_mean": 158.05436893203884
+    }
+  ],
+  "endpoint_runtime_ratio": 6.384097325140455
+}

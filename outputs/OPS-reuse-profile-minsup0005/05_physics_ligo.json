@@ -1,0 +1,26 @@
+{
+  "dataset": "OPS-data-main9/05_physics_ligo/05_physics_ligo_128MiB.f64",
+  "window": 4096000,
+  "step": 409600,
+  "minsup": 2048,
+  "windows": 31,
+  "reuse_updates": 30,
+  "component_total_ms": {
+    "reuse_overlap_pis2": 0.013462,
+    "remove_leaving_counts": 25.292752,
+    "scan_arriving_positions": 196.675665,
+    "add_arriving_counts": 24.299793,
+    "zero_window_first_id": 0.063669,
+    "filter_ids_by_minsup": 0.104334
+  },
+  "component_mean_ms_per_update": {
+    "reuse_overlap_pis2": 0.00044873333333333336,
+    "remove_leaving_counts": 0.8430917333333333,
+    "scan_arriving_positions": 6.5558555,
+    "add_arriving_counts": 0.8099931,
+    "zero_window_first_id": 0.0021223,
+    "filter_ids_by_minsup": 0.0034778
+  },
+  "reuse_total_ms": 246.449675,
+  "reuse_mean_ms_per_update": 8.214989166666667
+}

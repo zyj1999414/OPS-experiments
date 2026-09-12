@@ -1,0 +1,18 @@
+{
+  "algorithm": "OPS-NoReuse",
+  "dataset": "work/sdb1-8-f64/SDB1_GOOG.f64",
+  "data_length": 5484,
+  "source_series": 1,
+  "window": 274,
+  "step": 274,
+  "minsup": 3,
+  "count_semantics": "frequent patterns",
+  "windows": 20,
+  "patterns_total": 1955,
+  "patterns_min": 89,
+  "patterns_max": 106,
+  "elapsed_seconds": 0.013653416000000002,
+  "patterns_mean_per_window": 97.75,
+  "peak_rss_bytes": 27750400,
+  "peak_rss_mib": 26.46484375
+}

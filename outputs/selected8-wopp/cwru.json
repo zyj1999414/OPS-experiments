@@ -1,0 +1,14 @@
+{
+  "algorithm": "WOPP-Miner",
+  "dataset": "OPS-data-main9/01_industrial_cwru/01_industrial_cwru_800KB.f64",
+  "data_length": 100000,
+  "source_series": 1,
+  "window": 20000,
+  "step": 2000,
+  "minsup": 8,
+  "windows": 41,
+  "patterns_total": 99716,
+  "patterns_mean_per_window": 2432.0975609756097,
+  "elapsed_seconds": 1.6512965,
+  "peak_rss_mib": 49.0703125
+}

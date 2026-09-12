@@ -1,0 +1,6 @@
+时间 1.1470410823822021
+内存 7.23828125
+频繁 315
+候选 972
+{"algorithm": "EFO-Miner", "dataset": "SDB6", "window_index": 1, "window_size": 50000, "minsup": 80, "elapsed_seconds": 1.14741325, "peak_rss_mib": 37.16796875, "frequent_patterns": 315, "candidate_patterns": 972}
+

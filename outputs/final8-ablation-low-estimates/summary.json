@@ -1,0 +1,526 @@
+[
+  {
+    "algorithm": "OPS-SPF",
+    "dataset": "SDB1",
+    "status": "measured",
+    "seconds": 2.116959375
+  },
+  {
+    "algorithm": "OPS-SPF",
+    "dataset": "SDB2",
+    "status": "measured",
+    "seconds": 76.124578542
+  },
+  {
+    "algorithm": "OPS-SPF",
+    "dataset": "SDB3",
+    "status": "measured",
+    "seconds": 252.59249241700002
+  },
+  {
+    "algorithm": "OPS-SPF",
+    "dataset": "SDB4",
+    "status": "measured",
+    "seconds": 1435.090439083
+  },
+  {
+    "algorithm": "OPS-SPF",
+    "dataset": "SDB5",
+    "status": "measured",
+    "seconds": 78.535665
+  },
+  {
+    "algorithm": "OPS-SPF",
+    "dataset": "SDB6",
+    "status": "measured",
+    "seconds": 1632.339591791
+  },
+  {
+    "algorithm": "OPS-SPF",
+    "dataset": "SDB7",
+    "status": "estimated",
+    "seconds": 11012.164976150001,
+    "first_window_seconds": 33.883584542,
+    "windows": 325
+  },
+  {
+    "algorithm": "OPS-SPF",
+    "dataset": "SDB8",
+    "status": "estimated",
+    "seconds": 7649.673769244,
+    "first_window_seconds": 7.719146084,
+    "windows": 991
+  },
+  {
+    "algorithm": "OPS-ISC",
+    "dataset": "SDB1",
+    "status": "measured",
+    "seconds": 1.312082333
+  },
+  {
+    "algorithm": "OPS-ISC",
+    "dataset": "SDB2",
+    "status": "measured",
+    "seconds": 64.858724541
+  },
+  {
+    "algorithm": "OPS-ISC",
+    "dataset": "SDB3",
+    "status": "estimated",
+    "seconds": 232.152381144,
+    "first_window_seconds": 4.072848792,
+    "windows": 57
+  },
+  {
+    "algorithm": "OPS-ISC",
+    "dataset": "SDB4",
+    "status": "estimated",
+    "seconds": 1242.092578749,
+    "first_window_seconds": 4.909456833,
+    "windows": 253
+  },
+  {
+    "algorithm": "OPS-ISC",
+    "dataset": "SDB5",
+    "status": "measured",
+    "seconds": 26.7936325
+  },
+  {
+    "algorithm": "OPS-ISC",
+    "dataset": "SDB6",
+    "status": "estimated",
+    "seconds": 1419.6247018000001,
+    "first_window_seconds": 1.670146708,
+    "windows": 850
+  },
+  {
+    "algorithm": "OPS-ISC",
+    "dataset": "SDB7",
+    "status": "estimated",
+    "seconds": 11309.116175825,
+    "first_window_seconds": 34.797280541,
+    "windows": 325
+  },
+  {
+    "algorithm": "OPS-ISC",
+    "dataset": "SDB8",
+    "status": "estimated",
+    "seconds": 7234.84975725,
+    "first_window_seconds": 7.30055475,
+    "windows": 991
+  },
+  {
+    "algorithm": "OPS-PF",
+    "dataset": "SDB1",
+    "status": "measured",
+    "seconds": 1.2413685
+  },
+  {
+    "algorithm": "OPS-PF",
+    "dataset": "SDB2",
+    "status": "measured",
+    "seconds": 74.651051084
+  },
+  {
+    "algorithm": "OPS-PF",
+    "dataset": "SDB3",
+    "status": "estimated",
+    "seconds": 267.804836106,
+    "first_window_seconds": 4.698330458,
+    "windows": 57
+  },
+  {
+    "algorithm": "OPS-PF",
+    "dataset": "SDB4",
+    "status": "estimated",
+    "seconds": 1188.235931124,
+    "first_window_seconds": 4.696584708,
+    "windows": 253
+  },
+  {
+    "algorithm": "OPS-PF",
+    "dataset": "SDB5",
+    "status": "measured",
+    "seconds": 13.205845791
+  },
+  {
+    "algorithm": "OPS-PF",
+    "dataset": "SDB6",
+    "status": "estimated",
+    "seconds": 1213.50915805,
+    "first_window_seconds": 1.427657833,
+    "windows": 850
+  },
+  {
+    "algorithm": "OPS-PF",
+    "dataset": "SDB7",
+    "status": "estimated",
+    "seconds": 12997.582500825,
+    "first_window_seconds": 39.992561541,
+    "windows": 325
+  },
+  {
+    "algorithm": "OPS-PF",
+    "dataset": "SDB8",
+    "status": "estimated",
+    "seconds": 7238.324822625,
+    "first_window_seconds": 7.304061375,
+    "windows": 991
+  },
+  {
+    "algorithm": "OPS-Enum",
+    "dataset": "SDB1",
+    "status": "measured",
+    "seconds": 0.18036037500000002
+  },
+  {
+    "algorithm": "OPS-Enum",
+    "dataset": "SDB2",
+    "status": "measured",
+    "seconds": 4.39239575
+  },
+  {
+    "algorithm": "OPS-Enum",
+    "dataset": "SDB3",
+    "status": "measured",
+    "seconds": 5.563328083
+  },
+  {
+    "algorithm": "OPS-Enum",
+    "dataset": "SDB4",
+    "status": "measured",
+    "seconds": 11.00146125
+  },
+  {
+    "algorithm": "OPS-Enum",
+    "dataset": "SDB5",
+    "status": "measured",
+    "seconds": 1.288988834
+  },
+  {
+    "algorithm": "OPS-Enum",
+    "dataset": "SDB6",
+    "status": "measured",
+    "seconds": 32.445920833
+  },
+  {
+    "algorithm": "OPS-Enum",
+    "dataset": "SDB7",
+    "status": "measured",
+    "seconds": 32.168793625
+  },
+  {
+    "algorithm": "OPS-Enum",
+    "dataset": "SDB8",
+    "status": "measured",
+    "seconds": 45.631601875
+  },
+  {
+    "algorithm": "OPS-NoReuse",
+    "dataset": "SDB1",
+    "status": "measured",
+    "seconds": 0.058963582999999986
+  },
+  {
+    "algorithm": "OPS-NoReuse",
+    "dataset": "SDB2",
+    "status": "measured",
+    "seconds": 0.5342901250000001
+  },
+  {
+    "algorithm": "OPS-NoReuse",
+    "dataset": "SDB3",
+    "status": "measured",
+    "seconds": 0.721838125
+  },
+  {
+    "algorithm": "OPS-NoReuse",
+    "dataset": "SDB4",
+    "status": "measured",
+    "seconds": 1.708067542
+  },
+  {
+    "algorithm": "OPS-NoReuse",
+    "dataset": "SDB5",
+    "status": "measured",
+    "seconds": 0.4201133330000001
+  },
+  {
+    "algorithm": "OPS-NoReuse",
+    "dataset": "SDB6",
+    "status": "measured",
+    "seconds": 4.880654249999999
+  },
+  {
+    "algorithm": "OPS-NoReuse",
+    "dataset": "SDB7",
+    "status": "measured",
+    "seconds": 5.944984958
+  },
+  {
+    "algorithm": "OPS-NoReuse",
+    "dataset": "SDB8",
+    "status": "measured",
+    "seconds": 9.068765334
+  },
+  {
+    "algorithm": "EFO-OPS",
+    "dataset": "SDB1",
+    "status": "measured",
+    "seconds": 2.2758936249999997
+  },
+  {
+    "algorithm": "EFO-OPS",
+    "dataset": "SDB2",
+    "status": "measured",
+    "seconds": 82.116656792
+  },
+  {
+    "algorithm": "EFO-OPS",
+    "dataset": "SDB3",
+    "status": "measured",
+    "seconds": 250.015202458
+  },
+  {
+    "algorithm": "EFO-OPS",
+    "dataset": "SDB4",
+    "status": "measured",
+    "seconds": 1432.9555445839999
+  },
+  {
+    "algorithm": "EFO-OPS",
+    "dataset": "SDB5",
+    "status": "measured",
+    "seconds": 73.463216709
+  },
+  {
+    "algorithm": "EFO-OPS",
+    "dataset": "SDB6",
+    "status": "estimated",
+    "seconds": 1705.82094195,
+    "first_window_seconds": 2.006848167,
+    "windows": 850
+  },
+  {
+    "algorithm": "EFO-OPS",
+    "dataset": "SDB7",
+    "status": "estimated",
+    "seconds": 11339.44598865,
+    "first_window_seconds": 34.890603042,
+    "windows": 325
+  },
+  {
+    "algorithm": "EFO-OPS",
+    "dataset": "SDB8",
+    "status": "estimated",
+    "seconds": 7700.172238497,
+    "first_window_seconds": 7.770103167,
+    "windows": 991
+  },
+  {
+    "algorithm": "OPF-OPS",
+    "dataset": "SDB1",
+    "status": "measured",
+    "seconds": 1.148701875
+  },
+  {
+    "algorithm": "OPF-OPS",
+    "dataset": "SDB2",
+    "status": "measured",
+    "seconds": 64.876875417
+  },
+  {
+    "algorithm": "OPF-OPS",
+    "dataset": "SDB3",
+    "status": "estimated",
+    "seconds": 271.854337038,
+    "first_window_seconds": 4.769374334,
+    "windows": 57
+  },
+  {
+    "algorithm": "OPF-OPS",
+    "dataset": "SDB4",
+    "status": "estimated",
+    "seconds": 952.565587875,
+    "first_window_seconds": 3.765081375,
+    "windows": 253
+  },
+  {
+    "algorithm": "OPF-OPS",
+    "dataset": "SDB5",
+    "status": "measured",
+    "seconds": 39.774412417
+  },
+  {
+    "algorithm": "OPF-OPS",
+    "dataset": "SDB6",
+    "status": "estimated",
+    "seconds": 1271.67108125,
+    "first_window_seconds": 1.496083625,
+    "windows": 850
+  },
+  {
+    "algorithm": "OPF-OPS",
+    "dataset": "SDB7",
+    "status": "estimated",
+    "seconds": 8017.461711675,
+    "first_window_seconds": 24.669112959,
+    "windows": 325
+  },
+  {
+    "algorithm": "OPF-OPS",
+    "dataset": "SDB8",
+    "status": "estimated",
+    "seconds": 5411.321929875,
+    "first_window_seconds": 5.460466125,
+    "windows": 991
+  },
+  {
+    "algorithm": "SOPP-OPS",
+    "dataset": "SDB1",
+    "status": "measured",
+    "seconds": 0.23119270799999997
+  },
+  {
+    "algorithm": "SOPP-OPS",
+    "dataset": "SDB2",
+    "status": "measured",
+    "seconds": 5.383785875
+  },
+  {
+    "algorithm": "SOPP-OPS",
+    "dataset": "SDB3",
+    "status": "measured",
+    "seconds": 7.449027041
+  },
+  {
+    "algorithm": "SOPP-OPS",
+    "dataset": "SDB4",
+    "status": "measured",
+    "seconds": 18.999866125
+  },
+  {
+    "algorithm": "SOPP-OPS",
+    "dataset": "SDB5",
+    "status": "measured",
+    "seconds": 5.975854583
+  },
+  {
+    "algorithm": "SOPP-OPS",
+    "dataset": "SDB6",
+    "status": "measured",
+    "seconds": 66.059787708
+  },
+  {
+    "algorithm": "SOPP-OPS",
+    "dataset": "SDB7",
+    "status": "measured",
+    "seconds": 75.02930166700001
+  },
+  {
+    "algorithm": "SOPP-OPS",
+    "dataset": "SDB8",
+    "status": "measured",
+    "seconds": 125.5672305
+  },
+  {
+    "algorithm": "OPST-OPS",
+    "dataset": "SDB1",
+    "status": "measured",
+    "seconds": 0.430574125
+  },
+  {
+    "algorithm": "OPST-OPS",
+    "dataset": "SDB2",
+    "status": "measured",
+    "seconds": 4.263243125000001
+  },
+  {
+    "algorithm": "OPST-OPS",
+    "dataset": "SDB3",
+    "status": "measured",
+    "seconds": 8.204223708
+  },
+  {
+    "algorithm": "OPST-OPS",
+    "dataset": "SDB4",
+    "status": "measured",
+    "seconds": 36.203139583
+  },
+  {
+    "algorithm": "OPST-OPS",
+    "dataset": "SDB5",
+    "status": "measured",
+    "seconds": 49.344642791
+  },
+  {
+    "algorithm": "OPST-OPS",
+    "dataset": "SDB6",
+    "status": "measured",
+    "seconds": 153.427919667
+  },
+  {
+    "algorithm": "OPST-OPS",
+    "dataset": "SDB7",
+    "status": "estimated",
+    "seconds": 195.7717801,
+    "first_window_seconds": 0.602374708,
+    "windows": 325
+  },
+  {
+    "algorithm": "OPST-OPS",
+    "dataset": "SDB8",
+    "status": "estimated",
+    "seconds": 419.722070125,
+    "first_window_seconds": 0.423533875,
+    "windows": 991
+  },
+  {
+    "algorithm": "OPS-Miner",
+    "dataset": "SDB1",
+    "status": "measured",
+    "seconds": 0.026223207999999998
+  },
+  {
+    "algorithm": "OPS-Miner",
+    "dataset": "SDB2",
+    "status": "measured",
+    "seconds": 0.4199625
+  },
+  {
+    "algorithm": "OPS-Miner",
+    "dataset": "SDB3",
+    "status": "measured",
+    "seconds": 0.549252333
+  },
+  {
+    "algorithm": "OPS-Miner",
+    "dataset": "SDB4",
+    "status": "measured",
+    "seconds": 1.3688829169999999
+  },
+  {
+    "algorithm": "OPS-Miner",
+    "dataset": "SDB5",
+    "status": "measured",
+    "seconds": 0.333987083
+  },
+  {
+    "algorithm": "OPS-Miner",
+    "dataset": "SDB6",
+    "status": "measured",
+    "seconds": 3.8997350419999997
+  },
+  {
+    "algorithm": "OPS-Miner",
+    "dataset": "SDB7",
+    "status": "measured",
+    "seconds": 4.783048792000001
+  },
+  {
+    "algorithm": "OPS-Miner",
+    "dataset": "SDB8",
+    "status": "measured",
+    "seconds": 7.404496583
+  }
+]

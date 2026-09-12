@@ -1,0 +1,18 @@
+{
+  "algorithm": "OPS-NoReuse",
+  "dataset": "OPS-data-main9/05_physics_ligo/05_physics_ligo_128MiB.f64",
+  "data_length": 16777216,
+  "source_series": 1,
+  "window": 2000000,
+  "step": 200000,
+  "minsup": 1000,
+  "count_semantics": "frequent patterns",
+  "windows": 74,
+  "patterns_total": 159340,
+  "patterns_min": 2008,
+  "patterns_max": 2262,
+  "elapsed_seconds": 12.238631375,
+  "patterns_mean_per_window": 2153.2432432432433,
+  "peak_rss_bytes": 788258816,
+  "peak_rss_mib": 751.7421875
+}

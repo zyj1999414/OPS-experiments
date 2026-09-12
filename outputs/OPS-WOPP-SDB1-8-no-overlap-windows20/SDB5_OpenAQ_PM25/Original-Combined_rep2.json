@@ -1,0 +1,17 @@
+{
+  "algorithm": "OPS-Miner-ScanAndFusionReuse",
+  "fusion_cache_key": "(prefix_pattern, suffix_pattern, C)",
+  "dataset": "work/sdb1-8-f64/SDB5_OpenAQ_PM25.f64",
+  "window": 500,
+  "step": 500,
+  "minsup": 3,
+  "windows": 20,
+  "patterns_total": 2207,
+  "patterns_mean_per_window": 110.35,
+  "fusion_cache_hits": 1903,
+  "fusion_cache_misses": 334,
+  "fusion_cache_entries": 334,
+  "fusion_cache_hit_rate": 0.8506928922664283,
+  "elapsed_seconds": 0.017963167000000016,
+  "peak_rss_mib": 26.76171875
+}

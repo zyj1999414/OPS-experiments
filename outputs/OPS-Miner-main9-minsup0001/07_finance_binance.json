@@ -1,0 +1,17 @@
+{
+  "algorithm": "OPS-Miner",
+  "dataset": "OPS-data-main9/07_finance_binance/07_finance_binance_512MiB.f64",
+  "data_length": 67108864,
+  "source_series": 1,
+  "window": 1000000,
+  "step": 100000,
+  "minsup": 100,
+  "windows": 662,
+  "patterns_total": 140954,
+  "patterns_min": 117,
+  "patterns_max": 440,
+  "patterns_mean_per_window": 212.9214501510574,
+  "elapsed_seconds": 29.207893917,
+  "peak_rss_bytes": 1091956736,
+  "peak_rss_mib": 1041.37109375
+}

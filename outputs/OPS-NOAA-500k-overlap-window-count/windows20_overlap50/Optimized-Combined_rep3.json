@@ -1,0 +1,14 @@
+{
+  "algorithm": "OPS-OptimizedCombinedReuse",
+  "dataset": "work/ops-noaa-500k/noaa_500k.f64",
+  "window": 47619,
+  "step": 23809,
+  "minsup": 24,
+  "windows": 20,
+  "patterns_total": 5281,
+  "patterns_mean_per_window": 264.05,
+  "fusion_cache_hits": 5244,
+  "fusion_cache_misses": 431,
+  "elapsed_seconds": 0.08773491700000001,
+  "peak_rss_mib": 59.34765625
+}

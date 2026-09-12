@@ -1,0 +1,17 @@
+{
+  "algorithm": "OPS-Miner-ScanAndFusionReuse",
+  "fusion_cache_key": "(prefix_pattern, suffix_pattern, C)",
+  "dataset": "OPS-data-main9/05_physics_ligo/05_physics_ligo_128MiB.f64",
+  "window": 2000000,
+  "step": 200000,
+  "minsup": 1000,
+  "windows": 74,
+  "patterns_total": 159340,
+  "patterns_mean_per_window": 2153.2432432432433,
+  "fusion_cache_hits": 155744,
+  "fusion_cache_misses": 3448,
+  "fusion_cache_entries": 3448,
+  "fusion_cache_hit_rate": 0.9783406201316649,
+  "elapsed_seconds": 11.823693541,
+  "peak_rss_mib": 816.78515625
+}

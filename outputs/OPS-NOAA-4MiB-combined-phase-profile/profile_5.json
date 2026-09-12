@@ -1,0 +1,38 @@
+{
+  "elapsed_seconds": 0.201162792,
+  "windows": 40,
+  "patterns_total": 10356,
+  "build_total_ms": 187.811689,
+  "phase_ms": {
+    "allocate_next_pis": 9.74162,
+    "extract_valid": 46.404861,
+    "extract_tbegin_tend_C": 40.600211,
+    "generate_event": 32.480043,
+    "group_and_count": 29.330698,
+    "fusion_lookup": 11.260529,
+    "build_pattern_id_table": 4.613293,
+    "map_and_write_next_pis": 13.380434
+  },
+  "phase_percent_of_build": {
+    "allocate_next_pis": 5.186908254682699,
+    "extract_valid": 24.708185761536917,
+    "extract_tbegin_tend_C": 21.61751018596079,
+    "generate_event": 17.293941166782222,
+    "group_and_count": 15.617078019036398,
+    "fusion_lookup": 5.995648652092149,
+    "build_pattern_id_table": 2.4563396583904846,
+    "map_and_write_next_pis": 7.124388301518336
+  },
+  "phase_percent_of_elapsed": {
+    "allocate_next_pis": 4.842654997550441,
+    "extract_valid": 23.06831225528029,
+    "extract_tbegin_tend_C": 20.182763719048005,
+    "generate_event": 16.146148438822625,
+    "group_and_count": 14.580578102137299,
+    "fusion_lookup": 5.597719582257539,
+    "build_pattern_id_table": 2.2933132683901105,
+    "map_and_write_next_pis": 6.651545182371499
+  },
+  "fusion_cache_hits": 10846,
+  "fusion_cache_misses": 336
+}

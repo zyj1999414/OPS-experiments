@@ -1,0 +1,20 @@
+{
+  "algorithm": "OPST-OPS",
+  "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/work/sdb1-8-f64/SDB1_GOOG.f64",
+  "data_length": 5484,
+  "source_series": 1,
+  "window": 1000,
+  "step": 100,
+  "minsup": 40,
+  "count_semantics": "maximal frequent patterns",
+  "windows": 45,
+  "patterns_total": 354,
+  "patterns_min": 7,
+  "patterns_max": 10,
+  "candidates_total": null,
+  "elapsed_seconds": 0.40707224999999997,
+  "patterns_mean_per_window": 7.866666666666666,
+  "peak_rss_bytes": 34689024,
+  "peak_rss_mib": 33.08203125,
+  "candidates_mean_per_window": null
+}

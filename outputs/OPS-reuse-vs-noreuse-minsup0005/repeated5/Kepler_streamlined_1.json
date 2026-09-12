@@ -1,0 +1,12 @@
+{
+  "algorithm": "OPS-Miner-StreamlinedReuse",
+  "dataset": "OPS-data-main9/03_astronomy_kepler/03_astronomy_kepler_approx16MiB.f64",
+  "window": 100000,
+  "step": 10000,
+  "minsup": 50,
+  "windows": 46,
+  "patterns_total": 54265,
+  "patterns_mean_per_window": 1179.6739130434783,
+  "elapsed_seconds": 0.589369667,
+  "peak_rss_mib": 167.87109375
+}

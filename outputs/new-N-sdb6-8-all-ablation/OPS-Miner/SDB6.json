@@ -1,0 +1,10 @@
+{
+  "algorithm": "OPS-Miner",
+  "dataset": "SDB6",
+  "status": "measured",
+  "elapsed_seconds": 0.39052912500000003,
+  "peak_rss_mib": 78.50390625,
+  "patterns_total": 41968,
+  "patterns_mean_per_window": 378.0900900900901,
+  "windows": 111
+}

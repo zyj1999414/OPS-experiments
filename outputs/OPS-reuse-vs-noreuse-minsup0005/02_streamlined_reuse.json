@@ -1,0 +1,29 @@
+{
+  "dataset": "OPS-data-main9/02_weather_noaa_uscrn/02_weather_noaa_uscrn_4MiB.f64",
+  "window": 105120,
+  "step": 10512,
+  "minsup": 53,
+  "windows": 40,
+  "reuse_updates": 39,
+  "patterns_total": 10356,
+  "patterns_mean_per_window": 258.9,
+  "elapsed_seconds": 0.225805708,
+  "component_total_ms": {
+    "reuse_overlap_pis2": 0.016993,
+    "remove_leaving_counts": 1.103997,
+    "scan_arriving_positions": 2.766121,
+    "add_arriving_counts": 1.007624,
+    "zero_window_first_id": 0.031252,
+    "filter_ids_by_minsup": 0.074086
+  },
+  "component_mean_ms_per_update": {
+    "reuse_overlap_pis2": 0.0004357179487179487,
+    "remove_leaving_counts": 0.028307615384615382,
+    "scan_arriving_positions": 0.07092617948717948,
+    "add_arriving_counts": 0.02583651282051282,
+    "zero_window_first_id": 0.0008013333333333334,
+    "filter_ids_by_minsup": 0.0018996410256410256
+  },
+  "reuse_total_ms": 5.000073,
+  "reuse_mean_ms_per_update": 0.128207
+}

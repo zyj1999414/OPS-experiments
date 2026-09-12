@@ -1,0 +1,58 @@
+{
+  "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/OPS-data-main9/01_industrial_cwru/01_industrial_cwru_800KB.f64",
+  "window": 30000,
+  "step": 3000,
+  "minsup": 100,
+  "prefix": null,
+  "repetitions": 1,
+  "windows": 24,
+  "patterns_total": 7514,
+  "patterns_mean": 313.0833333333333,
+  "median_seconds": {
+    "Original-Combined": 0.08814391699999999,
+    "OPS-NoReuse": 0.121759792
+  },
+  "speedup": 1.3813748712801137,
+  "time_reduction_percent": 27.608354488647624,
+  "raw": {
+    "Original-Combined": [
+      {
+        "algorithm": "OPS-Miner-ScanAndFusionReuse",
+        "fusion_cache_key": "(prefix_pattern, suffix_pattern, C)",
+        "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/OPS-data-main9/01_industrial_cwru/01_industrial_cwru_800KB.f64",
+        "window": 30000,
+        "step": 3000,
+        "minsup": 100,
+        "windows": 24,
+        "patterns_total": 7514,
+        "patterns_mean_per_window": 313.0833333333333,
+        "fusion_cache_hits": 7126,
+        "fusion_cache_misses": 340,
+        "fusion_cache_entries": 340,
+        "fusion_cache_hit_rate": 0.9544602196624699,
+        "elapsed_seconds": 0.08814391699999999,
+        "peak_rss_mib": 53.83203125
+      }
+    ],
+    "OPS-NoReuse": [
+      {
+        "algorithm": "OPS-NoReuse",
+        "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/OPS-data-main9/01_industrial_cwru/01_industrial_cwru_800KB.f64",
+        "data_length": 100000,
+        "source_series": 1,
+        "window": 30000,
+        "step": 3000,
+        "minsup": 100,
+        "count_semantics": "frequent patterns",
+        "windows": 24,
+        "patterns_total": 7514,
+        "patterns_min": 304,
+        "patterns_max": 321,
+        "elapsed_seconds": 0.121759792,
+        "patterns_mean_per_window": 313.0833333333333,
+        "peak_rss_bytes": 63528960,
+        "peak_rss_mib": 60.5859375
+      }
+    ]
+  }
+}

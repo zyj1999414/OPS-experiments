@@ -1,0 +1,13 @@
+{
+  "algorithm": "OPS-ISC",
+  "dataset": "SDB7",
+  "minsup": 80,
+  "window": 60000,
+  "step": 6000,
+  "windows": 325,
+  "status": "estimated",
+  "first_window_seconds": 0.609513417,
+  "estimated_seconds": 198.091860525,
+  "first_window_peak_rss_mib": 83.4296875,
+  "first_window_patterns": 559
+}

@@ -1,0 +1,18 @@
+{
+  "algorithm": "OPS-Enum",
+  "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/work/sdb1-8-f64/SDB6_Jena_Temperature.f64",
+  "data_length": 420551,
+  "source_series": 1,
+  "window": 84110,
+  "step": 8411,
+  "minsup": 42,
+  "count_semantics": "frequent patterns",
+  "windows": 41,
+  "patterns_total": 56720,
+  "patterns_min": 1274,
+  "patterns_max": 1524,
+  "elapsed_seconds": 2.468123292,
+  "patterns_mean_per_window": 1383.4146341463415,
+  "peak_rss_bytes": 86384640,
+  "peak_rss_mib": 82.3828125
+}

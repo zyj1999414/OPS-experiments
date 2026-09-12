@@ -1,0 +1,26 @@
+{
+  "dataset": "OPS-data-main9/07_finance_binance/07_finance_binance_512MiB.f64",
+  "window": 1000000,
+  "step": 100000,
+  "minsup": 500,
+  "windows": 662,
+  "reuse_updates": 661,
+  "component_total_ms": {
+    "reuse_overlap_pis2": 0.25163,
+    "remove_leaving_counts": 154.954802,
+    "scan_arriving_positions": 1023.63109,
+    "add_arriving_counts": 145.850116,
+    "zero_window_first_id": 0.795136,
+    "filter_ids_by_minsup": 1.646485
+  },
+  "component_mean_ms_per_update": {
+    "reuse_overlap_pis2": 0.0003806807866868381,
+    "remove_leaving_counts": 0.23442481391830558,
+    "scan_arriving_positions": 1.5486098184568835,
+    "add_arriving_counts": 0.2206507049924357,
+    "zero_window_first_id": 0.001202928895612708,
+    "filter_ids_by_minsup": 0.0024909001512859303
+  },
+  "reuse_total_ms": 1327.129259,
+  "reuse_mean_ms_per_update": 2.00775984720121
+}

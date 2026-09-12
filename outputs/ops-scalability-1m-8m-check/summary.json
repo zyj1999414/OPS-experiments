@@ -1,0 +1,38 @@
+{
+  "rows": [
+    {
+      "length": 1000000,
+      "windows": 41,
+      "runtimes_seconds": [
+        0.8267218749999999,
+        0.8012532080000001,
+        0.845070792,
+        0.848490708,
+        0.814552375
+      ],
+      "median_runtime_seconds": 0.8267218749999999,
+      "mean_runtime_seconds": 0.8272177916,
+      "median_peak_rss_mib": 209.0390625,
+      "patterns_total": 93947,
+      "patterns_mean_per_window": 2291.390243902439
+    },
+    {
+      "length": 8000000,
+      "windows": 391,
+      "runtimes_seconds": [
+        6.6848589160000005,
+        8.148705792,
+        6.788115375,
+        6.80039,
+        6.951206042
+      ],
+      "median_runtime_seconds": 6.80039,
+      "mean_runtime_seconds": 7.074655225,
+      "median_peak_rss_mib": 291.1171875,
+      "patterns_total": 896553,
+      "patterns_mean_per_window": 2292.97442455243
+    }
+  ],
+  "runtime_ratio_8m_over_1m": 8.225728876473724,
+  "rss_ratio_8m_over_1m": 1.3926449153492544
+}

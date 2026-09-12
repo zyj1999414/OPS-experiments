@@ -1,0 +1,58 @@
+{
+  "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/OPS-data-main9/04_biomedical_sleep_edf/04_biomedical_sleep_edf_approx64MiB.f64",
+  "window": 200000,
+  "step": 20000,
+  "minsup": 50,
+  "prefix": null,
+  "repetitions": 1,
+  "windows": 415,
+  "patterns_total": 849000,
+  "patterns_mean": 2045.7831325301204,
+  "median_seconds": {
+    "Original-Combined": 7.787983209,
+    "OPS-NoReuse": 8.257553167
+  },
+  "speedup": 1.0602941667179446,
+  "time_reduction_percent": 5.686550828114079,
+  "raw": {
+    "Original-Combined": [
+      {
+        "algorithm": "OPS-Miner-ScanAndFusionReuse",
+        "fusion_cache_key": "(prefix_pattern, suffix_pattern, C)",
+        "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/OPS-data-main9/04_biomedical_sleep_edf/04_biomedical_sleep_edf_approx64MiB.f64",
+        "window": 200000,
+        "step": 20000,
+        "minsup": 50,
+        "windows": 415,
+        "patterns_total": 849000,
+        "patterns_mean_per_window": 2045.7831325301204,
+        "fusion_cache_hits": 846099,
+        "fusion_cache_misses": 5420,
+        "fusion_cache_entries": 5420,
+        "fusion_cache_hit_rate": 0.9936349042123547,
+        "elapsed_seconds": 7.787983209,
+        "peak_rss_mib": 286.10546875
+      }
+    ],
+    "OPS-NoReuse": [
+      {
+        "algorithm": "OPS-NoReuse",
+        "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/OPS-data-main9/04_biomedical_sleep_edf/04_biomedical_sleep_edf_approx64MiB.f64",
+        "data_length": 8490000,
+        "source_series": 1,
+        "window": 200000,
+        "step": 20000,
+        "minsup": 50,
+        "count_semantics": "frequent patterns",
+        "windows": 415,
+        "patterns_total": 849000,
+        "patterns_min": 1622,
+        "patterns_max": 2933,
+        "elapsed_seconds": 8.257553167,
+        "patterns_mean_per_window": 2045.7831325301204,
+        "peak_rss_bytes": 299438080,
+        "peak_rss_mib": 285.56640625
+      }
+    ]
+  }
+}

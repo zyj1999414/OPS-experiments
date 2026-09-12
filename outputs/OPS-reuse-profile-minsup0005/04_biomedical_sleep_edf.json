@@ -1,0 +1,26 @@
+{
+  "dataset": "OPS-data-main9/04_biomedical_sleep_edf/04_biomedical_sleep_edf_approx64MiB.f64",
+  "window": 600000,
+  "step": 60000,
+  "minsup": 300,
+  "windows": 132,
+  "reuse_updates": 131,
+  "component_total_ms": {
+    "reuse_overlap_pis2": 0.050793,
+    "remove_leaving_counts": 16.902079,
+    "scan_arriving_positions": 143.557668,
+    "add_arriving_counts": 15.791418,
+    "zero_window_first_id": 0.127592,
+    "filter_ids_by_minsup": 0.283496
+  },
+  "component_mean_ms_per_update": {
+    "reuse_overlap_pis2": 0.00038773282442748093,
+    "remove_leaving_counts": 0.1290235038167939,
+    "scan_arriving_positions": 1.0958600610687022,
+    "add_arriving_counts": 0.12054517557251909,
+    "zero_window_first_id": 0.0009739847328244276,
+    "filter_ids_by_minsup": 0.002164091603053435
+  },
+  "reuse_total_ms": 176.713046,
+  "reuse_mean_ms_per_update": 1.3489545496183206
+}

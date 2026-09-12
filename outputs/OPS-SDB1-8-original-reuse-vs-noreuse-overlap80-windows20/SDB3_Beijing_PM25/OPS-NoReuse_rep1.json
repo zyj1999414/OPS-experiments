@@ -1,0 +1,18 @@
+{
+  "algorithm": "OPS-NoReuse",
+  "dataset": "work/sdb1-8-f64/SDB3_Beijing_PM25.f64",
+  "data_length": 41757,
+  "source_series": 1,
+  "window": 8699,
+  "step": 1739,
+  "minsup": 4,
+  "count_semantics": "frequent patterns",
+  "windows": 20,
+  "patterns_total": 21736,
+  "patterns_min": 1031,
+  "patterns_max": 1137,
+  "elapsed_seconds": 0.09664620799999998,
+  "patterns_mean_per_window": 1086.8,
+  "peak_rss_bytes": 43061248,
+  "peak_rss_mib": 41.06640625
+}

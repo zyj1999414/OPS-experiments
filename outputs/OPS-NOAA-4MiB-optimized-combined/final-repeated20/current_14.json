@@ -1,0 +1,17 @@
+{
+  "algorithm": "OPS-Miner-ScanAndFusionReuse",
+  "fusion_cache_key": "(prefix_pattern, suffix_pattern, C)",
+  "dataset": "OPS-data-main9/02_weather_noaa_uscrn/02_weather_noaa_uscrn_4MiB.f64",
+  "window": 105120,
+  "step": 10512,
+  "minsup": 53,
+  "windows": 40,
+  "patterns_total": 10356,
+  "patterns_mean_per_window": 258.9,
+  "fusion_cache_hits": 10846,
+  "fusion_cache_misses": 336,
+  "fusion_cache_entries": 336,
+  "fusion_cache_hit_rate": 0.9699517081023072,
+  "elapsed_seconds": 0.2134805,
+  "peak_rss_mib": 91.3984375
+}

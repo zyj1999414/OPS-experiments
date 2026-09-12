@@ -1,0 +1,20 @@
+{
+  "algorithm": "OPS-Miner",
+  "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/OPS-data/08_physics_ligo_gwosc/08_physics_ligo_gwosc_1024MiB.f64",
+  "data_length": 134217728,
+  "source_series": 1,
+  "window": 22973535,
+  "step": 22973535,
+  "minsup": 10,
+  "count_semantics": "frequent patterns",
+  "windows": 1,
+  "patterns_total": 6062150,
+  "patterns_min": 6062150,
+  "patterns_max": 6062150,
+  "candidates_total": null,
+  "elapsed_seconds": 74.68992120899999,
+  "patterns_mean_per_window": 6062150.0,
+  "peak_rss_bytes": 4066811904,
+  "peak_rss_mib": 3878.4140625,
+  "candidates_mean_per_window": null
+}

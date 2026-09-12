@@ -1,0 +1,17 @@
+{
+  "algorithm": "OPS-Miner-ScanAndFusionReuse",
+  "fusion_cache_key": "(prefix_pattern, suffix_pattern, C)",
+  "dataset": "work/sdb1-8-f64/SDB4_Metro_Traffic.f64",
+  "window": 16622,
+  "step": 1662,
+  "minsup": 8,
+  "windows": 20,
+  "patterns_total": 32603,
+  "patterns_mean_per_window": 1630.15,
+  "fusion_cache_hits": 29941,
+  "fusion_cache_misses": 2626,
+  "fusion_cache_entries": 2626,
+  "fusion_cache_hit_rate": 0.9193662296189394,
+  "elapsed_seconds": 0.17527299999999998,
+  "peak_rss_mib": 54.4375
+}

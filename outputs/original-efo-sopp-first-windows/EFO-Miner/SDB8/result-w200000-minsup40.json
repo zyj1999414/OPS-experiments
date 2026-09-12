@@ -1,0 +1,11 @@
+{
+  "algorithm": "EFO-Miner",
+  "dataset": "SDB8",
+  "window_index": 1,
+  "window_size": 200000,
+  "minsup": 40,
+  "elapsed_seconds": 9.602872999999999,
+  "peak_rss_mib": 61.18359375,
+  "frequent_patterns": 2278,
+  "candidate_patterns": 8027
+}

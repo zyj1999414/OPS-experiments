@@ -1,0 +1,26 @@
+{
+  "dataset": "OPS-data-main9/00_transport_nyc/00_transport_nyc_256KiB.f64",
+  "window": 20000,
+  "step": 2000,
+  "minsup": 10,
+  "windows": 7,
+  "reuse_updates": 6,
+  "component_total_ms": {
+    "reuse_overlap_pis2": 0.002917,
+    "remove_leaving_counts": 0.070083,
+    "scan_arriving_positions": 0.259291,
+    "add_arriving_counts": 0.048042,
+    "zero_window_first_id": 0.007374,
+    "filter_ids_by_minsup": 0.014582
+  },
+  "component_mean_ms_per_update": {
+    "reuse_overlap_pis2": 0.0004861666666666667,
+    "remove_leaving_counts": 0.0116805,
+    "scan_arriving_positions": 0.043215166666666666,
+    "add_arriving_counts": 0.008007,
+    "zero_window_first_id": 0.001229,
+    "filter_ids_by_minsup": 0.0024303333333333334
+  },
+  "reuse_total_ms": 0.402289,
+  "reuse_mean_ms_per_update": 0.06704816666666667
+}

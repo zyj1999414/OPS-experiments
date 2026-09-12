@@ -1,0 +1,11 @@
+{
+  "algorithm": "EFO-Miner (original)",
+  "dataset": "SDB4 Sleep-EDF EEG",
+  "window_index": 1,
+  "window_size": 16000,
+  "minsup": 4,
+  "frequent_patterns": 2755,
+  "candidate_patterns": 7871,
+  "elapsed_seconds_including_initialization_and_output": 5.21986175,
+  "peak_rss_mib": 31.35546875
+}

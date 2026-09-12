@@ -1,0 +1,10 @@
+{
+  "algorithm": "OPS-NoReuse",
+  "dataset": "SDB8",
+  "status": "measured",
+  "elapsed_seconds": 0.615223916,
+  "peak_rss_mib": 110.50390625,
+  "patterns_total": 61821,
+  "patterns_mean_per_window": 519.5042016806723,
+  "windows": 119
+}

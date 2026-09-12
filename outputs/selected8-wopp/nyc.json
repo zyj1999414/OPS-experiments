@@ -1,0 +1,14 @@
+{
+  "algorithm": "WOPP-Miner",
+  "dataset": "OPS-data/05_transport_nyc_tlc/05_transport_nyc_tlc_640MiB.f64",
+  "data_length": 83886080,
+  "source_series": 1,
+  "window": 60000,
+  "step": 6000,
+  "minsup": 8,
+  "windows": 325,
+  "patterns_total": 1742952,
+  "patterns_mean_per_window": 5362.92923076923,
+  "elapsed_seconds": 67.532211625,
+  "peak_rss_mib": 190.7890625
+}

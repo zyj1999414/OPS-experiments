@@ -1,0 +1,18 @@
+{
+  "algorithm": "OPS-NoReuse",
+  "dataset": "work/sdb1-8-f64/SDB5_OpenAQ_PM25.f64",
+  "data_length": 10000,
+  "source_series": 1,
+  "window": 3448,
+  "step": 344,
+  "minsup": 3,
+  "count_semantics": "frequent patterns",
+  "windows": 20,
+  "patterns_total": 12792,
+  "patterns_min": 471,
+  "patterns_max": 806,
+  "elapsed_seconds": 0.049713624999999984,
+  "patterns_mean_per_window": 639.6,
+  "peak_rss_bytes": 31358976,
+  "peak_rss_mib": 29.90625
+}

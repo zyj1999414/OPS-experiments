@@ -1,0 +1,20 @@
+{
+  "dataset": "OPS-data/05_transport_nyc_tlc/05_transport_nyc_tlc_640MiB.f64",
+  "source_code": "/Users/zyj/Documents/Codex/2026-08-18/users-zyj-documents-codex-2026-08/OPS-ablation/OPS-Miner.py",
+  "data_length": 83886080,
+  "window": 10000,
+  "step": 1000,
+  "minsup": 100,
+  "updates": 83876,
+  "windows": 83877,
+  "elapsed_seconds": 27.74082141701365,
+  "initial_seconds": 0.0011470000026747584,
+  "mean_update_seconds": 0.000329373951314711,
+  "level_counts_last_window": [
+    2,
+    6,
+    24,
+    9
+  ],
+  "patterns_last_window": 41
+}

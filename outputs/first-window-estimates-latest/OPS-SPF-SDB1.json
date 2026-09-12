@@ -1,0 +1,22 @@
+{
+  "algorithm": "OPS-SPF",
+  "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/work/sdb1-8-f64/SDB1_GOOG.f64",
+  "data_length": 5484,
+  "source_series": 1,
+  "window": 1000,
+  "step": 100,
+  "minsup": 4,
+  "count_semantics": "frequent patterns",
+  "windows": 1,
+  "patterns_total": 231,
+  "patterns_min": 231,
+  "patterns_max": 231,
+  "candidates_total": 231,
+  "elapsed_seconds": 0.09766670800000002,
+  "patterns_mean_per_window": 231.0,
+  "peak_rss_bytes": 27226112,
+  "peak_rss_mib": 25.96484375,
+  "candidates_mean_per_window": 231.0,
+  "estimated_windows": 45,
+  "estimated_total_seconds": 4.395001860000001
+}

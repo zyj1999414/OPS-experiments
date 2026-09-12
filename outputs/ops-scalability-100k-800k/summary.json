@@ -1,0 +1,83 @@
+{
+  "dataset": "BLOND-250 Electric Current",
+  "repeats": 5,
+  "rows": [
+    {
+      "length": 100000,
+      "window": 20000,
+      "step": 2000,
+      "overlap": "90%",
+      "minsup": 8,
+      "windows": 41,
+      "runtimes_seconds": [
+        0.20891249999999997,
+        0.21363508399999998,
+        0.20239183299999997,
+        0.23439158400000004,
+        0.223951208
+      ],
+      "median_runtime_seconds": 0.21363508399999998,
+      "mean_runtime_seconds": 0.2166564418,
+      "patterns_total": 52518,
+      "patterns_mean_per_window": 1280.9268292682927
+    },
+    {
+      "length": 200000,
+      "window": 20000,
+      "step": 2000,
+      "overlap": "90%",
+      "minsup": 8,
+      "windows": 91,
+      "runtimes_seconds": [
+        0.388586875,
+        0.37663395899999996,
+        0.375874375,
+        0.390909209,
+        0.389606292
+      ],
+      "median_runtime_seconds": 0.388586875,
+      "mean_runtime_seconds": 0.384322142,
+      "patterns_total": 116804,
+      "patterns_mean_per_window": 1283.5604395604396
+    },
+    {
+      "length": 400000,
+      "window": 20000,
+      "step": 2000,
+      "overlap": "90%",
+      "minsup": 8,
+      "windows": 191,
+      "runtimes_seconds": [
+        0.7059875419999999,
+        0.6909560419999999,
+        0.710344042,
+        0.719827,
+        0.7203345419999999
+      ],
+      "median_runtime_seconds": 0.710344042,
+      "mean_runtime_seconds": 0.7094898336,
+      "patterns_total": 245597,
+      "patterns_mean_per_window": 1285.848167539267
+    },
+    {
+      "length": 800000,
+      "window": 20000,
+      "step": 2000,
+      "overlap": "90%",
+      "minsup": 8,
+      "windows": 391,
+      "runtimes_seconds": [
+        1.4034332079999998,
+        1.356378375,
+        1.377766458,
+        1.361473917,
+        1.397009875
+      ],
+      "median_runtime_seconds": 1.377766458,
+      "mean_runtime_seconds": 1.3792123666,
+      "patterns_total": 502742,
+      "patterns_mean_per_window": 1285.7851662404091
+    }
+  ],
+  "ratio_800k_over_100k": 6.4491582197238735
+}

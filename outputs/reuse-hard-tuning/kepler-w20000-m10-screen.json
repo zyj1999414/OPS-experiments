@@ -1,0 +1,58 @@
+{
+  "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/OPS-data-main9/03_astronomy_kepler/03_astronomy_kepler_approx16MiB.f64",
+  "window": 20000,
+  "step": 2000,
+  "minsup": 10,
+  "prefix": null,
+  "repetitions": 1,
+  "windows": 850,
+  "patterns_total": 1072940,
+  "patterns_mean": 1262.2823529411764,
+  "median_seconds": {
+    "Original-Combined": 3.450148166,
+    "OPS-NoReuse": 3.923862583
+  },
+  "speedup": 1.1373026299763846,
+  "time_reduction_percent": 12.072655628980266,
+  "raw": {
+    "Original-Combined": [
+      {
+        "algorithm": "OPS-Miner-ScanAndFusionReuse",
+        "fusion_cache_key": "(prefix_pattern, suffix_pattern, C)",
+        "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/OPS-data-main9/03_astronomy_kepler/03_astronomy_kepler_approx16MiB.f64",
+        "window": 20000,
+        "step": 2000,
+        "minsup": 10,
+        "windows": 850,
+        "patterns_total": 1072940,
+        "patterns_mean_per_window": 1262.2823529411764,
+        "fusion_cache_hits": 1036154,
+        "fusion_cache_misses": 35086,
+        "fusion_cache_entries": 35086,
+        "fusion_cache_hit_rate": 0.9672473021918524,
+        "elapsed_seconds": 3.450148166,
+        "peak_rss_mib": 80.4375
+      }
+    ],
+    "OPS-NoReuse": [
+      {
+        "algorithm": "OPS-NoReuse",
+        "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/OPS-data-main9/03_astronomy_kepler/03_astronomy_kepler_approx16MiB.f64",
+        "data_length": 2005671,
+        "source_series": 16,
+        "window": 20000,
+        "step": 2000,
+        "minsup": 10,
+        "count_semantics": "frequent patterns",
+        "windows": 850,
+        "patterns_total": 1072940,
+        "patterns_min": 898,
+        "patterns_max": 2846,
+        "elapsed_seconds": 3.923862583,
+        "patterns_mean_per_window": 1262.2823529411764,
+        "peak_rss_bytes": 84004864,
+        "peak_rss_mib": 80.11328125
+      }
+    ]
+  }
+}

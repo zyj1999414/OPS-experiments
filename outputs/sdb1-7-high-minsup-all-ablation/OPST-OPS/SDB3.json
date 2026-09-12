@@ -1,0 +1,14 @@
+{
+  "algorithm": "OPST-OPS",
+  "dataset": "SDB3",
+  "minsup": 40,
+  "window": 15000,
+  "step": 1500,
+  "windows": 57,
+  "status": "measured",
+  "elapsed_seconds": 8.100911959,
+  "peak_rss_mib": 66.6875,
+  "patterns_total": 6424,
+  "first_window_seconds": 0.208880459,
+  "initial_estimate_seconds": 11.906186163
+}

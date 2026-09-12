@@ -1,0 +1,20 @@
+{
+  "algorithm": "EFO-OPS",
+  "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/OPS-data-main9/03_astronomy_kepler/03_astronomy_kepler_approx16MiB.f64",
+  "data_length": 2005671,
+  "source_series": 16,
+  "window": 20000,
+  "step": 2000,
+  "minsup": 8,
+  "count_semantics": "frequent patterns",
+  "windows": 1,
+  "patterns_total": 1267,
+  "patterns_min": 1267,
+  "patterns_max": 1267,
+  "candidates_total": 4827,
+  "elapsed_seconds": 2.006848167,
+  "patterns_mean_per_window": 1267.0,
+  "peak_rss_bytes": 33984512,
+  "peak_rss_mib": 32.41015625,
+  "candidates_mean_per_window": 4827.0
+}

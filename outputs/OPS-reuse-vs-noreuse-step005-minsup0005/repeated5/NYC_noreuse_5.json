@@ -1,0 +1,18 @@
+{
+  "algorithm": "OPS-NoReuse",
+  "dataset": "OPS-data-main9/00_transport_nyc/00_transport_nyc_256KiB.f64",
+  "data_length": 32768,
+  "source_series": 1,
+  "window": 20000,
+  "step": 1000,
+  "minsup": 10,
+  "count_semantics": "frequent patterns",
+  "windows": 13,
+  "patterns_total": 12044,
+  "patterns_min": 913,
+  "patterns_max": 933,
+  "elapsed_seconds": 0.07368925,
+  "patterns_mean_per_window": 926.4615384615385,
+  "peak_rss_bytes": 48721920,
+  "peak_rss_mib": 46.46484375
+}

@@ -1,0 +1,20 @@
+{
+  "algorithm": "OPS-Enum",
+  "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/work/sdb1-8-f64/SDB1_GOOG.f64",
+  "data_length": 5484,
+  "source_series": 1,
+  "window": 1000,
+  "step": 100,
+  "minsup": 40,
+  "count_semantics": "frequent patterns",
+  "windows": 1,
+  "patterns_total": 19,
+  "patterns_min": 19,
+  "patterns_max": 19,
+  "candidates_total": null,
+  "elapsed_seconds": 0.0011907089999999981,
+  "patterns_mean_per_window": 19.0,
+  "peak_rss_bytes": 27725824,
+  "peak_rss_mib": 26.44140625,
+  "candidates_mean_per_window": null
+}

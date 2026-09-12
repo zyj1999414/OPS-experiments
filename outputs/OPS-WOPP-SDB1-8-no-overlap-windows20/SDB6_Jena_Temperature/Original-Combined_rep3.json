@@ -1,0 +1,17 @@
+{
+  "algorithm": "OPS-Miner-ScanAndFusionReuse",
+  "fusion_cache_key": "(prefix_pattern, suffix_pattern, C)",
+  "dataset": "work/sdb1-8-f64/SDB6_Jena_Temperature.f64",
+  "window": 21027,
+  "step": 21027,
+  "minsup": 11,
+  "windows": 20,
+  "patterns_total": 28074,
+  "patterns_mean_per_window": 1403.7,
+  "fusion_cache_hits": 25624,
+  "fusion_cache_misses": 2626,
+  "fusion_cache_entries": 2626,
+  "fusion_cache_hit_rate": 0.9070442477876106,
+  "elapsed_seconds": 0.195469291,
+  "peak_rss_mib": 58.81640625
+}

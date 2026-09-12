@@ -1,0 +1,17 @@
+{
+  "algorithm": "OPS-Miner-ScanAndFusionReuse",
+  "fusion_cache_key": "(prefix_pattern, suffix_pattern, C)",
+  "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/work/sdb1-8-f64/SDB6_Jena_Temperature.f64",
+  "window": 84110,
+  "step": 8411,
+  "minsup": 42,
+  "windows": 41,
+  "patterns_total": 56720,
+  "patterns_mean_per_window": 1383.4146341463415,
+  "fusion_cache_hits": 55287,
+  "fusion_cache_misses": 1801,
+  "fusion_cache_entries": 1801,
+  "fusion_cache_hit_rate": 0.9684522141255605,
+  "elapsed_seconds": 0.532346958,
+  "peak_rss_mib": 87.8125
+}

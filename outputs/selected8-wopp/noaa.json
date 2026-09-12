@@ -1,0 +1,14 @@
+{
+  "algorithm": "WOPP-Miner",
+  "dataset": "OPS-data-main9/02_weather_noaa_uscrn/02_weather_noaa_uscrn_4MiB.f64",
+  "data_length": 524288,
+  "source_series": 1,
+  "window": 50000,
+  "step": 5000,
+  "minsup": 8,
+  "windows": 95,
+  "patterns_total": 62149,
+  "patterns_mean_per_window": 654.2,
+  "elapsed_seconds": 3.11809175,
+  "peak_rss_mib": 58.73828125
+}

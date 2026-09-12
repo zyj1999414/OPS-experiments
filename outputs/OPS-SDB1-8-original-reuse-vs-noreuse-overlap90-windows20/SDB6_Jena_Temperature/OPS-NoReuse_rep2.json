@@ -1,0 +1,18 @@
+{
+  "algorithm": "OPS-NoReuse",
+  "dataset": "work/sdb1-8-f64/SDB6_Jena_Temperature.f64",
+  "data_length": 420551,
+  "source_series": 1,
+  "window": 145018,
+  "step": 14501,
+  "minsup": 73,
+  "count_semantics": "frequent patterns",
+  "windows": 20,
+  "patterns_total": 27289,
+  "patterns_min": 1321,
+  "patterns_max": 1427,
+  "elapsed_seconds": 0.42637575,
+  "patterns_mean_per_window": 1364.45,
+  "peak_rss_bytes": 122888192,
+  "peak_rss_mib": 117.1953125
+}

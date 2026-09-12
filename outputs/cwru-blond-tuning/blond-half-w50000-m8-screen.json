@@ -1,0 +1,58 @@
+{
+  "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/OPS-data-main9/06_power_blond250/06_power_blond250_256MiB.f64",
+  "window": 50000,
+  "step": 5000,
+  "minsup": 8,
+  "prefix": 16777216,
+  "repetitions": 1,
+  "windows": 3346,
+  "patterns_total": 12644669,
+  "patterns_mean": 3779.040346682606,
+  "median_seconds": {
+    "Original-Combined": 34.345276166000005,
+    "OPS-NoReuse": 40.514342875
+  },
+  "speedup": 1.1796190742267794,
+  "time_reduction_percent": 15.226870957857031,
+  "raw": {
+    "Original-Combined": [
+      {
+        "algorithm": "OPS-Miner-ScanAndFusionReuse",
+        "fusion_cache_key": "(prefix_pattern, suffix_pattern, C)",
+        "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/OPS-data-main9/06_power_blond250/06_power_blond250_256MiB.f64",
+        "window": 50000,
+        "step": 5000,
+        "minsup": 8,
+        "windows": 3346,
+        "patterns_total": 12644669,
+        "patterns_mean_per_window": 3779.040346682606,
+        "fusion_cache_hits": 12684640,
+        "fusion_cache_misses": 11695,
+        "fusion_cache_entries": 11695,
+        "fusion_cache_hit_rate": 0.9990788680355394,
+        "elapsed_seconds": 34.345276166000005,
+        "peak_rss_mib": 272.54296875
+      }
+    ],
+    "OPS-NoReuse": [
+      {
+        "algorithm": "OPS-NoReuse",
+        "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/OPS-data-main9/06_power_blond250/06_power_blond250_256MiB.f64",
+        "data_length": 33554432,
+        "source_series": 1,
+        "window": 50000,
+        "step": 5000,
+        "minsup": 8,
+        "count_semantics": "frequent patterns",
+        "windows": 3346,
+        "patterns_total": 12644669,
+        "patterns_min": 3686,
+        "patterns_max": 3895,
+        "elapsed_seconds": 40.514342875,
+        "patterns_mean_per_window": 3779.040346682606,
+        "peak_rss_bytes": 222048256,
+        "peak_rss_mib": 211.76171875
+      }
+    ]
+  }
+}

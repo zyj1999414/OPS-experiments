@@ -1,0 +1,17 @@
+{
+  "algorithm": "OPS-Miner-ScanAndFusionReuse",
+  "fusion_cache_key": "(prefix_pattern, suffix_pattern, C)",
+  "dataset": "OPS-data-main9/01_industrial_cwru/01_industrial_cwru_800KB.f64",
+  "window": 30000,
+  "step": 3000,
+  "minsup": 15,
+  "windows": 24,
+  "patterns_total": 45442,
+  "patterns_mean_per_window": 1893.4166666666667,
+  "fusion_cache_hits": 42843,
+  "fusion_cache_misses": 2591,
+  "fusion_cache_entries": 2591,
+  "fusion_cache_hit_rate": 0.9429722234449971,
+  "elapsed_seconds": 0.25046729199999995,
+  "peak_rss_mib": 69.73046875
+}

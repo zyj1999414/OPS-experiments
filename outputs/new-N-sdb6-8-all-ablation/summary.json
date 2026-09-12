@@ -1,0 +1,323 @@
+[
+  {
+    "algorithm": "OPS-SPF",
+    "dataset": "SDB6",
+    "status": "measured",
+    "elapsed_seconds": 133.33561741600002,
+    "peak_rss_mib": 50.5625,
+    "patterns_total": 41968,
+    "patterns_mean_per_window": 378.0900900900901,
+    "first_window_seconds": 1.211925292,
+    "windows": 111
+  },
+  {
+    "algorithm": "OPS-SPF",
+    "dataset": "SDB7",
+    "status": "estimated",
+    "estimated_seconds": 210.331644628,
+    "first_window_seconds": 1.813203833,
+    "first_window_peak_rss_mib": 36.01953125,
+    "first_window_patterns": 559,
+    "windows": 116
+  },
+  {
+    "algorithm": "OPS-SPF",
+    "dataset": "SDB8",
+    "status": "estimated",
+    "estimated_seconds": 239.58546675,
+    "first_window_seconds": 2.01332325,
+    "first_window_peak_rss_mib": 36.28125,
+    "first_window_patterns": 533,
+    "windows": 119
+  },
+  {
+    "algorithm": "OPS-ISC",
+    "dataset": "SDB6",
+    "status": "measured",
+    "elapsed_seconds": 23.489900707999997,
+    "peak_rss_mib": 152.6796875,
+    "patterns_total": 41968,
+    "patterns_mean_per_window": 378.0900900900901,
+    "first_window_seconds": 0.382833709,
+    "windows": 111
+  },
+  {
+    "algorithm": "OPS-ISC",
+    "dataset": "SDB7",
+    "status": "measured",
+    "elapsed_seconds": 54.186585042,
+    "peak_rss_mib": 155.29296875,
+    "patterns_total": 65604,
+    "patterns_mean_per_window": 565.551724137931,
+    "first_window_seconds": 0.639065708,
+    "windows": 116
+  },
+  {
+    "algorithm": "OPS-ISC",
+    "dataset": "SDB8",
+    "status": "measured",
+    "elapsed_seconds": 53.4816295,
+    "peak_rss_mib": 179.07421875,
+    "patterns_total": 61821,
+    "patterns_mean_per_window": 519.5042016806723,
+    "first_window_seconds": 0.661327291,
+    "windows": 119
+  },
+  {
+    "algorithm": "OPS-PF",
+    "dataset": "SDB6",
+    "status": "measured",
+    "elapsed_seconds": 7.319856916,
+    "peak_rss_mib": 58.8359375,
+    "patterns_total": 41968,
+    "patterns_mean_per_window": 378.0900900900901,
+    "first_window_seconds": 0.158121792,
+    "windows": 111
+  },
+  {
+    "algorithm": "OPS-PF",
+    "dataset": "SDB7",
+    "status": "measured",
+    "elapsed_seconds": 43.167827041,
+    "peak_rss_mib": 61.8984375,
+    "patterns_total": 65604,
+    "patterns_mean_per_window": 565.551724137931,
+    "first_window_seconds": 0.44104299999999996,
+    "windows": 116
+  },
+  {
+    "algorithm": "OPS-PF",
+    "dataset": "SDB8",
+    "status": "measured",
+    "elapsed_seconds": 34.040214583,
+    "peak_rss_mib": 78.453125,
+    "patterns_total": 61821,
+    "patterns_mean_per_window": 519.5042016806723,
+    "first_window_seconds": 0.382413209,
+    "windows": 119
+  },
+  {
+    "algorithm": "OPS-Enum",
+    "dataset": "SDB6",
+    "status": "measured",
+    "elapsed_seconds": 0.9785786249999999,
+    "peak_rss_mib": 85.68359375,
+    "patterns_total": 41968,
+    "patterns_mean_per_window": 378.0900900900901,
+    "first_window_seconds": 0.010480374999999986,
+    "windows": 111
+  },
+  {
+    "algorithm": "OPS-Enum",
+    "dataset": "SDB7",
+    "status": "measured",
+    "elapsed_seconds": 1.3188097079999999,
+    "peak_rss_mib": 89.05078125,
+    "patterns_total": 65604,
+    "patterns_mean_per_window": 565.551724137931,
+    "first_window_seconds": 0.024532166999999994,
+    "windows": 116
+  },
+  {
+    "algorithm": "OPS-Enum",
+    "dataset": "SDB8",
+    "status": "measured",
+    "elapsed_seconds": 1.25568275,
+    "peak_rss_mib": 112.23046875,
+    "patterns_total": 61821,
+    "patterns_mean_per_window": 519.5042016806723,
+    "first_window_seconds": 0.023483167,
+    "windows": 119
+  },
+  {
+    "algorithm": "OPS-NoReuse",
+    "dataset": "SDB6",
+    "status": "measured",
+    "elapsed_seconds": 0.415108125,
+    "peak_rss_mib": 84.28515625,
+    "patterns_total": 41968,
+    "patterns_mean_per_window": 378.0900900900901,
+    "windows": 111
+  },
+  {
+    "algorithm": "OPS-NoReuse",
+    "dataset": "SDB7",
+    "status": "measured",
+    "elapsed_seconds": 0.570108625,
+    "peak_rss_mib": 92.8515625,
+    "patterns_total": 65604,
+    "patterns_mean_per_window": 565.551724137931,
+    "windows": 116
+  },
+  {
+    "algorithm": "OPS-NoReuse",
+    "dataset": "SDB8",
+    "status": "measured",
+    "elapsed_seconds": 0.615223916,
+    "peak_rss_mib": 110.50390625,
+    "patterns_total": 61821,
+    "patterns_mean_per_window": 519.5042016806723,
+    "windows": 119
+  },
+  {
+    "algorithm": "EFO-OPS",
+    "dataset": "SDB6",
+    "status": "measured",
+    "elapsed_seconds": 124.11814091699999,
+    "peak_rss_mib": 51.8046875,
+    "patterns_total": 41968,
+    "patterns_mean_per_window": 378.0900900900901,
+    "first_window_seconds": 1.126775958,
+    "windows": 111
+  },
+  {
+    "algorithm": "EFO-OPS",
+    "dataset": "SDB7",
+    "status": "measured",
+    "elapsed_seconds": 172.809708167,
+    "peak_rss_mib": 58.9609375,
+    "patterns_total": 65604,
+    "patterns_mean_per_window": 565.551724137931,
+    "first_window_seconds": 1.556942042,
+    "windows": 116
+  },
+  {
+    "algorithm": "EFO-OPS",
+    "dataset": "SDB8",
+    "status": "estimated",
+    "estimated_seconds": 215.55543487100002,
+    "first_window_seconds": 1.811390209,
+    "first_window_peak_rss_mib": 41.140625,
+    "first_window_patterns": 533,
+    "windows": 119
+  },
+  {
+    "algorithm": "OPF-OPS",
+    "dataset": "SDB6",
+    "status": "measured",
+    "elapsed_seconds": 54.421325584,
+    "peak_rss_mib": 64.1953125,
+    "patterns_total": 41968,
+    "patterns_mean_per_window": 378.0900900900901,
+    "first_window_seconds": 0.543368709,
+    "windows": 111
+  },
+  {
+    "algorithm": "OPF-OPS",
+    "dataset": "SDB7",
+    "status": "measured",
+    "elapsed_seconds": 81.56836779199999,
+    "peak_rss_mib": 71.65234375,
+    "patterns_total": 65604,
+    "patterns_mean_per_window": 565.551724137931,
+    "first_window_seconds": 0.7326985420000001,
+    "windows": 116
+  },
+  {
+    "algorithm": "OPF-OPS",
+    "dataset": "SDB8",
+    "status": "measured",
+    "elapsed_seconds": 97.65967858399999,
+    "peak_rss_mib": 82.45703125,
+    "patterns_total": 61821,
+    "patterns_mean_per_window": 519.5042016806723,
+    "first_window_seconds": 0.9023489170000001,
+    "windows": 119
+  },
+  {
+    "algorithm": "SOPP-OPS",
+    "dataset": "SDB6",
+    "status": "measured",
+    "elapsed_seconds": 9.370657750000001,
+    "peak_rss_mib": 135.1953125,
+    "patterns_total": 41968,
+    "patterns_mean_per_window": 378.0900900900901,
+    "first_window_seconds": 0.14803754200000002,
+    "windows": 111
+  },
+  {
+    "algorithm": "SOPP-OPS",
+    "dataset": "SDB7",
+    "status": "measured",
+    "elapsed_seconds": 12.555488209,
+    "peak_rss_mib": 142.59765625,
+    "patterns_total": 65604,
+    "patterns_mean_per_window": 565.551724137931,
+    "first_window_seconds": 0.18298379099999998,
+    "windows": 116
+  },
+  {
+    "algorithm": "SOPP-OPS",
+    "dataset": "SDB8",
+    "status": "measured",
+    "elapsed_seconds": 14.947864083999999,
+    "peak_rss_mib": 150.4921875,
+    "patterns_total": 61821,
+    "patterns_mean_per_window": 519.5042016806723,
+    "first_window_seconds": 0.211835209,
+    "windows": 119
+  },
+  {
+    "algorithm": "OPST-OPS",
+    "dataset": "SDB6",
+    "status": "measured",
+    "elapsed_seconds": 55.598972875,
+    "peak_rss_mib": 142.671875,
+    "patterns_total": 18701,
+    "patterns_mean_per_window": 168.47747747747746,
+    "first_window_seconds": 0.51976475,
+    "windows": 111
+  },
+  {
+    "algorithm": "OPST-OPS",
+    "dataset": "SDB7",
+    "status": "measured",
+    "elapsed_seconds": 68.338427708,
+    "peak_rss_mib": 152.65234375,
+    "patterns_total": 48122,
+    "patterns_mean_per_window": 414.8448275862069,
+    "first_window_seconds": 0.6124635,
+    "windows": 116
+  },
+  {
+    "algorithm": "OPST-OPS",
+    "dataset": "SDB8",
+    "status": "measured",
+    "elapsed_seconds": 85.20666520799999,
+    "peak_rss_mib": 157.578125,
+    "patterns_total": 43025,
+    "patterns_mean_per_window": 361.5546218487395,
+    "first_window_seconds": 0.718983959,
+    "windows": 119
+  },
+  {
+    "algorithm": "OPS-Miner",
+    "dataset": "SDB6",
+    "status": "measured",
+    "elapsed_seconds": 0.39052912500000003,
+    "peak_rss_mib": 78.50390625,
+    "patterns_total": 41968,
+    "patterns_mean_per_window": 378.0900900900901,
+    "windows": 111
+  },
+  {
+    "algorithm": "OPS-Miner",
+    "dataset": "SDB7",
+    "status": "measured",
+    "elapsed_seconds": 0.524975458,
+    "peak_rss_mib": 82.98828125,
+    "patterns_total": 65604,
+    "patterns_mean_per_window": 565.551724137931,
+    "windows": 116
+  },
+  {
+    "algorithm": "OPS-Miner",
+    "dataset": "SDB8",
+    "status": "measured",
+    "elapsed_seconds": 0.587584208,
+    "peak_rss_mib": 113.8125,
+    "patterns_total": 61821,
+    "patterns_mean_per_window": 519.5042016806723,
+    "windows": 119
+  }
+]

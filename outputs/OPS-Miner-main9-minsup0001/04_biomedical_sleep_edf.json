@@ -1,0 +1,17 @@
+{
+  "algorithm": "OPS-Miner",
+  "dataset": "OPS-data-main9/04_biomedical_sleep_edf/04_biomedical_sleep_edf_approx64MiB.f64",
+  "data_length": 8490000,
+  "source_series": 1,
+  "window": 600000,
+  "step": 60000,
+  "minsup": 60,
+  "windows": 132,
+  "patterns_total": 779268,
+  "patterns_min": 5093,
+  "patterns_max": 6541,
+  "patterns_mean_per_window": 5903.545454545455,
+  "elapsed_seconds": 10.326901875,
+  "peak_rss_bytes": 682422272,
+  "peak_rss_mib": 650.80859375
+}

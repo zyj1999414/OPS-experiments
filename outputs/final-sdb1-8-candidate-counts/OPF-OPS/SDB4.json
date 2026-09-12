@@ -1,0 +1,20 @@
+{
+  "algorithm": "OPF-OPS",
+  "dataset": "OPS-data-main9/04_biomedical_sleep_edf/04_biomedical_sleep_edf_approx64MiB.f64",
+  "data_length": 8490000,
+  "source_series": 1,
+  "window": 16000,
+  "step": 1600,
+  "minsup": 40,
+  "count_semantics": "frequent patterns",
+  "windows": 253,
+  "patterns_total": 53318,
+  "patterns_min": 176,
+  "patterns_max": 235,
+  "candidates_total": 169593,
+  "elapsed_seconds": 35.883744667,
+  "patterns_mean_per_window": 210.74308300395256,
+  "peak_rss_bytes": 42246144,
+  "peak_rss_mib": 40.2890625,
+  "candidates_mean_per_window": 670.3280632411067
+}

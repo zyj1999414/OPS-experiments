@@ -1,0 +1,20 @@
+{
+  "algorithm": "OPS-Enum",
+  "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/OPS-data-main9/06_power_blond250/06_power_blond250_256MiB.f64",
+  "data_length": 33554432,
+  "source_series": 1,
+  "window": 10000,
+  "step": 1000,
+  "minsup": 40,
+  "count_semantics": "frequent patterns",
+  "windows": 449,
+  "patterns_total": 70909,
+  "patterns_min": 153,
+  "patterns_max": 163,
+  "candidates_total": 393099,
+  "elapsed_seconds": 1.025037,
+  "patterns_mean_per_window": 157.92650334075725,
+  "peak_rss_bytes": 49704960,
+  "peak_rss_mib": 47.40234375,
+  "candidates_mean_per_window": 875.4988864142539
+}

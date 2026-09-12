@@ -1,0 +1,13 @@
+{
+  "algorithm": "WOPP-Miner",
+  "dataset": "/Users/zyj/Documents/Codex/2026-08-17/qin/work/input/woppdata/SDB2_Appliances.txt",
+  "data_length": 19735,
+  "window": 6805,
+  "step": 680,
+  "minsup": 3,
+  "windows": 20,
+  "patterns_total": 4179,
+  "patterns_mean_per_window": 208.95,
+  "elapsed_seconds": 0.072320875,
+  "peak_rss_mib": 15.66796875
+}

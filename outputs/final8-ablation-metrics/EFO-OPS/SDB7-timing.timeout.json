@@ -1,0 +1,8 @@
+{
+  "algorithm": "EFO-OPS",
+  "dataset": "SDB7",
+  "metric_run": "timing",
+  "status": "timeout",
+  "timeout_seconds": 180.0,
+  "elapsed_wall_seconds": 180.0082942500003
+}

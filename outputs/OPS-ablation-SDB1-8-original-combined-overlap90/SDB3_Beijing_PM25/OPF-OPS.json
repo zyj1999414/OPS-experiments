@@ -1,0 +1,18 @@
+{
+  "algorithm": "OPF-OPS",
+  "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/work/sdb1-8-f64/SDB3_Beijing_PM25.f64",
+  "data_length": 41757,
+  "source_series": 1,
+  "window": 8351,
+  "step": 835,
+  "minsup": 4,
+  "count_semantics": "frequent patterns",
+  "windows": 41,
+  "patterns_total": 42963,
+  "patterns_min": 994,
+  "patterns_max": 1104,
+  "elapsed_seconds": 18.564929584,
+  "patterns_mean_per_window": 1047.878048780488,
+  "peak_rss_bytes": 31490048,
+  "peak_rss_mib": 30.03125
+}

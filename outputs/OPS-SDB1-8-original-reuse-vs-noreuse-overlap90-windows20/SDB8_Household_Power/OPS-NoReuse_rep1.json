@@ -1,0 +1,18 @@
+{
+  "algorithm": "OPS-NoReuse",
+  "dataset": "work/sdb1-8-f64/SDB8_Household_Power.f64",
+  "data_length": 2049280,
+  "source_series": 1,
+  "window": 706648,
+  "step": 70664,
+  "minsup": 353,
+  "count_semantics": "frequent patterns",
+  "windows": 20,
+  "patterns_total": 9480,
+  "patterns_min": 442,
+  "patterns_max": 496,
+  "elapsed_seconds": 0.5729378749999999,
+  "patterns_mean_per_window": 474.0,
+  "peak_rss_bytes": 301576192,
+  "peak_rss_mib": 287.60546875
+}

@@ -1,0 +1,58 @@
+{
+  "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/OPS-data/05_transport_nyc_tlc/05_transport_nyc_tlc_640MiB.f64",
+  "window": 10000,
+  "step": 1000,
+  "minsup": 3,
+  "prefix": 2009000,
+  "repetitions": 1,
+  "windows": 2000,
+  "patterns_total": 5070194,
+  "patterns_mean": 2535.097,
+  "median_seconds": {
+    "Original-Combined": 8.183850167,
+    "OPS-NoReuse": 9.838579834
+  },
+  "speedup": 1.202194521311304,
+  "time_reduction_percent": 16.818785789404423,
+  "raw": {
+    "Original-Combined": [
+      {
+        "algorithm": "OPS-Miner-ScanAndFusionReuse",
+        "fusion_cache_key": "(prefix_pattern, suffix_pattern, C)",
+        "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/OPS-data/05_transport_nyc_tlc/05_transport_nyc_tlc_640MiB.f64",
+        "window": 10000,
+        "step": 1000,
+        "minsup": 3,
+        "windows": 2000,
+        "patterns_total": 5070194,
+        "patterns_mean_per_window": 2535.097,
+        "fusion_cache_hits": 5037449,
+        "fusion_cache_misses": 31438,
+        "fusion_cache_entries": 31438,
+        "fusion_cache_hit_rate": 0.993797849508186,
+        "elapsed_seconds": 8.183850167,
+        "peak_rss_mib": 73.50390625
+      }
+    ],
+    "OPS-NoReuse": [
+      {
+        "algorithm": "OPS-NoReuse",
+        "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/OPS-data/05_transport_nyc_tlc/05_transport_nyc_tlc_640MiB.f64",
+        "data_length": 83886080,
+        "source_series": 1,
+        "window": 10000,
+        "step": 1000,
+        "minsup": 3,
+        "count_semantics": "frequent patterns",
+        "windows": 2000,
+        "patterns_total": 5070194,
+        "patterns_min": 2458,
+        "patterns_max": 2626,
+        "elapsed_seconds": 9.838579834,
+        "patterns_mean_per_window": 2535.097,
+        "peak_rss_bytes": 64700416,
+        "peak_rss_mib": 61.703125
+      }
+    ]
+  }
+}

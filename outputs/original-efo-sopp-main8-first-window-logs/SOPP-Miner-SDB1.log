@@ -1,0 +1,7 @@
+频繁模式 19
+候选模式： 41
+SOPP 0
+内存 0.23046875
+时间 0.002611875534057617
+{"algorithm": "SOPP-Miner", "dataset": "SDB1", "window_index": 1, "window_size": 1000, "minsup": 40, "elapsed_seconds": 0.0029897910000000194, "peak_rss_mib": 33.39453125, "frequent_patterns": 19, "candidate_patterns": 0}
+

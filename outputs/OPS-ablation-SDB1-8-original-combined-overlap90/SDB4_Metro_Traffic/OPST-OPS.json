@@ -1,0 +1,18 @@
+{
+  "algorithm": "OPST-OPS",
+  "dataset": "/Users/zyj/Documents/Codex/2026-08-30/qin/work/sdb1-8-f64/SDB4_Metro_Traffic.f64",
+  "data_length": 48204,
+  "source_series": 1,
+  "window": 9641,
+  "step": 964,
+  "minsup": 5,
+  "count_semantics": "maximal frequent patterns",
+  "windows": 41,
+  "patterns_total": 17360,
+  "patterns_min": 394,
+  "patterns_max": 447,
+  "elapsed_seconds": 4.0190466250000005,
+  "patterns_mean_per_window": 423.4146341463415,
+  "peak_rss_bytes": 61079552,
+  "peak_rss_mib": 58.25
+}
